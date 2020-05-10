@@ -1,0 +1,6 @@
+The following changes have been made to the original data:
+
+row	initial							changed_to
+
+334228	<ORTSZUSATZ>(Eppelborn))</ORTSZUSATZ>		->	<ORTSZUSATZ>(Eppelborn)</ORTSZUSATZ>
+352145	<GEBURTSORT>Meran ( Südtirol )</GEBURTSORT>	->	<GEBURTSORT>Meran (Südtirol)</GEBURTSORT>

@@ -1,0 +1,7053 @@
+Trump	PERSON
+Abelein	PERSON
+Manfred	PERSON
+Achenbach	PERSON
+Ernst	PERSON
+Ackermann	PERSON
+Annemarie	PERSON
+Else	PERSON
+Adam	PERSON
+Ulrich	PERSON
+Adams	PERSON
+Rudolf	PERSON
+Adelmann	PERSON
+Raban	PERSON
+Adenauer	PERSON
+Konrad	PERSON
+Adler	PERSON
+Brigitte	PERSON
+Adorno	PERSON
+Eduard	PERSON
+Aerssen	PERSON
+Jochen	PERSON
+Agatz	PERSON
+Willi	PERSON
+Ahlers	PERSON
+Conrad	PERSON
+Ahrens	PERSON
+Adolf	PERSON
+Hermann	PERSON
+Karl	PERSON
+Aigner	PERSON
+Heinrich	PERSON
+Alber	PERSON
+Siegbert	PERSON
+Albers	PERSON
+Johannes	PERSON
+Albertz	PERSON
+Luise	PERSON
+Albowitz	PERSON
+Ina	PERSON
+Albowitz-Freytag	PERSON
+Albrecht	PERSON
+Lisa	PERSON
+Michael	PERSON
+Alltschekow	PERSON
+Peter	PERSON
+Alten-Nordheim	PERSON
+Odal	PERSON
+Althammer	PERSON
+Walter	PERSON
+Altherr	PERSON
+Altmaier	PERSON
+Jakob	PERSON
+Altvater	PERSON
+Wilhelm	PERSON
+Amelunxen	PERSON
+Amende	PERSON
+Andreas	PERSON
+Amling	PERSON
+Max	PERSON
+Amrehn	PERSON
+Franz	PERSON
+Anbuhl	PERSON
+Jürgen	PERSON
+Anders	PERSON
+Artur	PERSON
+Andres	PERSON
+Gerd	PERSON
+Angermeyer	PERSON
+Joachim	PERSON
+Annies	PERSON
+Dieter	PERSON
+Ansorge	PERSON
+Maria	PERSON
+Antretter	PERSON
+Robert	PERSON
+Apel	PERSON
+Hans	PERSON
+Arendt	PERSON
+Aretin	PERSON
+Anton	PERSON
+Arndgen	PERSON
+Josef	PERSON
+Arndt	PERSON
+Claus	PERSON
+Klaus Dieter	PERSON
+Arnholz	PERSON
+Otto	PERSON
+Arnold	PERSON
+Gottfried	PERSON
+Thea	PERSON
+Artzinger	PERSON
+Helmut	PERSON
+Aschoff	PERSON
+Assmann	PERSON
+Heinz	PERSON
+Atzenroth	PERSON
+Auch	PERSON
+Auge	PERSON
+Augstein	PERSON
+Hans-Jürgen	PERSON
+Augustin	PERSON
+Anneliese	PERSON
+Augustinowitz	PERSON
+Auhagen	PERSON
+Hendrik	PERSON
+Aumer	PERSON
+Austermann	PERSON
+Dietrich	PERSON
+Baack	PERSON
+Herbert	PERSON
+Baade	PERSON
+Fritz	PERSON
+Babel	PERSON
+Gisela	PERSON
+Bach	PERSON
+Franz Josef	PERSON
+Bachmaier	PERSON
+Bading	PERSON
+Harri	PERSON
+Bärsch	PERSON
+Siegfried	PERSON
+Baeuchle	PERSON
+Hans-Joachim	PERSON
+Bäuerle	PERSON
+Bäumer	PERSON
+Bahlburg	PERSON
+Bahner	PERSON
+Bahr	PERSON
+Egon	PERSON
+Baier	PERSON
+Baldauf	PERSON
+Albert	PERSON
+Balke	PERSON
+Balkenhol	PERSON
+Bernhard	PERSON
+Bals	PERSON
+Balser	PERSON
+Frolinde	PERSON
+Baltes	PERSON
+Bamberg	PERSON
+Georg	PERSON
+Bangemann	PERSON
+Martin	PERSON
+Banse	PERSON
+Barbe	PERSON
+Angelika	PERSON
+Barche	PERSON
+Bard	PERSON
+Sabine	PERSON
+Bard-Kröniger	PERSON
+Bardens	PERSON
+Bargfrede	PERSON
+Heinz-Günter	PERSON
+Barlage	PERSON
+Bartels	PERSON
+Wolfgang	PERSON
+Barthel	PERSON
+Lothar	PERSON
+Bartram	PERSON
+Bartsch	PERSON
+Holger	PERSON
+Willy	PERSON
+Barzel	PERSON
+Rainer	PERSON
+Bastian	PERSON
+Gert	PERSON
+Batz	PERSON
+Bauer	PERSON
+Hannsheinz	PERSON
+Harald	PERSON
+Wolf	PERSON
+Bauereisen	PERSON
+Friedrich	PERSON
+Bauknecht	PERSON
+Baum	PERSON
+Gerhart Rudolf	PERSON
+Baumeister	PERSON
+Baumgartner	PERSON
+Baur	PERSON
+Valentin	PERSON
+Bausch	PERSON
+Paul	PERSON
+Bay	PERSON
+Bayerl	PERSON
+Alfons	PERSON
+Bayern	PERSON
+Konstantin	PERSON
+Bayha	PERSON
+Richard	PERSON
+Bazille	PERSON
+Becher	PERSON
+Bechert	PERSON
+Becker	PERSON
+Curt	PERSON
+Helmuth	PERSON
+Roland	PERSON
+Becker-Inglau	PERSON
+Ingrid	PERSON
+Beckmann	PERSON
+Klaus	PERSON
+Beer	PERSON
+Beermann	PERSON
+Behrendt	PERSON
+Behrisch	PERSON
+Arno	PERSON
+Belle	PERSON
+Meinrad	PERSON
+Benda	PERSON
+Bender	PERSON
+Reinhold F.	PERSON
+Benedix	PERSON
+Ursula	PERSON
+Benedix-Engler	PERSON
+Bennemann	PERSON
+Franziska	PERSON
+Benz	PERSON
+Gerold	PERSON
+Berberich	PERSON
+August	PERSON
+Berding	PERSON
+Berendsen	PERSON
+Berg	PERSON
+Berger	PERSON
+Lieselotte	PERSON
+Markus	PERSON
+Heise	PERSON
+Margarete	PERSON
+Berger-Heise	PERSON
+Bergerowski	PERSON
+Wolfram	PERSON
+Bergmann	PERSON
+Bergmann-Pohl	PERSON
+Bergmeyer	PERSON
+Bernhard Gerhard	PERSON
+Bergstraesser	PERSON
+Ludwig	PERSON
+Berkhan	PERSON
+Karl Wilhelm	PERSON
+Berlin	PERSON
+Berners	PERSON
+Franz-Josef	PERSON
+Bernrath	PERSON
+Hans Gottfried	PERSON
+Bersch	PERSON
+Berschkeit	PERSON
+Erich	PERSON
+Bertram	PERSON
+Besch	PERSON
+Johann Christoph	PERSON
+Besold	PERSON
+Bettgenhäuser	PERSON
+Emil	PERSON
+Beucher	PERSON
+Friedhelm Julius	PERSON
+Beuster	PERSON
+Bewerunge	PERSON
+Beyer	PERSON
+Lucie	PERSON
+Kurlbaum-Beyer	PERSON
+Biechele	PERSON
+Biedenkopf	PERSON
+Kurt H.	PERSON
+Bieganowski	PERSON
+Anna Maria	PERSON
+Biegler	PERSON
+Biehle	PERSON
+Alfred	PERSON
+Bielig	PERSON
+Bieringer	PERSON
+Bierling	PERSON
+Hans-Dirk	PERSON
+Biermann	PERSON
+Günter	PERSON
+Bindig	PERSON
+Birkelbach	PERSON
+Birrenbach	PERSON
+Kurt	PERSON
+Birthler	PERSON
+Marianne	PERSON
+Bismarck	PERSON
+Philipp	PERSON
+Bittelmann	PERSON
+Bittner	PERSON
+Bläss-Rafajlovski	PERSON
+Petra	PERSON
+Blachstein	PERSON
+Blank	PERSON
+Joseph-Theodor	PERSON
+Renate	PERSON
+Theodor	PERSON
+Bleiß	PERSON
+Blens	PERSON
+Heribert	PERSON
+Bleser	PERSON
+Bleyler	PERSON
+Hildegard	PERSON
+Blöcker	PERSON
+Blohm	PERSON
+Irma	PERSON
+Blücher	PERSON
+Blügel	PERSON
+Blüm	PERSON
+Norbert	PERSON
+Blume	PERSON
+Blumenfeld	PERSON
+Erik Bernhard	PERSON
+Blunck	PERSON
+Lieselott	PERSON
+Blunk	PERSON
+Michaela	PERSON
+Bock	PERSON
+Bockelberg	PERSON
+Bodelschwingh	PERSON
+Bodensteiner	PERSON
+Böger	PERSON
+Rolf	PERSON
+Böhm	PERSON
+Wilfried	PERSON
+Böhme	PERSON
+Böhner	PERSON
+Börner	PERSON
+Börnsen	PERSON
+Arne	PERSON
+Bötsch	PERSON
+Bogisch	PERSON
+Frank	PERSON
+Bohl	PERSON
+Bohlsen	PERSON
+Bohn	PERSON
+Borchert	PERSON
+Borgmann	PERSON
+Borm	PERSON
+William	PERSON
+Boroffka	PERSON
+Bothmer	PERSON
+Lenelotte	PERSON
+Botz	PERSON
+Gerhard	PERSON
+Braband	PERSON
+Jutta	PERSON
+Brähmig	PERSON
+Brand	PERSON
+Hans-Ulrich	PERSON
+Peter Wilhelm	PERSON
+Brandes	PERSON
+Bruno	PERSON
+Brandt	PERSON
+Hugo	PERSON
+Brandt-Elsweier	PERSON
+Anni	PERSON
+Brauer	PERSON
+Hans-Jochim	PERSON
+Brauksiepe	PERSON
+Aenne	PERSON
+Braun	PERSON
+Braun-Stützer	PERSON
+Carola	PERSON
+Brecht	PERSON
+Eberhard	PERSON
+Julius	PERSON
+Bredehorn	PERSON
+Günther	PERSON
+Bredl	PERSON
+Wenzel	PERSON
+Breidbach	PERSON
+Ferdinand	PERSON
+Bremer	PERSON
+Bremm	PERSON
+Brenck	PERSON
+Brenner	PERSON
+Brentano	PERSON
+Brese	PERSON
+Breuer	PERSON
+Briefs	PERSON
+Brill	PERSON
+Hermann Louis	PERSON
+Brockmann	PERSON
+Brökelschen	PERSON
+Brönner	PERSON
+Broll	PERSON
+Werner	PERSON
+Bromme	PERSON
+Brookmann	PERSON
+Brosi	PERSON
+Brudlewsky	PERSON
+Monika	PERSON
+Brück	PERSON
+Alwin	PERSON
+Brühler	PERSON
+Ernst-Christoph	PERSON
+Brünen	PERSON
+Brüns	PERSON
+Brunner	PERSON
+Guido	PERSON
+Josef Adalbert	PERSON
+Brunnhuber	PERSON
+Brunnstein	PERSON
+Bruse	PERSON
+Bucerius	PERSON
+Bucher	PERSON
+Ewald	PERSON
+Buchka	PERSON
+Buchstaller	PERSON
+Buckpesch	PERSON
+Budde	PERSON
+Bueb	PERSON
+Büchler	PERSON
+Büchner	PERSON
+Bühler	PERSON
+Karl August	PERSON
+Bühling	PERSON
+Reinhard	PERSON
+Bülow	PERSON
+Bürkel	PERSON
+Büttner	PERSON
+Hartmut	PERSON
+Bugl	PERSON
+Bulmahn	PERSON
+Edelgard	PERSON
+Burchardt	PERSON
+Ulla	PERSON
+Burckardt	PERSON
+Burgbacher	PERSON
+Burgemeister	PERSON
+Burger	PERSON
+Burgmann	PERSON
+Bury	PERSON
+Hans Martin	PERSON
+Busch	PERSON
+Arthur H.	PERSON
+Buschbom	PERSON
+Buschfort	PERSON
+Busse	PERSON
+Bußmann	PERSON
+Buwitt	PERSON
+Dankward	PERSON
+Campe	PERSON
+Carl	PERSON
+Cantzler	PERSON
+Carstens	PERSON
+Carstensen	PERSON
+Peter H.	PERSON
+Caspers	PERSON
+Caspers-Merk	PERSON
+Marion	PERSON
+Catenhusen	PERSON
+Wolf-Michael	PERSON
+Christ	PERSON
+Cillien	PERSON
+Clausen	PERSON
+Clemens	PERSON
+Collet	PERSON
+Margit	PERSON
+Conradi	PERSON
+Conring	PERSON
+Coppik	PERSON
+Corterier	PERSON
+Cramer	PERSON
+Johann	PERSON
+Creter	PERSON
+Klaus-Peter	PERSON
+Cronenberg	PERSON
+Dieter-Julius	PERSON
+Curdt	PERSON
+Czaja	PERSON
+Czempiel	PERSON
+Christa	PERSON
+Czermak	PERSON
+Däubler-Gmelin	PERSON
+Herta	PERSON
+Dahlgrün	PERSON
+Dahrendorf	PERSON
+Ralf	PERSON
+Dallmeyer	PERSON
+Harm	PERSON
+Damm	PERSON
+Daniels	PERSON
+Dann	PERSON
+Heidemarie	PERSON
+Dannebom	PERSON
+Dannemann	PERSON
+Danz	PERSON
+Dasch	PERSON
+Daubertshäuser	PERSON
+Daum	PERSON
+Daweke	PERSON
+Decker	PERSON
+Degener	PERSON
+Dehler	PERSON
+Thomas	PERSON
+Dehm-Desoi	PERSON
+Jörg-Diether	PERSON
+Dehm	PERSON
+Diether	PERSON
+Dehnel	PERSON
+Deist	PERSON
+Delden	PERSON
+Rembert	PERSON
+Delorme	PERSON
+Demmelmeier	PERSON
+Dempwolf	PERSON
+Gertrud	PERSON
+Deneke	PERSON
+J.F. Volrad	PERSON
+Marlies	PERSON
+Deres	PERSON
+Deringer	PERSON
+Arved	PERSON
+Deß	PERSON
+Determann	PERSON
+Gregor	PERSON
+Dewald	PERSON
+Dewitz	PERSON
+Dichgans	PERSON
+Diebäcker	PERSON
+Diederich	PERSON
+Nils	PERSON
+Diedrichsen	PERSON
+Diekmann	PERSON
+Diel	PERSON
+Diemer-Nicolaus	PERSON
+Emmy	PERSON
+Diemers	PERSON
+Diepgen	PERSON
+Dietz	PERSON
+Diller	PERSON
+Dirscherl	PERSON
+Dittrich	PERSON
+Stefan	PERSON
+Dobberthien	PERSON
+Marliese	PERSON
+Döhring	PERSON
+Clara	PERSON
+Dörfler	PERSON
+Dörflinger	PERSON
+Döring	PERSON
+Dörinkel	PERSON
+Dohmann	PERSON
+Friedhelm	PERSON
+Dohnanyi	PERSON
+Dolata	PERSON
+Dollinger	PERSON
+Donhauser	PERSON
+Dopatka	PERSON
+Doppmeier	PERSON
+Hubert	PERSON
+Dorendorf	PERSON
+Hans-Georg	PERSON
+Dorls	PERSON
+Dorn	PERSON
+Dortans	PERSON
+Doss	PERSON
+Hansjürgen	PERSON
+Dowidat	PERSON
+Drabiniok	PERSON
+Drachsler	PERSON
+Dräger	PERSON
+Heidrun	PERSON
+Draeger	PERSON
+Drechsel	PERSON
+Dregger	PERSON
+Dresbach	PERSON
+Dreßler	PERSON
+Dreyer	PERSON
+Nicolaus	PERSON
+Dröscher	PERSON
+Dübber	PERSON
+Dürr	PERSON
+Duve	PERSON
+Freimut	PERSON
+Ebermann	PERSON
+Ebert	PERSON
+Eike	PERSON
+Echternach	PERSON
+Eckardt	PERSON
+Felix	PERSON
+Eckerland	PERSON
+Eckhardt	PERSON
+Eckstein	PERSON
+Edert	PERSON
+Effertz	PERSON
+Egert	PERSON
+Ehlers	PERSON
+Ehmke	PERSON
+Horst	PERSON
+Ehnes	PERSON
+Ehrbar	PERSON
+Udo	PERSON
+Ehren	PERSON
+Ehrenberg	PERSON
+Eich	PERSON
+Tay	PERSON
+Eichelbaum	PERSON
+Ernst Theodor	PERSON
+Eichhorn	PERSON
+Eichler	PERSON
+Eichner	PERSON
+Eickhoff	PERSON
+Eickmeyer	PERSON
+Karl-Arnold	PERSON
+Eid-Simon	PERSON
+Eid	PERSON
+Uschi	PERSON
+Eigen	PERSON
+Eilers	PERSON
+Elfriede	PERSON
+Jan	PERSON
+Eimer	PERSON
+Eisenmann	PERSON
+Ekstrand	PERSON
+Elbrächter	PERSON
+Alexander	PERSON
+Elchlepp	PERSON
+Elmer	PERSON
+Elsner	PERSON
+Ilse	PERSON
+Emde	PERSON
+Hans Georg	PERSON
+Emeis	PERSON
+Hans-Uwe	PERSON
+Emmerlich	PERSON
+Enders	PERSON
+Wendelin	PERSON
+Engel	PERSON
+Eva Sibylle	PERSON
+Engelbrecht-Greve	PERSON
+Engelhard	PERSON
+Hans A.	PERSON
+Engell	PERSON
+Hans-Egon	PERSON
+Engelmann	PERSON
+Engelsberger	PERSON
+Matthias	PERSON
+Engholm	PERSON
+Björn	PERSON
+Engländer	PERSON
+Enk	PERSON
+Arthur	PERSON
+Enkelmann	PERSON
+Dagmar	PERSON
+Enseling	PERSON
+Elisabeth	PERSON
+Entrup	PERSON
+Eplée	PERSON
+Hermann A.	PERSON
+Eppelmann	PERSON
+Eppler	PERSON
+Erhard	PERSON
+Benno	PERSON
+Erler	PERSON
+Gernot	PERSON
+Ernesti	PERSON
+Leo	PERSON
+Erpenbeck	PERSON
+Ertl	PERSON
+Eschmann	PERSON
+Essen	PERSON
+Jörg	PERSON
+Esters	PERSON
+Etzel	PERSON
+Etzenbach	PERSON
+Euler	PERSON
+August-Martin	PERSON
+Even	PERSON
+Bert	PERSON
+Evers	PERSON
+Ewen	PERSON
+Ewers	PERSON
+Exner	PERSON
+Karl-Heinz	PERSON
+Ey	PERSON
+Eylmann	PERSON
+Eymer	PERSON
+Anke	PERSON
+Ekkehart	PERSON
+Eyrich	PERSON
+Fache	PERSON
+Falk	PERSON
+Falke	PERSON
+Falkner	PERSON
+Faller	PERSON
+Faltlhauser	PERSON
+Farke	PERSON
+Ernst August	PERSON
+Farny	PERSON
+Oskar	PERSON
+Farthmann	PERSON
+Fassbender	PERSON
+Feige	PERSON
+Klaus-Dieter	PERSON
+Feilcke	PERSON
+Feile	PERSON
+Feinendegen	PERSON
+Felber	PERSON
+Felder	PERSON
+Feldmann	PERSON
+Aloys	PERSON
+Olaf	PERSON
+Fell	PERSON
+Karl H.	PERSON
+Feller	PERSON
+Erwin	PERSON
+Fellermaier	PERSON
+Fellner	PERSON
+Ferner	PERSON
+Elke	PERSON
+Ferrang	PERSON
+Feuring	PERSON
+Feury	PERSON
+Fiebig	PERSON
+Fiedler	PERSON
+Figgen	PERSON
+Finckenstein	PERSON
+Eva Gräfin	PERSON
+Finckh	PERSON
+Fink	PERSON
+Finselberger	PERSON
+Erni	PERSON
+Fircks	PERSON
+Fisch	PERSON
+Fischer	PERSON
+Dirk	PERSON
+Evelin	PERSON
+Joseph	PERSON
+Leni	PERSON
+Flach	PERSON
+Karl-Hermann	PERSON
+Flämig	PERSON
+Flinner	PERSON
+Dora	PERSON
+Flitz	PERSON
+Hedi	PERSON
+Focke	PERSON
+Katharina	PERSON
+Fockenberg	PERSON
+Winfried	PERSON
+Folger	PERSON
+Folz-Steinacker	PERSON
+Sigrid	PERSON
+Formanski	PERSON
+Francke	PERSON
+Franke	PERSON
+Frankenhauser	PERSON
+Franzen	PERSON
+Frede	PERSON
+Frehsee	PERSON
+Freidhof	PERSON
+Freitag	PERSON
+Freiwald	PERSON
+Friedrich Wilhelm	PERSON
+Frenzel	PERSON
+Frerichs	PERSON
+Göke D.	PERSON
+Freudenberg	PERSON
+Frey	PERSON
+Freyh	PERSON
+Fricke	PERSON
+Friderichs	PERSON
+Friedensburg	PERSON
+Friedhoff	PERSON
+Paul K.	PERSON
+Friedmann	PERSON
+Frieler	PERSON
+Friese	PERSON
+Friese-Korn	PERSON
+Lotte	PERSON
+Frieß	PERSON
+Sieglinde	PERSON
+Fritsch	PERSON
+Christina	PERSON
+Erich G.	PERSON
+Karl-Walter	PERSON
+Fröhlich	PERSON
+Hans-Gerd	PERSON
+Fromm	PERSON
+Rita	PERSON
+Frommhold	PERSON
+Früh	PERSON
+Isidor	PERSON
+Frühwald	PERSON
+Fuchs	PERSON
+Gustav	PERSON
+Katrin	PERSON
+Ruth	PERSON
+Fuchtel	PERSON
+Fürstenberg	PERSON
+Elimar	PERSON
+Fugger von Glött	PERSON
+Josef-Ernst	PERSON
+Fuhrmann	PERSON
+Funcke	PERSON
+Liselotte	PERSON
+Oscar	PERSON
+Funk	PERSON
+Honor	PERSON
+Funke	PERSON
+Funke-Schmitt-Rink	PERSON
+Margret	PERSON
+Furler	PERSON
+Gärtner	PERSON
+Gallus	PERSON
+Ganschow	PERSON
+Jörg Wolfgang	PERSON
+Winter	PERSON
+Ganseforth	PERSON
+Gansel	PERSON
+Ganswindt	PERSON
+Gantenberg	PERSON
+Mathilde	PERSON
+Ganz	PERSON
+Garbe	PERSON
+Charlotte	PERSON
+Gaßmann	PERSON
+Gattermann	PERSON
+Hans H.	PERSON
+Gatzen	PERSON
+Gauck	PERSON
+Gaul	PERSON
+Gautier	PERSON
+Gedat	PERSON
+Gustav-Adolf	PERSON
+Gefeller	PERSON
+Gehring	PERSON
+Geier	PERSON
+Erna-Maria	PERSON
+Geiger	PERSON
+Sissy	PERSON
+Geis	PERSON
+Geisendörfer	PERSON
+Ingeborg	PERSON
+Geisenhofer	PERSON
+Franz Xaver	PERSON
+Geisler	PERSON
+Geißler	PERSON
+Heiner	PERSON
+Geldern	PERSON
+Geldner	PERSON
+Gemein	PERSON
+Gemmingen-Hornberg	PERSON
+Gengler	PERSON
+Genscher	PERSON
+Hans-Dietrich	PERSON
+George	PERSON
+Haimo	PERSON
+Geritzmann	PERSON
+Gerlach	PERSON
+Gerlich	PERSON
+Walter Richard	PERSON
+Gerns	PERSON
+Gerstein	PERSON
+Gerstenmaier	PERSON
+Eugen	PERSON
+Gerster	PERSON
+Florian	PERSON
+Gerstl	PERSON
+Gertzen	PERSON
+Geßner	PERSON
+Manfred Achim	PERSON
+Gewandt	PERSON
+Gibbert	PERSON
+Gibtner	PERSON
+Giencke	PERSON
+Christian	PERSON
+Gierenstein	PERSON
+Karl Heinz	PERSON
+Gilges	PERSON
+Gille	PERSON
+Ginnuttis	PERSON
+Ginsberg	PERSON
+Giulini	PERSON
+Glahn	PERSON
+Glasmeyer	PERSON
+Gleicke	PERSON
+Iris	PERSON
+Gleisner	PERSON
+Gleissner	PERSON
+Glombig	PERSON
+Glos	PERSON
+Glotz	PERSON
+Glüsing	PERSON
+Gnädinger	PERSON
+Fritz-Joachim	PERSON
+Gobrecht	PERSON
+Gockeln	PERSON
+Göhner	PERSON
+Gölter	PERSON
+Görgen	PERSON
+Hermann Mathias	PERSON
+Görlinger	PERSON
+Götte	PERSON
+Rose	PERSON
+Göttsching	PERSON
+Götz	PERSON
+Eicke	PERSON
+Goetzendorff	PERSON
+Götzer	PERSON
+Goldhagen	PERSON
+Goldhahn	PERSON
+Golitschek	PERSON
+Hubertus	PERSON
+Gontrum	PERSON
+Gossel	PERSON
+Gottesleben	PERSON
+Gottschall	PERSON
+Gottwald	PERSON
+Gabriele	PERSON
+Graaff	PERSON
+Carlo	PERSON
+Gradl	PERSON
+Johann Baptist	PERSON
+Graf	PERSON
+Grantze	PERSON
+Graß	PERSON
+Karl Martin	PERSON
+Gres	PERSON
+Greve	PERSON
+Otto Heinrich	PERSON
+Griem	PERSON
+Gries	PERSON
+Ekkehard	PERSON
+Gundolf	PERSON
+Griesinger	PERSON
+Grimming	PERSON
+Grobecker	PERSON
+Grochtmann	PERSON
+Gröbl	PERSON
+Gröwel	PERSON
+Groß	PERSON
+Rötger	PERSON
+Großmann	PERSON
+Achim	PERSON
+Grotz	PERSON
+Claus-Peter	PERSON
+Grünbeck	PERSON
+Grüner	PERSON
+Grünewald	PERSON
+Grützmann	PERSON
+Angela	PERSON
+Gruhl	PERSON
+Grundmann	PERSON
+Grunenberg	PERSON
+Grunner	PERSON
+Gscheidle	PERSON
+Güde	PERSON
+Gülich	PERSON
+Gumrum	PERSON
+Gundelach	PERSON
+Guttenberg	PERSON
+Karl Theodor	PERSON
+Guttmacher	PERSON
+Karlheinz	PERSON
+Gutzeit	PERSON
+Gysi	PERSON
+Haack	PERSON
+Karl Hermann	PERSON
+Haage	PERSON
+Haar	PERSON
+Haas	PERSON
+Centa	PERSON
+Christian Albrecht	PERSON
+Haase	PERSON
+Detlef	PERSON
+Haasler	PERSON
+Haberl	PERSON
+Habermann	PERSON
+Hackel	PERSON
+Heinz Dieter	PERSON
+Hacker	PERSON
+Hackethal	PERSON
+Häckel	PERSON
+Horak	PERSON
+Häfele	PERSON
+Hansjörg	PERSON
+Häfner	PERSON
+Gerald	PERSON
+Haehser	PERSON
+Hämmerle	PERSON
+Gerlinde	PERSON
+Haenschke	PERSON
+Härzschel	PERSON
+Häuser	PERSON
+Gerd Jürgen	PERSON
+Häussler	PERSON
+Hagen	PERSON
+Marlis	PERSON
+Hagge	PERSON
+Hahn	PERSON
+Hahne	PERSON
+Halfmeier	PERSON
+Hallstein	PERSON
+Hamacher	PERSON
+Hamm	PERSON
+Hamm-Brücher	PERSON
+Hammans	PERSON
+Hammer	PERSON
+Hammersen	PERSON
+Hammerstein	PERSON
+Carl-Detlev	PERSON
+Hampel	PERSON
+Handlos	PERSON
+Handschack	PERSON
+Handschumacher	PERSON
+Hanewinckel	PERSON
+Christel	PERSON
+Riemann-Hanewinckel	PERSON
+Haniel-Niethammer	PERSON
+Hansen	PERSON
+Uwe	PERSON
+Hansing	PERSON
+Hanz	PERSON
+Happe	PERSON
+Harig	PERSON
+Harnischfeger	PERSON
+Harries	PERSON
+Hartenstein	PERSON
+Liesel	PERSON
+Hartmann	PERSON
+Hartnack	PERSON
+Haschke	PERSON
+Hasemann	PERSON
+Walther	PERSON
+Hasenfratz	PERSON
+Hasinger	PERSON
+Hassel	PERSON
+Kai-Uwe	PERSON
+Hasselfeldt	PERSON
+Gerda	PERSON
+Hauchler	PERSON
+Ingomar	PERSON
+Hauck	PERSON
+Hauff	PERSON
+Volker	PERSON
+Hauffe	PERSON
+Haungs	PERSON
+Hauser	PERSON
+Alo	PERSON
+Hansgeorg	PERSON
+Hansheinz	PERSON
+Haussmann	PERSON
+Heck	PERSON
+Hecker	PERSON
+Klaus J.	PERSON
+Hedler	PERSON
+Hedrich	PERSON
+Klaus-Jürgen	PERSON
+Heereman von Zuydtwyck	PERSON
+Constantin	PERSON
+Heide	PERSON
+Johann Karl	PERSON
+Heiland	PERSON
+Rudolf-Ernst	PERSON
+Heiler	PERSON
+Anne Marie	PERSON
+Heimann	PERSON
+Hein	PERSON
+Heinemann	PERSON
+Gustav W.	PERSON
+Heinen	PERSON
+Heistermann	PERSON
+Heix	PERSON
+Held	PERSON
+Hellenbrock	PERSON
+Hellige	PERSON
+Hellwege	PERSON
+Hellwig	PERSON
+Helmrich	PERSON
+Helms	PERSON
+Heltzig	PERSON
+Henckel von Donnersmarck	PERSON
+Henke	PERSON
+Henle	PERSON
+Henn	PERSON
+Bernd	PERSON
+Hennig	PERSON
+Ottfried	PERSON
+Hensel	PERSON
+Karitas Dagmar	PERSON
+Henssler	PERSON
+Henze	PERSON
+Hepp	PERSON
+Herberholz	PERSON
+Ralph	PERSON
+Herbers	PERSON
+Herberts	PERSON
+Herbig	PERSON
+Herkenrath	PERSON
+Herklotz	PERSON
+Hermesdorf	PERSON
+Hermsdorf	PERSON
+Herold	PERSON
+Herr	PERSON
+Herrmann	PERSON
+Matthäus	PERSON
+Herterich	PERSON
+Hesberg	PERSON
+Hesemann	PERSON
+Hettling	PERSON
+Heuer	PERSON
+Uwe-Jens	PERSON
+Heuser	PERSON
+Hedda	PERSON
+Heuser-Schreiber	PERSON
+Heuss	PERSON
+Heydt Freiherr von Massenbach	PERSON
+Heye	PERSON
+Hellmuth Guido Alexander	PERSON
+Heyen	PERSON
+Roelf	PERSON
+Heyenn	PERSON
+Hickel	PERSON
+Erika	PERSON
+Hiebing	PERSON
+Maria Anna	PERSON
+Hilbert	PERSON
+Hiller	PERSON
+Reinhold	PERSON
+Hillerich	PERSON
+Imma	PERSON
+Hilpert	PERSON
+Hilsberg	PERSON
+Stephan	PERSON
+Hinrichs	PERSON
+Hinsken	PERSON
+Hintze	PERSON
+Hirsch	PERSON
+Burkhard	PERSON
+Hitschler	PERSON
+Hitzigrath	PERSON
+Rüdiger	PERSON
+Höcherl	PERSON
+Höchst	PERSON
+Höck	PERSON
+Höcker	PERSON
+Höffkes	PERSON
+Höfler	PERSON
+Hoegner	PERSON
+Höhmann	PERSON
+Höhne	PERSON
+Höll	PERSON
+Barbara	PERSON
+Hölscher	PERSON
+Hölzle	PERSON
+Hönes	PERSON
+Hannegret	PERSON
+Hönicke	PERSON
+Höpfinger	PERSON
+Höpker-Aschoff	PERSON
+Hörauf	PERSON
+Fritz Wilhelm	PERSON
+Hörmann	PERSON
+Hörnemann	PERSON
+Hörsken	PERSON
+Heinz-Adolf	PERSON
+Hörster	PERSON
+Hösl	PERSON
+Alex	PERSON
+Hoffacker	PERSON
+Hoffie	PERSON
+Hoffmann	PERSON
+Hofmann	PERSON
+Hohl	PERSON
+Holkenbrink	PERSON
+Holla	PERSON
+Hollerith	PERSON
+Holsteg	PERSON
+Holtz	PERSON
+Holz	PERSON
+Holzapfel	PERSON
+Holzmeister	PERSON
+Homburger	PERSON
+Birgit	PERSON
+Hoogen	PERSON
+Hoppe	PERSON
+Hans-Günter	PERSON
+Horacek	PERSON
+Milan	PERSON
+Horlacher	PERSON
+Horn	PERSON
+Hornhues	PERSON
+Hornung	PERSON
+Horstmeier	PERSON
+Horten	PERSON
+Alphons	PERSON
+Hoss	PERSON
+Hoth	PERSON
+Hoven	PERSON
+Viktor	PERSON
+Hoyer	PERSON
+Huber	PERSON
+Antje	PERSON
+Elinor	PERSON
+Hubrig	PERSON
+Hudak	PERSON
+Adalbert	PERSON
+Hübner	PERSON
+Heinz Werner	PERSON
+Hüppe	PERSON
+Hürland	PERSON
+Agnes	PERSON
+Hürland-Büning	PERSON
+Hüsch	PERSON
+Heinz Günther	PERSON
+Hüser	PERSON
+Hütter	PERSON
+Hufnagel	PERSON
+Huonker	PERSON
+Gunter	PERSON
+Hupka	PERSON
+Hussing	PERSON
+Hussong	PERSON
+Huth	PERSON
+Huthmacher	PERSON
+Huyn	PERSON
+Huys	PERSON
+Lambert	PERSON
+Ibrügger	PERSON
+Ilk	PERSON
+Illerhaus	PERSON
+Ils	PERSON
+Imig	PERSON
+Imle	PERSON
+Immer	PERSON
+Irmer	PERSON
+Iven	PERSON
+Iwersen	PERSON
+Jacobi	PERSON
+Jacobs	PERSON
+Jäger	PERSON
+Jaeger	PERSON
+Paul Hans	PERSON
+Jaffe	PERSON
+Jaffke	PERSON
+Susanne	PERSON
+Jaffke-Witt	PERSON
+Jagoda	PERSON
+Jahn	PERSON
+Friedrich-Adolf	PERSON
+Hans Edgar	PERSON
+Jaksch	PERSON
+Jannsen	PERSON
+Janovsky	PERSON
+Jansen	PERSON
+Janz	PERSON
+Janzen	PERSON
+Jaschke	PERSON
+Jaunich	PERSON
+Jelpke	PERSON
+Jeltsch	PERSON
+Karin	PERSON
+Jenninger	PERSON
+Jens	PERSON
+Jentsch	PERSON
+Jentzsch	PERSON
+Jobst	PERSON
+Dionys	PERSON
+Jochmus	PERSON
+Hedwig	PERSON
+Jordan	PERSON
+Pascual	PERSON
+Jork	PERSON
+Josten	PERSON
+Johann Peter	PERSON
+Jürgensen	PERSON
+Nikolaus	PERSON
+Jüttner	PERSON
+Juncker	PERSON
+Albert Ludwig	PERSON
+Jung	PERSON
+Junghanns	PERSON
+Junghans	PERSON
+Jungherz	PERSON
+Junglas	PERSON
+Jungmann	PERSON
+Junker	PERSON
+Kaffka	PERSON
+Kahl	PERSON
+Kahn	PERSON
+Kahn-Ackermann	PERSON
+Kaiser	PERSON
+Pia	PERSON
+Kalb	PERSON
+Bartholomäus	PERSON
+Kalbfell	PERSON
+Kalbitzer	PERSON
+Hellmut	PERSON
+Kalinke	PERSON
+Margot	PERSON
+Kalisch	PERSON
+Kalz	PERSON
+Kamilli	PERSON
+Karl-August	PERSON
+Kampeter	PERSON
+Steffen	PERSON
+Kanka	PERSON
+Kansy	PERSON
+Dietmar	PERSON
+Kappes	PERSON
+Franz-Hermann	PERSON
+Karius	PERSON
+Karpf	PERSON
+Karwatzki	PERSON
+Irmgard	PERSON
+Kastner	PERSON
+Kastning	PERSON
+Kater	PERSON
+Kather	PERSON
+Linus	PERSON
+Katzer	PERSON
+Kauder	PERSON
+Kaufmann	PERSON
+Sylvia-Yvonne	PERSON
+Keilhack	PERSON
+Keller	PERSON
+Kelly	PERSON
+Petra Karin	PERSON
+Kemmer	PERSON
+Kemper	PERSON
+Hans-Peter	PERSON
+Kempfler	PERSON
+Kern	PERSON
+Karl-Hans	PERSON
+Kertscher	PERSON
+Kettig	PERSON
+Alma	PERSON
+Keuning	PERSON
+Kiechle	PERSON
+Ignaz	PERSON
+Kiehm	PERSON
+Kienbaum	PERSON
+Kiep	PERSON
+Walther Leisler	PERSON
+Kiep-Altenloh	PERSON
+Emilie	PERSON
+Kiesinger	PERSON
+Kurt Georg	PERSON
+Kihn	PERSON
+Karl Alfred	PERSON
+Killat	PERSON
+Killat-von Coreth	PERSON
+Kinat	PERSON
+Georg Richard	PERSON
+Kipp-Kaule	PERSON
+Kirchhoff	PERSON
+Peterheinrich	PERSON
+Kirschner	PERSON
+Kirst	PERSON
+Victor	PERSON
+Kisslinger	PERSON
+Kisters	PERSON
+Kittelmann	PERSON
+Klabunde	PERSON
+Klappert	PERSON
+Klausner	PERSON
+Kleditzsch	PERSON
+Klee	PERSON
+Marie-Elisabeth	PERSON
+Klein	PERSON
+Hans Hugo	PERSON
+Kleindinst	PERSON
+Josef Ferdinand	PERSON
+Kleinert	PERSON
+Klejdzinski	PERSON
+Klemmer	PERSON
+Siegrun	PERSON
+Hamelbeck	PERSON
+Klemmert	PERSON
+Klepsch	PERSON
+Egon Alfred	PERSON
+Kley	PERSON
+Gerry	PERSON
+Gisbert	PERSON
+Kliesing	PERSON
+Klinge	PERSON
+Klingelhöfer	PERSON
+Klinker	PERSON
+Klinkert	PERSON
+Klötzer	PERSON
+Klose	PERSON
+Knaape	PERSON
+Hans-Hinrich	PERSON
+Knabe	PERSON
+Knapp	PERSON
+Kneipp	PERSON
+Knobloch	PERSON
+Knoeringen	PERSON
+Waldemar	PERSON
+Knorr	PERSON
+Knothe	PERSON
+Koblitz	PERSON
+Koch	PERSON
+Dieter-Lebrecht	PERSON
+Köhler	PERSON
+Herbert W.	PERSON
+Volkmar	PERSON
+Koenen	PERSON
+Könen	PERSON
+Koenig	PERSON
+Peter-Michael	PERSON
+Königswarter	PERSON
+Köppe	PERSON
+Köppler	PERSON
+Körner	PERSON
+Körper	PERSON
+Fritz Rudolf	PERSON
+Köster	PERSON
+Kohl	PERSON
+Kohlberger	PERSON
+Kohn	PERSON
+Kohut	PERSON
+Oswald Adolph	PERSON
+Kolb	PERSON
+Elmar	PERSON
+Heinrich L.	PERSON
+Kolbe	PERSON
+Regina	PERSON
+Kolbow	PERSON
+Koltzsch	PERSON
+Koops	PERSON
+Kopf	PERSON
+Koppelin	PERSON
+Korber	PERSON
+Kors	PERSON
+Eva-Maria	PERSON
+Korspeter	PERSON
+Kortmann	PERSON
+Koschnick	PERSON
+Koschyk	PERSON
+Koslowski	PERSON
+Kossendey	PERSON
+Kotowski	PERSON
+Kottwitz	PERSON
+Almut	PERSON
+Kraft	PERSON
+Krahnstöver	PERSON
+Krall	PERSON
+Kramel	PERSON
+Angelo	PERSON
+Krammig	PERSON
+Krampe	PERSON
+Krappe	PERSON
+Edith	PERSON
+Kraske	PERSON
+Kratz	PERSON
+Kraus	PERSON
+Krause	PERSON
+Rudolf Karl	PERSON
+Krehl	PERSON
+Constanze	PERSON
+Kreibaum	PERSON
+Kreile	PERSON
+Kreitmeyer	PERSON
+Kretkowski	PERSON
+Kreutzmann	PERSON
+Kreuzeder	PERSON
+Krey	PERSON
+Franz Heinrich	PERSON
+Kreyssig	PERSON
+Kriedemann	PERSON
+Kriedner	PERSON
+Arnulf	PERSON
+Krieger	PERSON
+Verena	PERSON
+Krips	PERSON
+Krizsan	PERSON
+Julius H.	PERSON
+Krockert	PERSON
+Kroll	PERSON
+Kroll-Schlüter	PERSON
+Kronberg	PERSON
+Heinz-Jürgen	PERSON
+Krone	PERSON
+Krone-Appuhn	PERSON
+Kronenberg	PERSON
+Krüger	PERSON
+Caspar	PERSON
+Krümmer	PERSON
+Krug	PERSON
+Krziskewitz	PERSON
+Reiner	PERSON
+Kubatschka	PERSON
+Kubicki	PERSON
+Kubitza	PERSON
+Kuchtner	PERSON
+Edeltraud	PERSON
+Kübler	PERSON
+Kühbacher	PERSON
+Kühling	PERSON
+Kühlmann-Stumm	PERSON
+Knut	PERSON
+Kühlthau	PERSON
+Kühn	PERSON
+Künstler	PERSON
+Kuessner	PERSON
+Hinrich	PERSON
+Küster	PERSON
+Kugler	PERSON
+Kuhlemann	PERSON
+Kuhlwein	PERSON
+Eckart	PERSON
+Kulawig	PERSON
+Kunst	PERSON
+Kuntscher	PERSON
+Kunz	PERSON
+Kunze	PERSON
+Kurlbaum	PERSON
+Kurtz	PERSON
+Kutschera	PERSON
+Ladebeck	PERSON
+Laermann	PERSON
+Laforet	PERSON
+Lagershausen	PERSON
+Lahnstein	PERSON
+Lahr	PERSON
+Lambinus	PERSON
+Lambsdorff	PERSON
+Lamers	PERSON
+Lammert	PERSON
+Lamp	PERSON
+Lampersbach	PERSON
+Lampl	PERSON
+Roman	PERSON
+Landgraf	PERSON
+Landré	PERSON
+Heinz F.	PERSON
+Lang	PERSON
+Lange	PERSON
+Torsten	PERSON
+Langebeck	PERSON
+Langer	PERSON
+Langguth	PERSON
+Langner	PERSON
+Lantermann	PERSON
+Larcher	PERSON
+Detlev	PERSON
+Lattmann	PERSON
+Laufs	PERSON
+Laumann	PERSON
+Karl-Josef	PERSON
+Lauritzen	PERSON
+Lauritz	PERSON
+Lausen	PERSON
+Lautenschlager	PERSON
+Lauterbach	PERSON
+Ellen	PERSON
+Leber	PERSON
+Leddin	PERSON
+Lederer	PERSON
+Andrea	PERSON
+Lehment	PERSON
+Conrad-Michael	PERSON
+Lehne	PERSON
+Klaus-Heiner	PERSON
+Lehr	PERSON
+Ursula Maria	PERSON
+Leibbrand	PERSON
+Leibfried	PERSON
+Leibing	PERSON
+Leicht	PERSON
+Leidinger	PERSON
+Leiske	PERSON
+Leitow	PERSON
+Leja	PERSON
+Lemmer	PERSON
+Lemmrich	PERSON
+Lemp	PERSON
+Lemper	PERSON
+Lenders	PERSON
+Lennartz	PERSON
+Lensing	PERSON
+Lenz	PERSON
+Carl Otto	PERSON
+Lenze	PERSON
+Lenzer	PERSON
+Leonhard	PERSON
+Leonhart	PERSON
+Lepsius	PERSON
+Lermer	PERSON
+Leuchtgens	PERSON
+Leukert	PERSON
+Edmund	PERSON
+Leuschner	PERSON
+Leutheusser-Schnarrenberger	PERSON
+Leuze	PERSON
+Leverkuehn	PERSON
+Lieberoth	PERSON
+Immo	PERSON
+Liedtke	PERSON
+Liehr	PERSON
+Harry	PERSON
+Limbach	PERSON
+Editha	PERSON
+Linde	PERSON
+Lindeiner	PERSON
+Hanns-Gero	PERSON
+Lindenberg	PERSON
+Lindrath	PERSON
+Link	PERSON
+Linnert	PERSON
+Linsmeier	PERSON
+Lintner	PERSON
+Lippelt	PERSON
+Lippold	PERSON
+Klaus W.	PERSON
+Lischewski	PERSON
+Lockmann	PERSON
+Löbbert	PERSON
+Löbe	PERSON
+Löfflad	PERSON
+Löffler	PERSON
+Löher	PERSON
+Löhr	PERSON
+Lörcher	PERSON
+Lösche	PERSON
+Dorothea	PERSON
+Löwenstein-Wertheim-Freudenberg	PERSON
+Logemann	PERSON
+Lohmann	PERSON
+Lohmar	PERSON
+Lohmüller	PERSON
+Loibl	PERSON
+Looft	PERSON
+Lorenz	PERSON
+Loritz	PERSON
+Lotze	PERSON
+Rudi	PERSON
+Louven	PERSON
+Lowack	PERSON
+Ortwin	PERSON
+Luchtenberg	PERSON
+Lucyga	PERSON
+Christine	PERSON
+Luda	PERSON
+Ludewig	PERSON
+Lübke	PERSON
+Lücke	PERSON
+Lücker	PERSON
+Hans August	PERSON
+Lüdemann	PERSON
+Lüder	PERSON
+Lüders	PERSON
+Lühr	PERSON
+Uwe-Bernd	PERSON
+Lünenstraß	PERSON
+Lütkens	PERSON
+Lulay	PERSON
+Wilhelm Adam	PERSON
+Lummer	PERSON
+Luster	PERSON
+Luther	PERSON
+Lutz	PERSON
+Luuk	PERSON
+Maaß	PERSON
+Mälzig	PERSON
+Männing	PERSON
+Männle	PERSON
+Maerkl	PERSON
+Magin	PERSON
+Theo	PERSON
+Mahlo	PERSON
+Mahne	PERSON
+Maibaum	PERSON
+Maier	PERSON
+Maihofer	PERSON
+Maizière	PERSON
+Majonica	PERSON
+Mann	PERSON
+Manteuffel	PERSON
+Hasso	PERSON
+Manteuffel-Szoege	PERSON
+Margulies	PERSON
+Marienfeld-Czesla	PERSON
+Claire	PERSON
+Marquardt	PERSON
+Marschall	PERSON
+Marschewski	PERSON
+Marten	PERSON
+Berthold	PERSON
+Martini zum Berge	PERSON
+Dörte	PERSON
+Riedel-Martiny	PERSON
+Martiny	PERSON
+Marx	PERSON
+Dorle	PERSON
+Mascher	PERSON
+Ulrike	PERSON
+Massoth	PERSON
+Matschie	PERSON
+Christoph	PERSON
+Matterne	PERSON
+Matthäus-Maier	PERSON
+Matthes	PERSON
+Matthöfer	PERSON
+Mattick	PERSON
+Mattischeck	PERSON
+Matzner	PERSON
+Maucher	PERSON
+Mauk	PERSON
+Maxsein	PERSON
+Agnes Katharina	PERSON
+Mayer	PERSON
+Mayerhofer	PERSON
+Mechtersheimer	PERSON
+Meckel	PERSON
+Meckelburg	PERSON
+Meermann	PERSON
+Mehl	PERSON
+Mehs	PERSON
+Matthias Joseph	PERSON
+Meinecke	PERSON
+Meinike	PERSON
+Meininghaus	PERSON
+Meinl	PERSON
+Meis	PERSON
+Meister	PERSON
+Meitinger	PERSON
+Meitmann	PERSON
+Mellies	PERSON
+Memmel	PERSON
+Mende	PERSON
+Meneses Vogl	PERSON
+German	PERSON
+Mengelkamp	PERSON
+Menke	PERSON
+Menne	PERSON
+W. Alexander	PERSON
+Mensing	PERSON
+Menth	PERSON
+Menzel	PERSON
+Merkatz	PERSON
+Merkel	PERSON
+Merker	PERSON
+Merten	PERSON
+Mertens	PERSON
+Mertes	PERSON
+Alois	PERSON
+Mertins	PERSON
+Meseke	PERSON
+Wedel	PERSON
+Metter	PERSON
+Metz	PERSON
+Metzger	PERSON
+Meyer	PERSON
+Ernst Wilhelm	PERSON
+Heinz-Werner	PERSON
+Trudel	PERSON
+Meyer zu Bentrup	PERSON
+Meyer-Laule	PERSON
+Meyer-Ronnenberg	PERSON
+Meyer-Ronberg	PERSON
+Meyers	PERSON
+Michalk	PERSON
+Michels	PERSON
+Meinolf	PERSON
+Mick	PERSON
+Middelhauve	PERSON
+Miessner	PERSON
+Herwart	PERSON
+Mikat	PERSON
+Mildner	PERSON
+Miller	PERSON
+Miltner	PERSON
+Milz	PERSON
+Mischnick	PERSON
+Missbach	PERSON
+Misselwitz	PERSON
+Missmahl	PERSON
+Mitzscherling	PERSON
+Mocker	PERSON
+Modrow	PERSON
+Möhring	PERSON
+Möllemann	PERSON
+Jürgen W.	PERSON
+Möller	PERSON
+Mönikes	PERSON
+Anna	PERSON
+Moerchel	PERSON
+Moersch	PERSON
+Moll	PERSON
+Molnar	PERSON
+Mommer	PERSON
+Moosdorf	PERSON
+Morgenstern	PERSON
+Kober	PERSON
+Morgenthaler	PERSON
+Mosdorf	PERSON
+Siegmar	PERSON
+Muckermann	PERSON
+Mücke	PERSON
+Willibald	PERSON
+Mühlen	PERSON
+Mühlenberg	PERSON
+Mühlenfeld	PERSON
+Mühlhan	PERSON
+Müller	PERSON
+Gebhard	PERSON
+Hans-Werner	PERSON
+Müller-Emmert	PERSON
+Müller-Hermann	PERSON
+Müntefering	PERSON
+Müser	PERSON
+Franzjosef	PERSON
+Müthling	PERSON
+Mulert	PERSON
+Friederike	PERSON
+Munzinger	PERSON
+Murr	PERSON
+Mursch	PERSON
+Nadig	PERSON
+Frieda	PERSON
+Naegel	PERSON
+Nagel	PERSON
+Nann	PERSON
+Narjes	PERSON
+Neber	PERSON
+Neemann	PERSON
+Nehm	PERSON
+Nelle	PERSON
+Engelbert	PERSON
+Nellen	PERSON
+Neubauer	PERSON
+Neuburger	PERSON
+Neuhaus	PERSON
+Alfred Hubertus	PERSON
+Neuhausen	PERSON
+Neuling	PERSON
+Neumann	PERSON
+Erich Peter	PERSON
+Neumayer	PERSON
+Neumeister	PERSON
+Hanna	PERSON
+Nickels	PERSON
+Nickl	PERSON
+Christof	PERSON
+Nieberg	PERSON
+Niebergall	PERSON
+Niebes	PERSON
+Niedenthal	PERSON
+Niederalt	PERSON
+Niegel	PERSON
+Niehuis	PERSON
+Niese	PERSON
+Niggemeier	PERSON
+Niggemeyer	PERSON
+Heike	PERSON
+Niklas	PERSON
+Nissen	PERSON
+Nitsch	PERSON
+Nöbel	PERSON
+Nöll von der Nahmer	PERSON
+Robert Philipp	PERSON
+Nölling	PERSON
+Nölting	PERSON
+Erik	PERSON
+Nolte	PERSON
+Claudia	PERSON
+Crawford	PERSON
+Nolting	PERSON
+Günther Friedrich	PERSON
+Nordenskjöld	PERSON
+Nordlohne	PERSON
+Noth	PERSON
+Erke	PERSON
+Nothhelfer	PERSON
+Nowack	PERSON
+Joachim Hubertus	PERSON
+Nuding	PERSON
+Oberländer	PERSON
+Odendahl	PERSON
+Doris	PERSON
+Odenthal	PERSON
+Oellers	PERSON
+Oesinghaus	PERSON
+Oesterle	PERSON
+Oesterle-Schwerin	PERSON
+Oetting	PERSON
+Oettingen-Wallerstein	PERSON
+Oetzel	PERSON
+Offergeld	PERSON
+Ohlemeyer	PERSON
+Ohlig	PERSON
+Oldenstädt	PERSON
+Olderog	PERSON
+Ollenhauer	PERSON
+Ollesch	PERSON
+Olms	PERSON
+Onnen	PERSON
+Oostergetelo	PERSON
+Op den Orth	PERSON
+Opel	PERSON
+Opitz	PERSON
+Orgaß	PERSON
+Orth	PERSON
+Ortleb	PERSON
+Solka	PERSON
+Osswald	PERSON
+Ost	PERSON
+Ostertag	PERSON
+Ostman von der Leye	PERSON
+Wilderich	PERSON
+Ostrowski	PERSON
+Oswald	PERSON
+Ott	PERSON
+Helga	PERSON
+Paar	PERSON
+Pack	PERSON
+Päselt	PERSON
+Paintner	PERSON
+Palis	PERSON
+Pannenbecker	PERSON
+Pannhoff	PERSON
+Parr	PERSON
+Parzinger	PERSON
+Sepp	PERSON
+Paschek	PERSON
+Paterna	PERSON
+Patzig	PERSON
+Pauli	PERSON
+Pawelczyk	PERSON
+Paziorek	PERSON
+Peiter	PERSON
+Pelster	PERSON
+Penner	PERSON
+Willfried	PERSON
+Pensky	PERSON
+Pernoll	PERSON
+Pesch	PERSON
+Hans-Wilhelm	PERSON
+Helwin	PERSON
+Peters	PERSON
+Petersen	PERSON
+Petzold	PERSON
+Pfaff	PERSON
+Pfeffermann	PERSON
+Gerhard O.	PERSON
+Pfeifer	PERSON
+Pfeiffer	PERSON
+Pfender	PERSON
+Pfennig	PERSON
+Gero	PERSON
+Pferdmenges	PERSON
+Pflaumbaum	PERSON
+Pfleiderer	PERSON
+Karl Georg	PERSON
+Pflüger	PERSON
+Friedbert	PERSON
+Pfuhl	PERSON
+Picard	PERSON
+Pick	PERSON
+Eckhart	PERSON
+Pieroth	PERSON
+Pieser	PERSON
+Pietscher	PERSON
+Pinger	PERSON
+Pitz-Savelsberg	PERSON
+Platner	PERSON
+Platzeck	PERSON
+Pöhler	PERSON
+Poepke	PERSON
+Pöppl	PERSON
+Ernst Josef	PERSON
+Pofalla	PERSON
+Ronald	PERSON
+Pohl	PERSON
+Eva	PERSON
+Pohle	PERSON
+Pohlenz	PERSON
+Pohler	PERSON
+Pohlmann	PERSON
+Pohlmeier	PERSON
+Polkehn	PERSON
+Popp	PERSON
+Poppe	PERSON
+Porsch	PERSON
+Porten	PERSON
+Porzner	PERSON
+Poß	PERSON
+Potthast	PERSON
+Povel	PERSON
+Bernardus	PERSON
+Praetorius	PERSON
+Prangenberg	PERSON
+Prassler	PERSON
+Preiß	PERSON
+Preller	PERSON
+Prennel	PERSON
+Preusker	PERSON
+Victor-Emanuel	PERSON
+Priebe	PERSON
+Moritz-Ernst	PERSON
+Priebus	PERSON
+Rosemarie	PERSON
+Probst	PERSON
+Prochazka	PERSON
+Protzner	PERSON
+Pünder	PERSON
+Pütz	PERSON
+Severin Fritz	PERSON
+Pützhofen	PERSON
+Purps	PERSON
+Pusch	PERSON
+Putzig	PERSON
+Rademacher	PERSON
+Willy Max	PERSON
+Raestrup	PERSON
+Raffert	PERSON
+Rahardt-Vahldieck	PERSON
+Rahn	PERSON
+Raidel	PERSON
+Ramminger	PERSON
+Ramms	PERSON
+Egon Wilhelm Theodor	PERSON
+Ramsauer	PERSON
+Ranker	PERSON
+Fred	PERSON
+Rapp	PERSON
+Rappe	PERSON
+Rasch	PERSON
+Rasner	PERSON
+Will	PERSON
+Rath	PERSON
+Ratzel	PERSON
+Rau	PERSON
+Rauber	PERSON
+Rauen	PERSON
+Rauhaus	PERSON
+Ravens	PERSON
+Rawe	PERSON
+Rayer	PERSON
+Rechenberg	PERSON
+Hans Albrecht	PERSON
+Recktenwald	PERSON
+Reddemann	PERSON
+Reents	PERSON
+Reetz	PERSON
+Regenspurger	PERSON
+Regling	PERSON
+Rehlen	PERSON
+Wiltrud	PERSON
+Rehling	PERSON
+Rehm	PERSON
+Stefanie	PERSON
+Rehs	PERSON
+Reichenbach	PERSON
+Reichhardt	PERSON
+Reichmann	PERSON
+Reichold	PERSON
+Reichstein	PERSON
+Reif	PERSON
+Reimann	PERSON
+Reimers	PERSON
+Reinartz	PERSON
+Bertold	PERSON
+Reindl	PERSON
+Reinhardt	PERSON
+Reinholz	PERSON
+Hermann Alexander	PERSON
+Reischl	PERSON
+Reiser	PERSON
+Hermann P.	PERSON
+Reismann	PERSON
+Reith	PERSON
+Eckhard	PERSON
+Reitz	PERSON
+Reitzner	PERSON
+Rempe	PERSON
+Renesse	PERSON
+Renger	PERSON
+Rennebach	PERSON
+Renner	PERSON
+Rentrop	PERSON
+Repnik	PERSON
+Reschke	PERSON
+Reuschenbach	PERSON
+Peter W.	PERSON
+Reuter	PERSON
+Revenstorff	PERSON
+Ribbeheger	PERSON
+Richarts	PERSON
+Richter	PERSON
+Edelbert	PERSON
+Riebensahm	PERSON
+Riede	PERSON
+Paula	PERSON
+Riedel	PERSON
+Rieder	PERSON
+Riederer von Paar	PERSON
+Riedl	PERSON
+Riege	PERSON
+Riegel	PERSON
+Rieger	PERSON
+Riegert	PERSON
+Riemer	PERSON
+Horst-Ludwig	PERSON
+Riesenhuber	PERSON
+Rimmelspacher	PERSON
+Rind	PERSON
+Rinderspacher	PERSON
+Ringkamp	PERSON
+Rinke	PERSON
+Rinsche	PERSON
+Ripken	PERSON
+Rische	PERSON
+Ritgen	PERSON
+Ritz	PERSON
+Ritzel	PERSON
+Heinrich Georg	PERSON
+Rixe	PERSON
+Rock	PERSON
+Edelhard	PERSON
+Brahmst-Rock	PERSON
+Rode	PERSON
+Rodiek	PERSON
+Röder	PERSON
+Röhl	PERSON
+Röhlig	PERSON
+Röhner	PERSON
+Rönsch	PERSON
+Hannelore	PERSON
+Roesch	PERSON
+Rösch	PERSON
+Julie	PERSON
+Rösing	PERSON
+Rösler	PERSON
+Johannes Baptist	PERSON
+Rohde	PERSON
+Roitzsch	PERSON
+Rollmann	PERSON
+Dietrich-Wilhelm	PERSON
+Romer	PERSON
+Rommerskirchen	PERSON
+Ronneburger	PERSON
+Rosenthal	PERSON
+Philip	PERSON
+Roser	PERSON
+Roske	PERSON
+Ross	PERSON
+Rossmanith	PERSON
+Kurt J.	PERSON
+Rost	PERSON
+Roth	PERSON
+Rother	PERSON
+Ruck	PERSON
+Rudoll	PERSON
+Rüdel	PERSON
+Hans-Carl	PERSON
+Rühe	PERSON
+Rümmele	PERSON
+Rüttgers	PERSON
+Ruf	PERSON
+Ruhnke	PERSON
+Heinrich-Wilhelm	PERSON
+Ruland	PERSON
+Rumpf	PERSON
+Runge	PERSON
+Rusche	PERSON
+Russe	PERSON
+Hermann Josef	PERSON
+Rust	PERSON
+Bärbel	PERSON
+Rutschke	PERSON
+Saam	PERSON
+Sabaß	PERSON
+Wilmar	PERSON
+Sabel	PERSON
+Säckl	PERSON
+Sänger	PERSON
+Saibold	PERSON
+Samwer	PERSON
+Adolf Franz	PERSON
+Sander	PERSON
+Sassnick	PERSON
+Sauer	PERSON
+Sauermilch	PERSON
+Saurin	PERSON
+Sauter	PERSON
+Saxowski	PERSON
+Sayn-Wittgenstein-Hohenstein	PERSON
+Botho	PERSON
+Schachtschabel	PERSON
+Schäfer	PERSON
+Harald B.	PERSON
+Schäffer	PERSON
+Schätz	PERSON
+Schätzle	PERSON
+Ortrun	PERSON
+Schäuble	PERSON
+Schaich-Walch	PERSON
+Gudrun	PERSON
+Schanz	PERSON
+Schanzenbach	PERSON
+Marta	PERSON
+Scharf	PERSON
+Scharnberg	PERSON
+Scharnowski	PERSON
+Scharrenbroich	PERSON
+Schartz	PERSON
+Schatz	PERSON
+Schedl	PERSON
+Scheel	PERSON
+Scheer	PERSON
+Scheffler	PERSON
+Schell	PERSON
+Schellenberg	PERSON
+Schemken	PERSON
+Schemmel	PERSON
+Ernst Otto Volker	PERSON
+Schenk	PERSON
+Scheppmann	PERSON
+Scherrer	PERSON
+Schetter	PERSON
+Scheu	PERSON
+Scheuren	PERSON
+Schierholz	PERSON
+Henning	PERSON
+Schild	PERSON
+Schill	PERSON
+Schiller	PERSON
+Schilling	PERSON
+Schily	PERSON
+Schimschok	PERSON
+Schinzel	PERSON
+Schirmer	PERSON
+Friedel	PERSON
+Schlaga	PERSON
+Schlager	PERSON
+Schlange-Schöningen	PERSON
+Schlatter	PERSON
+Schlee	PERSON
+Schlei	PERSON
+Marie	PERSON
+Schleicher	PERSON
+Schleifenbaum	PERSON
+Schlichting von Rönn	PERSON
+Schlick	PERSON
+Schliestedt	PERSON
+Schloß	PERSON
+Hanns	PERSON
+Schloten	PERSON
+Schlottmann	PERSON
+Schluckebier	PERSON
+Schlüter	PERSON
+Schmalz	PERSON
+Schmalz-Jacobsen	PERSON
+Cornelia	PERSON
+Schmedt	PERSON
+Schmid	PERSON
+Schmid-Burgk	PERSON
+Schmidbauer	PERSON
+Schmidhuber	PERSON
+Peter M.	PERSON
+Schmidt	PERSON
+Hansheinrich	PERSON
+Marie-Luise	PERSON
+R. Martin	PERSON
+Trudi	PERSON
+Schmidt-Bott	PERSON
+Regula	PERSON
+Schmidt-Wittmack	PERSON
+Karlfranz	PERSON
+Schmidt-Zadel	PERSON
+Schmieder	PERSON
+Schmiele	PERSON
+Schmitt	PERSON
+Cläre	PERSON
+Schmitt-Vockenhausen	PERSON
+Schmitz	PERSON
+Hans Peter	PERSON
+Schmöle	PERSON
+Hans Werner	PERSON
+Schmude	PERSON
+Schmücker	PERSON
+Schneider	PERSON
+Schnell	PERSON
+Schnittler	PERSON
+Schober	PERSON
+Schockenhoff	PERSON
+Schöfberger	PERSON
+von Schoeler	PERSON
+Schöler	PERSON
+Schönauer	PERSON
+Schönburg-Glauchau	PERSON
+Schöne	PERSON
+Schönebeck	PERSON
+Martina	PERSON
+Schoettle	PERSON
+Schollmeyer	PERSON
+Scholz	PERSON
+Rupert	PERSON
+Schonhofen	PERSON
+Schoppe	PERSON
+Waltraud	PERSON
+Schorlemer	PERSON
+Schrader	PERSON
+Schranz	PERSON
+Schreiber	PERSON
+Schreiner	PERSON
+Ottmar	PERSON
+Schroeder	PERSON
+Schröder	PERSON
+Diedrich	PERSON
+Louise	PERSON
+Schröer	PERSON
+Schröter	PERSON
+Hilbrecht	PERSON
+Schuberth	PERSON
+Schuchardt	PERSON
+Schüttler	PERSON
+Schütz	PERSON
+Schuler	PERSON
+Schulhoff	PERSON
+Traupe	PERSON
+Schulte	PERSON
+Schultz	PERSON
+Fritz-Rudolf	PERSON
+Schultze	PERSON
+Christian Friedrich	PERSON
+Schulz	PERSON
+Schulze	PERSON
+Schulze-Pellengahr	PERSON
+Schulze-Vorberg	PERSON
+Schumacher	PERSON
+Schumann	PERSON
+Schuster	PERSON
+Hans Paul Hermann	PERSON
+R. Werner	PERSON
+Schwabe	PERSON
+Adam-Schwaetzer	PERSON
+Schwaetzer	PERSON
+Schwalbe	PERSON
+Schwanhold	PERSON
+Schwanitz	PERSON
+Schwann	PERSON
+Schwarz	PERSON
+Schwarz-Schilling	PERSON
+Schwarzhaupt	PERSON
+Schwedler	PERSON
+Schweitzer	PERSON
+Carl-Christoph	PERSON
+Schwencke	PERSON
+Schwenk	PERSON
+Schwenninger	PERSON
+Schwertner	PERSON
+Schwörer	PERSON
+Seebohm	PERSON
+Hans-Christoph	PERSON
+Seefeld	PERSON
+Seeger	PERSON
+Per-René	PERSON
+Seehofer	PERSON
+Seelos	PERSON
+Seesing	PERSON
+Seffrin	PERSON
+Segall	PERSON
+Inge	PERSON
+Segitz	PERSON
+Johann-Adam	PERSON
+Sehn	PERSON
+Marita	PERSON
+Seibel	PERSON
+Seibert	PERSON
+Seiboth	PERSON
+Seidel	PERSON
+Seidenthal	PERSON
+Bodo	PERSON
+Seidl	PERSON
+Seifert	PERSON
+Ilja	PERSON
+Seifriz	PERSON
+Hans Stefan	PERSON
+Seiler-Albring	PERSON
+Seiters	PERSON
+Seither	PERSON
+Selke	PERSON
+Karl-Ernst	PERSON
+Sellin	PERSON
+Semler	PERSON
+Semper	PERSON
+Senfft	PERSON
+Seppi	PERSON
+Serres	PERSON
+Seuffert	PERSON
+Seume	PERSON
+Seuster	PERSON
+Sewald	PERSON
+Sick	PERSON
+Willi-Peter	PERSON
+Siebel	PERSON
+Sieglerschmidt	PERSON
+Sielaff	PERSON
+Sieler	PERSON
+Siemer	PERSON
+J. Hermann	PERSON
+Sikora	PERSON
+Simm	PERSON
+Simon	PERSON
+Paul Heinrich	PERSON
+Simonis	PERSON
+Simpfendörfer	PERSON
+Hansmartin	PERSON
+Singer	PERSON
+Sinn	PERSON
+Skarpelis-Sperk	PERSON
+Skowron	PERSON
+Werner H.	PERSON
+Slotta	PERSON
+Soell	PERSON
+Soetebier	PERSON
+Solke	PERSON
+Solleder	PERSON
+Solms	PERSON
+Hermann Otto	PERSON
+Sonntag-Wolgast	PERSON
+Cornelie	PERSON
+Sopart	PERSON
+Sorge	PERSON
+Wieland	PERSON
+Sornik	PERSON
+Sothmann	PERSON
+Sperling	PERSON
+Spies	PERSON
+Spies von Büllesheim	PERSON
+Spilker	PERSON
+Spillecke	PERSON
+Spitzmüller	PERSON
+Spöri	PERSON
+Spörl	PERSON
+Spranger	PERSON
+Carl-Dieter	PERSON
+Spreti	PERSON
+Springorum	PERSON
+Sprung	PERSON
+Srock	PERSON
+Staak	PERSON
+Stachowa	PERSON
+Stahl	PERSON
+Stahlberg	PERSON
+Stammberger	PERSON
+Staratzke	PERSON
+Stark	PERSON
+Starke	PERSON
+Starnick	PERSON
+Stauch	PERSON
+Staudt	PERSON
+Stauffenberg	PERSON
+Franz Ludwig Schenk	PERSON
+Stavenhagen	PERSON
+Lutz G.	PERSON
+Stech	PERSON
+Stecker	PERSON
+Steen	PERSON
+Antje-Marie	PERSON
+Steger	PERSON
+Stegner	PERSON
+Stehle	PERSON
+German Otto	PERSON
+Stein	PERSON
+Steinbiß	PERSON
+Viktoria	PERSON
+Steiner	PERSON
+Heinz-Alfred	PERSON
+Steinhauer	PERSON
+Steinhörster	PERSON
+Steinhoff	PERSON
+Steinitz	PERSON
+Steinmetz	PERSON
+Stenger	PERSON
+Stercken	PERSON
+Stetten	PERSON
+Stiegler	PERSON
+Stienen	PERSON
+Stierle	PERSON
+Stiller	PERSON
+Stingl	PERSON
+Stobbe	PERSON
+Stockhausen	PERSON
+Stockleben	PERSON
+Stockmann	PERSON
+Stöckl	PERSON
+Stolfa	PERSON
+Roswitha	PERSON
+Stoltenberg	PERSON
+Stommel	PERSON
+Wilhelm Peter	PERSON
+Stooss	PERSON
+Stopperich	PERSON
+Storch	PERSON
+Storm	PERSON
+Friedrich-Karl	PERSON
+Sträter	PERSON
+Straßmeir	PERSON
+Stratmann	PERSON
+Stratmann-Mertens	PERSON
+Strauß	PERSON
+Striebeck	PERSON
+Strobel	PERSON
+Käte	PERSON
+Ströbele	PERSON
+Hans-Christian	PERSON
+Strohbach	PERSON
+Strohmayr	PERSON
+Strosche	PERSON
+Johannes-Helmut	PERSON
+Strube	PERSON
+Struck	PERSON
+Struve	PERSON
+Stübgen	PERSON
+Stücklen	PERSON
+Stümer	PERSON
+Stutzer	PERSON
+Such	PERSON
+Suck	PERSON
+Sühler	PERSON
+Süssmuth	PERSON
+Süsterhenn	PERSON
+Suhr	PERSON
+Sund	PERSON
+Supf	PERSON
+Susset	PERSON
+Sybertz	PERSON
+Szwed	PERSON
+Tallert	PERSON
+Tamble	PERSON
+Tamm	PERSON
+Tappe	PERSON
+Tatge	PERSON
+Tausch-Treml	PERSON
+Teichman	PERSON
+Cornelia Christiane	PERSON
+Temmen	PERSON
+Tenhagen	PERSON
+Terborg	PERSON
+Margitta	PERSON
+Teriete	PERSON
+Terra	PERSON
+Hans-Adolf	PERSON
+Teubner	PERSON
+Maria Luise	PERSON
+Thadden	PERSON
+Franz-Lorenz	PERSON
+Thalheim	PERSON
+Thees	PERSON
+Theil	PERSON
+Theis	PERSON
+Thiele	PERSON
+Carl-Ludwig	PERSON
+Grete	PERSON
+Thieme	PERSON
+Thierse	PERSON
+Thies	PERSON
+Thomae	PERSON
+Thürk	PERSON
+Thüsing	PERSON
+Tichi	PERSON
+Tiesler	PERSON
+Tietjen	PERSON
+Tillmann	PERSON
+Tillmanns	PERSON
+Timm	PERSON
+Tischer	PERSON
+Titze-Stecher	PERSON
+Uta	PERSON
+Tobaben	PERSON
+Todenhöfer	PERSON
+Tönjes	PERSON
+Töpfer	PERSON
+Toetemeyer	PERSON
+Hans-Günther	PERSON
+Topmann	PERSON
+Toscher	PERSON
+Toussaint	PERSON
+Traub	PERSON
+Trenz	PERSON
+Trischler	PERSON
+Trittelvitz	PERSON
+Troppenz	PERSON
+Tschiche	PERSON
+Hans-Jochen	PERSON
+Tübler	PERSON
+Türk	PERSON
+Ueberhorst	PERSON
+Ueberschär	PERSON
+Uecker	PERSON
+Uelhoff	PERSON
+Uldall	PERSON
+Gunnar	PERSON
+Ullmann	PERSON
+Unertl	PERSON
+Unger	PERSON
+Dietmar-Richard	PERSON
+Unland	PERSON
+Unruh	PERSON
+Urban	PERSON
+Urbaniak	PERSON
+Hans-Eberhard	PERSON
+Vahlberg	PERSON
+Varelmann	PERSON
+Vehar	PERSON
+Veit	PERSON
+Vennegerts	PERSON
+Verbeek	PERSON
+Vergin	PERSON
+Verheugen	PERSON
+Verheyen	PERSON
+Verhoeven	PERSON
+Verhülsdonk	PERSON
+Vesper	PERSON
+Vietje	PERSON
+Vit	PERSON
+Vittinghoff-Schell	PERSON
+Vogel	PERSON
+Axel	PERSON
+Vogelsang	PERSON
+Vogt	PERSON
+Vohrer	PERSON
+Voigt	PERSON
+Karsten D.	PERSON
+Voigtländer	PERSON
+Volkholz	PERSON
+Vollmer	PERSON
+Volmer	PERSON
+Ludger	PERSON
+Vondran	PERSON
+Ruprecht	PERSON
+Vosen	PERSON
+Voss	PERSON
+Voß	PERSON
+Vries	PERSON
+Wacher	PERSON
+Wacker	PERSON
+Wackerzapp	PERSON
+Wächter	PERSON
+Waffenschmidt	PERSON
+Wagner	PERSON
+Wahl	PERSON
+Waigel	PERSON
+Waldburg-Zeil	PERSON
+Walkhoff	PERSON
+Wallmann	PERSON
+Wallner	PERSON
+Wallow	PERSON
+Walpert	PERSON
+Waltemathe	PERSON
+Hansjoachim	PERSON
+Walz	PERSON
+Warnke	PERSON
+Warrikoff	PERSON
+Wartenberg	PERSON
+Ludolf-Georg	PERSON
+Wartner	PERSON
+Wawrzik	PERSON
+Weber	PERSON
+Helene	PERSON
+Wegener	PERSON
+Solveig	PERSON
+Wegner	PERSON
+Konstanze	PERSON
+Wehking	PERSON
+Wehner	PERSON
+Wehr	PERSON
+Weickert	PERSON
+Weiermann	PERSON
+Weigl	PERSON
+Weiland	PERSON
+Weiler	PERSON
+Weimer	PERSON
+Weinhofer	PERSON
+Weinhold	PERSON
+Weinkamm	PERSON
+Weinzierl	PERSON
+Weirich	PERSON
+Weis	PERSON
+Weisheit	PERSON
+Weiskirch	PERSON
+Weiß	PERSON
+Weiss	PERSON
+Weißgerber	PERSON
+Weisskirchen	PERSON
+Weizsäcker	PERSON
+Welke	PERSON
+Wellhausen	PERSON
+Wellmann	PERSON
+Welskop	PERSON
+Welslau	PERSON
+Welt	PERSON
+Welter	PERSON
+Emmi	PERSON
+Weltner	PERSON
+Wende	PERSON
+Wendelborn	PERSON
+Wendig	PERSON
+Wendt	PERSON
+Weng	PERSON
+Werber	PERSON
+Gerd Peter	PERSON
+Wernitz	PERSON
+Wessel	PERSON
+Wester	PERSON
+Westphal	PERSON
+Westrich	PERSON
+Lydia	PERSON
+Wettig-Danielmeier	PERSON
+Wetzel	PERSON
+Kersten	PERSON
+Margrit	PERSON
+Wex	PERSON
+Weyel	PERSON
+Weyer	PERSON
+Wichert	PERSON
+Wiechatzek	PERSON
+Wieczorek	PERSON
+Wieczorek-Zeul	PERSON
+Wiedeck	PERSON
+Wiefel	PERSON
+Wiefelspütz	PERSON
+Wienand	PERSON
+Wieninger	PERSON
+Wiesche	PERSON
+Wildermuth	PERSON
+Wilhelmi	PERSON
+Will-Feld	PERSON
+Waltrud	PERSON
+Willeke	PERSON
+Willenberg	PERSON
+Wilms	PERSON
+Dorothee	PERSON
+Wilms-Kegel	PERSON
+Wilper	PERSON
+Wilz	PERSON
+Wimmer	PERSON
+Windelen	PERSON
+Winkelheide	PERSON
+Winterstein	PERSON
+Ladislaus	PERSON
+Wirths	PERSON
+Wischnewski	PERSON
+Wisniewski	PERSON
+Wissebach	PERSON
+Wissmann	PERSON
+Witek	PERSON
+With	PERSON
+Wittenburg	PERSON
+Wittich	PERSON
+Wittmann	PERSON
+Wittmer-Eigenbrodt	PERSON
+Wittrock	PERSON
+Wönner	PERSON
+Wörner	PERSON
+Wöstenberg	PERSON
+Wohlleben	PERSON
+Künstel-Wohlleben	PERSON
+Wohlrabe	PERSON
+Wolff	PERSON
+Jeanette	PERSON
+Wolfgramm	PERSON
+Wollny	PERSON
+Woltje	PERSON
+Wonneberger	PERSON
+Worms	PERSON
+Wrangel	PERSON
+Wrede	PERSON
+Wülfing	PERSON
+Wüppesahl	PERSON
+Würfel	PERSON
+Wuermeling	PERSON
+Würtz	PERSON
+Würzbach	PERSON
+Peter Kurt	PERSON
+Wüster	PERSON
+Wulff	PERSON
+Wullenhaupt	PERSON
+Wurbs	PERSON
+Wurche	PERSON
+Wuttke	PERSON
+Wuwer	PERSON
+Yzer	PERSON
+Zander	PERSON
+Karl Fred	PERSON
+Zapf	PERSON
+Zawadil	PERSON
+Zebisch	PERSON
+Zeitel	PERSON
+Zeitler	PERSON
+Zeitlmann	PERSON
+Zerbe	PERSON
+Edwin	PERSON
+Zeyer	PERSON
+Ziegler	PERSON
+Zierer	PERSON
+Zimmer	PERSON
+Zimmermann	PERSON
+Zink	PERSON
+Zinn	PERSON
+Georg-August	PERSON
+Zirkler	PERSON
+Klaus-Otto	PERSON
+Zöller	PERSON
+Zöpel	PERSON
+Zoglmann	PERSON
+Zschornack	PERSON
+Zühlke	PERSON
+Zumkley	PERSON
+Zumpfort	PERSON
+Wolf-Dieter	PERSON
+Zurheide	PERSON
+Zutt	PERSON
+Zywietz	PERSON
+Altmann	PERSON
+Barnett	PERSON
+Basten	PERSON
+Franz-Peter	PERSON
+Beck-Oberdorf	PERSON
+Marieluise	PERSON
+Beck	PERSON
+Berninger	PERSON
+Bertl	PERSON
+Bierstedt	PERSON
+Böhmer	PERSON
+Böttcher	PERSON
+Maritta	PERSON
+Bosbach	PERSON
+Hildebrecht	PERSON
+Braune	PERSON
+Tilo	PERSON
+Bulling-Schröter	PERSON
+Buntenbach	PERSON
+Annelie	PERSON
+Deichmann	PERSON
+Deittert	PERSON
+Dietert-Scheuer	PERSON
+Amke	PERSON
+Dietzel	PERSON
+Dreßen	PERSON
+Eichstädt-Bohlig	PERSON
+Einsiedel	PERSON
+Elm	PERSON
+Ernstberger	PERSON
+Eßmann	PERSON
+Heinz-Dieter	PERSON
+Faße	PERSON
+Annette	PERSON
+Ulf	PERSON
+Fograscher	PERSON
+Follak	PERSON
+Frick	PERSON
+Gerhardt	PERSON
+Gloser	PERSON
+Glücklich	PERSON
+Wilma	PERSON
+Glücklich-Rusche	PERSON
+Grasedieck	PERSON
+Grießhaber	PERSON
+Grill	PERSON
+Kurt-Dieter	PERSON
+Gröhe	PERSON
+Grund	PERSON
+Hagemann	PERSON
+Hartenbach	PERSON
+Hemker	PERSON
+Hempelmann	PERSON
+Hendricks	PERSON
+Hermenau	PERSON
+Heubaum	PERSON
+Heym	PERSON
+Heyne	PERSON
+Kristin	PERSON
+Hiksch	PERSON
+Hirche	PERSON
+Höfer	PERSON
+Höfken-Deipenbrock	PERSON
+Höfken	PERSON
+Jelena	PERSON
+Holzhüter	PERSON
+Hovermann	PERSON
+Hustedt	PERSON
+Michaele	PERSON
+Ilte	PERSON
+Imhof	PERSON
+Irber	PERSON
+Brunhilde	PERSON
+Jacob	PERSON
+Jacoby	PERSON
+Janssen	PERSON
+Jann-Peter	PERSON
+Jawurek	PERSON
+Jüttemann	PERSON
+Kanther	PERSON
+Kaspereit	PERSON
+Kinkel	PERSON
+Kiper	PERSON
+Manuel	PERSON
+Klaeden	PERSON
+Klaußner	PERSON
+Knake-Werner	PERSON
+Heidi	PERSON
+Knoche	PERSON
+Köhne	PERSON
+Königshofen	PERSON
+Köster-Loßack	PERSON
+Krautscheid	PERSON
+Kressl	PERSON
+Nicolette	PERSON
+Kröning	PERSON
+Kues	PERSON
+Kuhn	PERSON
+Kunick	PERSON
+Kurzhals	PERSON
+Kutzmutz	PERSON
+Labsch	PERSON
+Lafontaine	PERSON
+Karl A.	PERSON
+Lanfermann	PERSON
+Laschet	PERSON
+Armin	PERSON
+Lehn	PERSON
+Lemke	PERSON
+Steffi	PERSON
+Wollenberger	PERSON
+Vera	PERSON
+Lengsfeld	PERSON
+Leonhard-Schmid	PERSON
+Letzgus	PERSON
+Löwisch	PERSON
+Sigrun	PERSON
+Lotz	PERSON
+Lüth	PERSON
+Luft	PERSON
+Maleuda	PERSON
+Mante	PERSON
+Meißner	PERSON
+Merz	PERSON
+Michelbach	PERSON
+Mogg	PERSON
+Kerstin	PERSON
+Nachtwei	PERSON
+Neuhäuser	PERSON
+Rosel	PERSON
+Özdemir	PERSON
+Cem	PERSON
+Onur	PERSON
+Leyla	PERSON
+Papenroth	PERSON
+Pfannenstein	PERSON
+Beatrix	PERSON
+Polenz	PERSON
+Pretzlaff	PERSON
+Simone	PERSON
+Rachel	PERSON
+Rehbock-Zureich	PERSON
+Reichard	PERSON
+Reichardt	PERSON
+Rexrodt	PERSON
+Richwien	PERSON
+Robbe	PERSON
+Rochlitz	PERSON
+Rössel	PERSON
+Röttgen	PERSON
+Ronsöhr	PERSON
+Rübenkönig	PERSON
+Scharping	PERSON
+Schauerte	PERSON
+Scheelen	PERSON
+Scherhag	PERSON
+Schewe-Gerigk	PERSON
+Irmingard	PERSON
+Schindler	PERSON
+Schlauch	PERSON
+Rezzo	PERSON
+Schmidt-Jortzig	PERSON
+Edzard	PERSON
+Schmiedeberg	PERSON
+Hans-Otto	PERSON
+Schnieber-Jastram	PERSON
+Schönberger	PERSON
+Schubert	PERSON
+Mathias	PERSON
+Schütze	PERSON
+Diethard	PERSON
+Schuhmann	PERSON
+Frederick	PERSON
+Schwall-Düren	PERSON
+Angelica	PERSON
+Sebastian	PERSON
+Wilhelm Josef	PERSON
+Seiffert	PERSON
+Selle	PERSON
+Siebert	PERSON
+Singhammer	PERSON
+Späte	PERSON
+Spanier	PERSON
+Spiller	PERSON
+Jörg-Otto	PERSON
+Stadler	PERSON
+Steenblock	PERSON
+Rainder	PERSON
+Steiger	PERSON
+Steinbach-Hermann	PERSON
+Steinbach	PERSON
+Steindor	PERSON
+Marina	PERSON
+Sterzing	PERSON
+Straubinger	PERSON
+Tauss	PERSON
+Teichmann	PERSON
+Teiser	PERSON
+Teuchner	PERSON
+Jella	PERSON
+Thieser	PERSON
+Thönnes	PERSON
+Tiemann	PERSON
+Tippach	PERSON
+Tröger	PERSON
+Tröscher	PERSON
+Adelheid	PERSON
+Ute	PERSON
+Warnick	PERSON
+Willner	PERSON
+Wodarg	PERSON
+Wöhrl	PERSON
+Dagmar G.	PERSON
+Wolf-Mayer	PERSON
+Margareta	PERSON
+Wright	PERSON
+Zwerenz	PERSON
+Hanns-Peter	PERSON
+Strebl	PERSON
+Göllner	PERSON
+Westerwelle	PERSON
+Heiderich	PERSON
+Egbert	PERSON
+Rupprecht	PERSON
+Marlene	PERSON
+Helling	PERSON
+Kühn-Mengel	PERSON
+Seib	PERSON
+Bürsch	PERSON
+Folta	PERSON
+Kramp-Karrenbauer	PERSON
+Annegret	PERSON
+Heinzig	PERSON
+Balt	PERSON
+Thiel	PERSON
+Barthle	PERSON
+Baumann	PERSON
+Bernhardt	PERSON
+Bierwirth	PERSON
+Binding	PERSON
+Bodewig	PERSON
+Bonitz	PERSON
+Sylvia	PERSON
+Brandner	PERSON
+Brase	PERSON
+Brinkmann	PERSON
+Bruckmann	PERSON
+Brüderle	PERSON
+Caesar	PERSON
+Cajus Julius	PERSON
+Cajus	PERSON
+Danckert	PERSON
+Dautzenberg	PERSON
+Deligöz	PERSON
+Ekin	PERSON
+Dött	PERSON
+Dückert	PERSON
+Dzembritzki	PERSON
+Dzewas	PERSON
+Edathy	PERSON
+Ehlert	PERSON
+Elser	PERSON
+Marga	PERSON
+Faust	PERSON
+Hans-Josef	PERSON
+Fischbach	PERSON
+Axel E.	PERSON
+Fornahl	PERSON
+Forster	PERSON
+Lilo	PERSON
+Fromme	PERSON
+Jochen-Konrad	PERSON
+Gebhardt	PERSON
+Gehb	PERSON
+Gehrcke	PERSON
+Girisch	PERSON
+Göring-Eckardt	PERSON
+Katrin Dagmar	PERSON
+Goldmann	PERSON
+Hans-Michael	PERSON
+Gradistanac	PERSON
+Grehn	PERSON
+Griefahn	PERSON
+Grotthaus	PERSON
+Hartnagel	PERSON
+Hauer	PERSON
+Nina	PERSON
+Haupt	PERSON
+Heil	PERSON
+Heinen-Esser	PERSON
+Helias	PERSON
+Hempel	PERSON
+Hans Jochen	PERSON
+Herzog	PERSON
+Hofbauer	PERSON
+Hohmann	PERSON
+Holetschek	PERSON
+Carsten	PERSON
+Humme	PERSON
+Jünger	PERSON
+Krentzlin	PERSON
+Kahrs	PERSON
+Kasparick	PERSON
+Kenzler	PERSON
+Evelyn	PERSON
+Kopp	PERSON
+Kramme	PERSON
+Anette	PERSON
+Krogmann	PERSON
+Krüger-Leißner	PERSON
+Küchler	PERSON
+Kumpf	PERSON
+Lambrecht	PERSON
+Lehder	PERSON
+Lenke	PERSON
+Lewering	PERSON
+Lietz	PERSON
+Lippmann-Kasten	PERSON
+Lippmann	PERSON
+Lötzer	PERSON
+Götz-Peter	PERSON
+Loske	PERSON
+Manzewski	PERSON
+Marhold	PERSON
+Tobias	PERSON
+Mark	PERSON
+Merten-Hamann	PERSON
+Moosbauer	PERSON
+Bernward	PERSON
+Klaus Wolfgang	PERSON
+Nahles	PERSON
+Naumann	PERSON
+Steinke	PERSON
+Niebel	PERSON
+Nietan	PERSON
+Nooke	PERSON
+Obermeier	PERSON
+Ohl	PERSON
+Ortel	PERSON
+Pau	PERSON
+Pflug	PERSON
+Pieper	PERSON
+Reiche	PERSON
+Katherina	PERSON
+Röspel	PERSON
+René	PERSON
+Rossmann	PERSON
+Ernst Dieter	PERSON
+Anita	PERSON
+Silvia	PERSON
+Schönfeld	PERSON
+Karsten	PERSON
+Schösser	PERSON
+Schüßler	PERSON
+Schur	PERSON
+Schurer	PERSON
+Siemann	PERSON
+Simmert	PERSON
+Spielmann	PERSON
+Staffelt	PERSON
+Ditmar	PERSON
+Stöckel	PERSON
+Störr-Ritter	PERSON
+Streb-Hesse	PERSON
+Strobl	PERSON
+Stünker	PERSON
+Edeltraut	PERSON
+Trittin	PERSON
+Uhl	PERSON
+Vaatz	PERSON
+Violka	PERSON
+Volquartz	PERSON
+Voßhoff	PERSON
+Andrea Astrid	PERSON
+Ernst Ulrich	PERSON
+Wend	PERSON
+Widmann-Mauz	PERSON
+Wiese	PERSON
+Heino	PERSON
+Wiesehügel	PERSON
+Willsch	PERSON
+Wistuba	PERSON
+Wittig	PERSON
+Wittlich	PERSON
+Aribert	PERSON
+Roos	PERSON
+Arndt-Brauer	PERSON
+Feibel	PERSON
+Bettin	PERSON
+Grietje	PERSON
+Griese	PERSON
+Kelber	PERSON
+Schmidt (Weilburg)	PERSON
+Blumenthal	PERSON
+Lösekrug-Möller	PERSON
+Grygier	PERSON
+Serowiecki	PERSON
+Teickner	PERSON
+Akgün	PERSON
+Lale	PERSON
+Andreae	PERSON
+Bätzing	PERSON
+Bätzing-Lichtenthäler	PERSON
+Daniel	PERSON
+Bartol	PERSON
+Sören	PERSON
+Ernst-Reinhard	PERSON
+Beckmeyer	PERSON
+Lanzinger	PERSON
+Behm	PERSON
+Bellmann	PERSON
+Veronika	PERSON
+Birgitt	PERSON
+Benneter	PERSON
+Klaus Uwe	PERSON
+Bergner	PERSON
+Bietmann	PERSON
+Binninger	PERSON
+Bollmann	PERSON
+Bonde	PERSON
+Helge	PERSON
+Brüning	PERSON
+Marco	PERSON
+Butalikakis	PERSON
+Connemann	PERSON
+Gitta	PERSON
+Daub	PERSON
+Dobrindt	PERSON
+Dörmann	PERSON
+Dominke	PERSON
+Dümpe-Krüger	PERSON
+Eberl	PERSON
+Ehrmann	PERSON
+Siegmund	PERSON
+Eichel	PERSON
+Evers-Meyer	PERSON
+Fahrenschon	PERSON
+Ferlemann	PERSON
+Enak	PERSON
+Hartwig	PERSON
+Flachsbarth	PERSON
+Flosbach	PERSON
+Frechen	PERSON
+Gauweiler	PERSON
+Gewalt	PERSON
+Gienger	PERSON
+Göbel	PERSON
+Gönner	PERSON
+Tanja	PERSON
+Göppel	PERSON
+Granold	PERSON
+Grindel	PERSON
+Groneberg	PERSON
+Grosse-Brömer	PERSON
+Grübel	PERSON
+Karl-Theodor	PERSON
+Gutting	PERSON
+Olav	PERSON
+Hagedorn	PERSON
+Bettina	PERSON
+Haibach	PERSON
+Hajduk	PERSON
+Anja	PERSON
+Heller	PERSON
+Uda	PERSON
+Hennrich	PERSON
+Heß	PERSON
+Hettlich	PERSON
+Heynemann	PERSON
+Hiller-Ohm	PERSON
+Hochbaum	PERSON
+Thilo	PERSON
+Klaas	PERSON
+Jahr	PERSON
+Jonas	PERSON
+Klaus Werner	PERSON
+Kaster	PERSON
+Kaupa	PERSON
+Klimke	PERSON
+Klöckner	PERSON
+Julia	PERSON
+Klug	PERSON
+Astrid	PERSON
+Kristina	PERSON
+Kramer	PERSON
+Kranz	PERSON
+Kretschmer	PERSON
+Krichbaum	PERSON
+Gunther	PERSON
+Krings	PERSON
+Künast	PERSON
+Kurth	PERSON
+Undine	PERSON
+Laurischk	PERSON
+Sibylle	PERSON
+Leibrecht	PERSON
+Lips	PERSON
+Patricia	PERSON
+Löning	PERSON
+Lötzsch	PERSON
+Gesine	PERSON
+Lührmann	PERSON
+Mantel	PERSON
+Bär	PERSON
+Marks	PERSON
+Caren	PERSON
+Mattheis	PERSON
+Hilde	PERSON
+Conny	PERSON
+Mayer-Bonde	PERSON
+Laurenz	PERSON
+Minkel	PERSON
+Montag	PERSON
+Jerzy	PERSON
+Mortler	PERSON
+Mützenich	PERSON
+Multhaupt	PERSON
+Nitzsche	PERSON
+Henry	PERSON
+Nüßlein	PERSON
+Ober	PERSON
+Ostendorff	PERSON
+Pawelski	PERSON
+Pinkwart	PERSON
+Priesmeier	PERSON
+Pronold	PERSON
+Raab	PERSON
+Daniela	PERSON
+Raabe	PERSON
+Sascha	PERSON
+Riester	PERSON
+Roedel	PERSON
+Runde	PERSON
+Rzepka	PERSON
+Sager	PERSON
+Krista	PERSON
+Schaaf	PERSON
+Scheuer	PERSON
+Schirmbeck	PERSON
+Schreck	PERSON
+Ole	PERSON
+Schulte-Drüggelte	PERSON
+Swen	PERSON
+Schummer	PERSON
+Schwanholz	PERSON
+Segner	PERSON
+Sehling	PERSON
+Selg	PERSON
+Silberhorn	PERSON
+Sowa	PERSON
+Spahn	PERSON
+Stinner	PERSON
+Oßwald	PERSON
+Melanie	PERSON
+Oßwald-Stößlein	PERSON
+Stokar von Neuforn	PERSON
+Silke	PERSON
+Storjohann	PERSON
+Strässer	PERSON
+Tadjadod	PERSON
+Noll	PERSON
+Tritz	PERSON
+Volkmar Uwe	PERSON
+Vogel-Sperl	PERSON
+Vogelsänger	PERSON
+Volkmer	PERSON
+Wanderwitz	PERSON
+Weigel	PERSON
+Wellenreuther	PERSON
+Ingo	PERSON
+Wicklein	PERSON
+Winkler	PERSON
+Josef Philip	PERSON
+Zöllmer	PERSON
+Zylajew	PERSON
+Piltz	PERSON
+Happach-Kasan	PERSON
+Brunkhorst	PERSON
+Kauch	PERSON
+Strothmann	PERSON
+Lena	PERSON
+Wissing	PERSON
+Drobinski-Weiß	PERSON
+Elvira	PERSON
+Auernhammer	PERSON
+Königshaus	PERSON
+Kofler	PERSON
+Krüger-Jacob	PERSON
+Addicks	PERSON
+Lazar	PERSON
+Klingbeil	PERSON
+Lars	PERSON
+Carl-Eduard	PERSON
+Dieckmann	PERSON
+Terwiesche	PERSON
+Ahrendt	PERSON
+Albach	PERSON
+Amann	PERSON
+Annen	PERSON
+Niels	PERSON
+Aydin	PERSON
+Hüseyin-Kenan	PERSON
+Bareiß	PERSON
+Barth	PERSON
+Beckstein	PERSON
+Binder	PERSON
+Bisky	PERSON
+Bluhm	PERSON
+Bluhm-Förster	PERSON
+Blumentritt	PERSON
+Bunge	PERSON
+Burkert	PERSON
+Dağdelen	PERSON
+Sevim	PERSON
+Patrick	PERSON
+Dreibus	PERSON
+Dressel	PERSON
+Carl-Christian	PERSON
+Duin	PERSON
+Garrelt	PERSON
+Dyckmans	PERSON
+Mechthild	PERSON
+Gabriel	PERSON
+Sigmar	PERSON
+Kai	PERSON
+Geisen	PERSON
+Edmund Peter	PERSON
+Golze	PERSON
+Diana	PERSON
+Gruß	PERSON
+Miriam	PERSON
+Grütters	PERSON
+Gunkel	PERSON
+Hänsel	PERSON
+Haßelmann	PERSON
+Britta	PERSON
+Haustein	PERSON
+Heinz-Peter	PERSON
+Heilmann	PERSON
+Delazari Heilmann	PERSON
+Hill	PERSON
+Hans-Kurt	PERSON
+Hinz	PERSON
+Priska	PERSON
+Hoff	PERSON
+Hofreiter	PERSON
+Höger-Neuling	PERSON
+Höger	PERSON
+Höhn	PERSON
+Holzenkamp	PERSON
+Hübinger	PERSON
+Jochimsen	PERSON
+Lukrezia	PERSON
+Hans-Heinrich	PERSON
+Juratovic	PERSON
+Josip	PERSON
+Kammer	PERSON
+Keskin	PERSON
+Hakki	PERSON
+Kipping	PERSON
+Katja	PERSON
+Kleiminger	PERSON
+Koczy	PERSON
+Koeppen	PERSON
+Korte	PERSON
+Koschorrek	PERSON
+Kotting-Uhl	PERSON
+Krummacher	PERSON
+Johann-Henrich	PERSON
+Kucharczyk	PERSON
+Kunert	PERSON
+Lämmel	PERSON
+Andreas G.	PERSON
+Lehmer	PERSON
+Lehrieder	PERSON
+Leutert	PERSON
+Liebing	PERSON
+Ingbert	PERSON
+Michael Georg	PERSON
+Lopez	PERSON
+Mast	PERSON
+Maurer	PERSON
+Meierhofer	PERSON
+Meinhardt	PERSON
+Menzner	PERSON
+Miersch	PERSON
+Mißfelder	PERSON
+Kornelia	PERSON
+Möllring	PERSON
+Mühlstein	PERSON
+Marko	PERSON
+Müller-Sönksen	PERSON
+Burkhardt	PERSON
+Neskovic	PERSON
+Oppermann	PERSON
+Otte	PERSON
+Paech	PERSON
+Norman	PERSON
+Pothmer	PERSON
+Ramelow	PERSON
+Rawert	PERSON
+Rehberg	PERSON
+Reichel	PERSON
+Maik	PERSON
+Reinke	PERSON
+Rix	PERSON
+Sönke	PERSON
+Röring	PERSON
+Schäffler	PERSON
+Scharfenberg	PERSON
+Schavan	PERSON
+Schick	PERSON
+Schieder	PERSON
+Schiewerling	PERSON
+Schui	PERSON
+Schwarzelühr-Sutter	PERSON
+Sitte	PERSON
+Spieth	PERSON
+Steppuhn	PERSON
+Stoiber	PERSON
+Tabillion	PERSON
+Tackmann	PERSON
+Kirsten	PERSON
+Terpe	PERSON
+Thießen	PERSON
+Jörn	PERSON
+Toncar	PERSON
+Troost	PERSON
+Waitz	PERSON
+Weinberg	PERSON
+Marcus	PERSON
+Karl-Georg	PERSON
+Winkelmeier	PERSON
+Winkelmeier-Becker	PERSON
+Hartfrid	PERSON
+Wunderlich	PERSON
+Zeil	PERSON
+Zypries	PERSON
+Pries	PERSON
+Bollen	PERSON
+Hermann-Josef	PERSON
+Nouripour	PERSON
+Omid	PERSON
+Thul	PERSON
+Maisch	PERSON
+Nicole	PERSON
+Steinecke	PERSON
+Eisel	PERSON
+Herlitzius	PERSON
+Strengmann-Kuhn	PERSON
+Sarrazin	PERSON
+Hirte	PERSON
+Mahlberg	PERSON
+Volk	PERSON
+Lotter	PERSON
+Högl	PERSON
+Hultsch	PERSON
+Tempel	PERSON
+Aken	PERSON
+Alpers	PERSON
+Aschenberg-Dugnus	PERSON
+Barchmann	PERSON
+Heinz-Joachim	PERSON
+Bas	PERSON
+Behrens	PERSON
+Bernschneider	PERSON
+Bilger	PERSON
+Birkwald	PERSON
+Matthias W.	PERSON
+Bockhahn	PERSON
+Bögel	PERSON
+Bögel-Hoyer	PERSON
+Bracht-Bendt	PERSON
+Brackmann	PERSON
+Brandl	PERSON
+Brehmer	PERSON
+Breil	PERSON
+Brinkhaus	PERSON
+Buchholz	PERSON
+Buschmann	PERSON
+Canel	PERSON
+Cramon-Taubadel	PERSON
+Viola	PERSON
+Crone	PERSON
+Deutschmann	PERSON
+Djir-Sarai	PERSON
+Bijan	PERSON
+Dörner	PERSON
+Erdel	PERSON
+Feist	PERSON
+Edgar	PERSON
+Frieser	PERSON
+Gädechens	PERSON
+Gambke	PERSON
+Gebhart	PERSON
+Gerdes	PERSON
+Gerig	PERSON
+Gohlke	PERSON
+Golombeck	PERSON
+Gottschalck	PERSON
+Groschek	PERSON
+Grotelüschen	PERSON
+Groth	PERSON
+Harbarth	PERSON
+Hardt	PERSON
+Heider	PERSON
+Heveling	PERSON
+Ansgar	PERSON
+Höferlin	PERSON
+Hönlinger	PERSON
+Holmeier	PERSON
+Hunko	PERSON
+Andrej	PERSON
+Jarzombek	PERSON
+Jasper	PERSON
+Kaczmarek	PERSON
+Oliver	PERSON
+Kamp	PERSON
+Kekeritz	PERSON
+Keul	PERSON
+Kiesewetter	PERSON
+Roderich	PERSON
+Kilic	PERSON
+Memet	PERSON
+Kindler	PERSON
+Sven-Christian	PERSON
+Klein-Schmeink	PERSON
+Knoerig	PERSON
+Knopek	PERSON
+Pascal	PERSON
+Koenigs	PERSON
+Tom	PERSON
+Körber	PERSON
+Krellmann	PERSON
+Krischer	PERSON
+Krumwiede	PERSON
+Kruse	PERSON
+Kudla	PERSON
+Lach	PERSON
+Lay	PERSON
+Leidig	PERSON
+Lemme	PERSON
+Steffen-Claudio	PERSON
+Lenkert	PERSON
+Leyen	PERSON
+Liebich	PERSON
+Lindemann	PERSON
+Lindner	PERSON
+Linnemann	PERSON
+Lischka	PERSON
+Luczak	PERSON
+Jan-Marco	PERSON
+Lühmann	PERSON
+Luksic	PERSON
+Lutze	PERSON
+Maag	PERSON
+Malczak	PERSON
+Brugger	PERSON
+Agnieszka	PERSON
+Marwitz	PERSON
+Mattfeldt	PERSON
+Meßmer	PERSON
+Ullrich	PERSON
+Middelberg	PERSON
+Molitor	PERSON
+Monstadt	PERSON
+Movassat	PERSON
+Niema	PERSON
+Nadine	PERSON
+Schön	PERSON
+Müller-Gemmeke	PERSON
+Beate	PERSON
+Murmann	PERSON
+Nestle	PERSON
+Nink	PERSON
+Nord	PERSON
+Notz	PERSON
+Özoğuz	PERSON
+Aydan	PERSON
+Hermann E.	PERSON
+Paus	PERSON
+Petermann	PERSON
+Pitterle	PERSON
+Poland	PERSON
+Pols	PERSON
+Puttrich	PERSON
+Lucia	PERSON
+Reinemund	PERSON
+Remmers	PERSON
+Riebsamen	PERSON
+Rief	PERSON
+Röhlinger	PERSON
+Rößner	PERSON
+Tabea	PERSON
+Rüddel	PERSON
+Ruppert	PERSON
+Schipanski	PERSON
+Tankred	PERSON
+Schlecht	PERSON
+Frithjof	PERSON
+Schnieder	PERSON
+Schnurr	PERSON
+Jimmy	PERSON
+Schwartze	PERSON
+Schweickert	PERSON
+Seif	PERSON
+Sendker	PERSON
+Senger-Schäfer	PERSON
+Kathrin	PERSON
+Sensburg	PERSON
+Sharma	PERSON
+Raju	PERSON
+Sieling	PERSON
+Simmling	PERSON
+Skudelny	PERSON
+Judith	PERSON
+Spatz	PERSON
+Staffeldt	PERSON
+Stauche	PERSON
+Steffel	PERSON
+Sonja	PERSON
+Sonja Amalie	PERSON
+Steinbrück	PERSON
+Peer	PERSON
+Steinmeier	PERSON
+Frank-Walter	PERSON
+Stier	PERSON
+Stracke	PERSON
+Strenz	PERSON
+Stüber	PERSON
+Süßmair	PERSON
+Tack	PERSON
+Tauber	PERSON
+Tiefensee	PERSON
+Tören	PERSON
+Serkan	PERSON
+Tressel	PERSON
+Vogler	PERSON
+Wadephul	PERSON
+Johann David	PERSON
+Wagenknecht	PERSON
+Sahra	PERSON
+Wawzyniak	PERSON
+Halina	PERSON
+Wichtel	PERSON
+Valerie	PERSON
+Ploetz	PERSON
+Yvonne	PERSON
+Klamt	PERSON
+Ewa	PERSON
+Ratjen-Damerau	PERSON
+Christiane	PERSON
+Krestel	PERSON
+Johanna	PERSON
+Egloff	PERSON
+Rebmann	PERSON
+Ebner	PERSON
+Seiler	PERSON
+Till	PERSON
+Polheim	PERSON
+Walter-Rosenheimer	PERSON
+Todtenhausen	PERSON
+Sawade	PERSON
+Arfst	PERSON
+Hellmich	PERSON
+Kieckbusch	PERSON
+Drexler	PERSON
+Albani	PERSON
+Albsteiger	PERSON
+Amtsberg	PERSON
+Baehrens	PERSON
+Baerbock	PERSON
+Annalena	PERSON
+Barley	PERSON
+Katarina	PERSON
+Bartke	PERSON
+Bartz	PERSON
+Benning	PERSON
+Sybille	PERSON
+Berghegger	PERSON
+André	PERSON
+Blienert	PERSON
+Brantner	PERSON
+Castellucci	PERSON
+Daldrup	PERSON
+Diaby	PERSON
+Karamba	PERSON
+Dinges-Dierig	PERSON
+Alexandra	PERSON
+Dittmar	PERSON
+Donth	PERSON
+Dröge	PERSON
+Durz	PERSON
+Eckenbach	PERSON
+Engelmeier	PERSON
+Esken	PERSON
+Saskia	PERSON
+Fabritius	PERSON
+Färber	PERSON
+Fechner	PERSON
+Feiler	PERSON
+Felgentreu	PERSON
+Finckh-Krämer	PERSON
+Flisek	PERSON
+Freese	PERSON
+Frei	PERSON
+Thorsten	PERSON
+Freudenstein	PERSON
+Gastel	PERSON
+Giousouf	PERSON
+Cemile	PERSON
+Groden-Kranich	PERSON
+Gröhler	PERSON
+Grötsch	PERSON
+Uli	PERSON
+Herlind	PERSON
+Güntzler	PERSON
+Hagl-Kehl	PERSON
+Hakverdi	PERSON
+Metin	PERSON
+Hauptmann	PERSON
+Heidenblut	PERSON
+Gabriela	PERSON
+Helfrich	PERSON
+Hellmuth	PERSON
+Heidtrud	PERSON
+Hoppenstedt	PERSON
+Horb	PERSON
+Margaret	PERSON
+Charles M.	PERSON
+Hupach	PERSON
+Ilgen	PERSON
+Irlstorfer	PERSON
+Janecek	PERSON
+Jantz	PERSON
+Jantz-Herrmann	PERSON
+Jörrißen	PERSON
+Jost	PERSON
+Xaver	PERSON
+Junge	PERSON
+Jurk	PERSON
+Kampmann	PERSON
+Kanitz	PERSON
+Kapschack	PERSON
+Karawanskij	PERSON
+Susanna	PERSON
+Karliczek	PERSON
+Kassner	PERSON
+Katzmarek	PERSON
+Kermer	PERSON
+Kippels	PERSON
+Kiziltepe	PERSON
+Cansel	PERSON
+Klare	PERSON
+Kömpel	PERSON
+Koob	PERSON
+Kühne	PERSON
+Roy	PERSON
+Lagosky	PERSON
+Launert	PERSON
+Leikert	PERSON
+Lerchenfeld	PERSON
+Lezius	PERSON
+Lindholz	PERSON
+Hiltrud	PERSON
+Lücking-Michel	PERSON
+Magwas	PERSON
+Malecha-Nissen	PERSON
+Manderla	PERSON
+Marschall von Bieberstein	PERSON
+Matern	PERSON
+Meier	PERSON
+Meiwald	PERSON
+Metzler	PERSON
+Mihalic	PERSON
+Irene	PERSON
+Mindrup	PERSON
+Mittag	PERSON
+Möring	PERSON
+Motschmann	PERSON
+Michelle	PERSON
+Mutlu	PERSON
+Özcan	PERSON
+Neu	PERSON
+Alexander S.	PERSON
+Nick	PERSON
+Ulli	PERSON
+Nowak	PERSON
+Oßner	PERSON
+Ostermann	PERSON
+Tim	PERSON
+Mahmut	PERSON
+Pahlmann	PERSON
+Pantel	PERSON
+Paschke	PERSON
+Patzelt	PERSON
+Pätzold	PERSON
+Pflugradt	PERSON
+Jeannine	PERSON
+Pilger	PERSON
+Poschmann	PERSON
+Post	PERSON
+Raatz	PERSON
+Rabanus	PERSON
+Radomski	PERSON
+Radwan	PERSON
+De Ridder	PERSON
+Rimkus	PERSON
+Dennis	PERSON
+Rosemann	PERSON
+Rüffer	PERSON
+Corinna	PERSON
+Rüthrich	PERSON
+Susann	PERSON
+Rützel	PERSON
+Saathoff	PERSON
+Schabedoth	PERSON
+Schauws	PERSON
+Ulle	PERSON
+Schiefner	PERSON
+Schimke	PERSON
+Jana	PERSON
+Schlegel	PERSON
+Schmelzle	PERSON
+Heiko	PERSON
+Schulz-Asche	PERSON
+Kordula	PERSON
+Schwarzer	PERSON
+Tino	PERSON
+Spiering	PERSON
+Spinrath	PERSON
+Svenja	PERSON
+Stamm-Fibich	PERSON
+Stefinger	PERSON
+Stegemann	PERSON
+Steineke	PERSON
+Steiniger	PERSON
+Stockhofe	PERSON
+Stritzl	PERSON
+Sütterlin-Waack	PERSON
+Tank	PERSON
+Azize	PERSON
+Tausend	PERSON
+Thews	PERSON
+Timmermann-Fechter	PERSON
+Träger	PERSON
+Veith	PERSON
+Oswin	PERSON
+Verlinden	PERSON
+Viesehon	PERSON
+Vietz	PERSON
+Volmering	PERSON
+Sven	PERSON
+Vöpel	PERSON
+Voßbeck-Kayser	PERSON
+Kees	PERSON
+Warken	PERSON
+Gabi	PERSON
+Albert H.	PERSON
+Weisgerber	PERSON
+Marian	PERSON
+Whittaker	PERSON
+Wittke	PERSON
+Wöllert	PERSON
+Woltmann	PERSON
+Yüksel	PERSON
+Gülistan	PERSON
+Zdebel	PERSON
+Zech	PERSON
+Zertik	PERSON
+Zeulner	PERSON
+Zierke	PERSON
+Zollner	PERSON
+Kovac	PERSON
+Petry	PERSON
+Westermayer	PERSON
+Glöckner	PERSON
+Ronja	PERSON
+Menz	PERSON
+Thissen	PERSON
+Ryglewski	PERSON
+Sarah	PERSON
+Mosblech	PERSON
+Scho-Antwerpes	PERSON
+Elfi	PERSON
+Rode-Bosse	PERSON
+Ripsam	PERSON
+Rösel	PERSON
+Wange	PERSON
+Coße	PERSON
+Bähr-Losse	PERSON
+Hajek	PERSON
+Höschel	PERSON
+Mathias Edwin	PERSON
+Herdan	PERSON
+Marion Marga	PERSON
+Jepsen	PERSON
+Abercron	PERSON
+Achelwilm	PERSON
+Aggelidis	PERSON
+Grigorios	PERSON
+Akbulut	PERSON
+Gökay	PERSON
+Alt	PERSON
+Renata	PERSON
+Altenkamp	PERSON
+Norbert Maria	PERSON
+Amthor	PERSON
+Badum	PERSON
+Barrientos	PERSON
+Bause	PERSON
+Bayaz	PERSON
+Danyal	PERSON
+Bayram	PERSON
+Canan	PERSON
+Beeck	PERSON
+In der Beek	PERSON
+Nicola	PERSON
+Marc	PERSON
+Bernstein	PERSON
+Bernstiel	PERSON
+Beutin	PERSON
+Lorenz Gösta	PERSON
+Biadacz	PERSON
+Bleck	PERSON
+Boehringer	PERSON
+Brandenburg	PERSON
+Mario	PERSON
+Michel	PERSON
+Breher	PERSON
+Brehm	PERSON
+Breymaier	PERSON
+Brodesser	PERSON
+Bühl	PERSON
+Bull-Bischoff	PERSON
+Birke	PERSON
+Busen	PERSON
+Bystron	PERSON
+Petr	PERSON
+Cezanne	PERSON
+Christmann	PERSON
+Chrupalla	PERSON
+Cotar	PERSON
+Joana	PERSON
+Carl-Julius	PERSON
+Curio	PERSON
+Damerow	PERSON
+Dassler	PERSON
+Britta Katharina	PERSON
+Dilcher	PERSON
+Esther	PERSON
+Domscheit-Berg	PERSON
+Droese	PERSON
+Ebbing	PERSON
+Ehrhorn	PERSON
+Elsner von Gronow	PERSON
+Berengar	PERSON
+Erndl	PERSON
+Esdar	PERSON
+Wiebke	PERSON
+Espendiller	PERSON
+Faber	PERSON
+Fahimi	PERSON
+Yasmin	PERSON
+Felser	PERSON
+Ferschl	PERSON
+Föst	PERSON
+Freihold	PERSON
+Friesen	PERSON
+Frohnmaier	PERSON
+Frömming	PERSON
+Gabelmann	PERSON
+Gauland	PERSON
+Gehrke	PERSON
+Gelbhaar	PERSON
+Glaser	PERSON
+Gminder	PERSON
+Gnodtke	PERSON
+Gottberg	PERSON
+Gottschalk	PERSON
+Kay	PERSON
+Gremmels	PERSON
+Timon	PERSON
+Grundl	PERSON
+Armin-Paulus	PERSON
+Harder-Kühnel	PERSON
+Mariana Iris	PERSON
+Haug	PERSON
+Hebner	PERSON
+Helling-Plahr	PERSON
+Hemmelgarn	PERSON
+Udo Theodor	PERSON
+Henrichmann	PERSON
+Herbrand	PERSON
+Herbst	PERSON
+Herdt	PERSON
+Hess	PERSON
+Hessel	PERSON
+Heßenkemper	PERSON
+Hilse	PERSON
+Hocker	PERSON
+Gero Clemens	PERSON
+Hollnagel	PERSON
+Holm	PERSON
+Leif-Erik	PERSON
+Houben	PERSON
+Ihnen	PERSON
+Fabian	PERSON
+Jongen	PERSON
+Ingmar	PERSON
+Kamann	PERSON
+Kappert-Gonther	PERSON
+Kartes	PERSON
+Torbjörn	PERSON
+Kemmerich	PERSON
+Thomas L.	PERSON
+Kessler	PERSON
+Kestner	PERSON
+Keuter	PERSON
+Kießling	PERSON
+Kleinwächter	PERSON
+Marcel	PERSON
+Kloke	PERSON
+Willkomm	PERSON
+Kluckert	PERSON
+Lukas	PERSON
+Komning	PERSON
+Enrico	PERSON
+König	PERSON
+Carina	PERSON
+Korkmaz	PERSON
+Elvan	PERSON
+Korkmaz-Emre	PERSON
+Kotré	PERSON
+Krauß	PERSON
+Kuffer	PERSON
+Kuhle	PERSON
+Kulitz	PERSON
+Lechte	PERSON
+Lehmann	PERSON
+Lindh	PERSON
+Löbel	PERSON
+Nikolas	PERSON
+Loos	PERSON
+Lucassen	PERSON
+Maas	PERSON
+Magnitz	PERSON
+Malsack-Winkemann	PERSON
+Mannes	PERSON
+Mansmann	PERSON
+Martens	PERSON
+De Masi	PERSON
+Fabio	PERSON
+Meiser	PERSON
+Miazga	PERSON
+Mieruch	PERSON
+Mohamed Ali	PERSON
+Amira	PERSON
+Mohrs	PERSON
+Falko	PERSON
+Siemtje	PERSON
+Mrosek	PERSON
+Müller-Böhm	PERSON
+Müller-Rosentritt	PERSON
+Münz	PERSON
+Münzenmaier	PERSON
+Nastic	PERSON
+Zaklin	PERSON
+Nicolaisen	PERSON
+Jan Ralf	PERSON
+Oehme	PERSON
+Josephine	PERSON
+Oster	PERSON
+Otten	PERSON
+Pasemann	PERSON
+Pellmann	PERSON
+Perli	PERSON
+Peterka	PERSON
+Tobias Matthias	PERSON
+Frauke	PERSON
+Pilsinger	PERSON
+Ploß	PERSON
+Podolay	PERSON
+Paul Viktor	PERSON
+Polat	PERSON
+Filiz	PERSON
+Protschka	PERSON
+Martin Erwin	PERSON
+Reusch	PERSON
+Roman Johannes	PERSON
+Reuther	PERSON
+Riexinger	PERSON
+Rottmann	PERSON
+Manuela	PERSON
+Rouenhoff	PERSON
+Sattelberger	PERSON
+Schielke-Ziesing	PERSON
+Schinnenburg	PERSON
+Schlund	PERSON
+Robby	PERSON
+Schmidtke	PERSON
+Schraps	PERSON
+Schrodi	PERSON
+Schüle	PERSON
+Manja	PERSON
+Schweiger	PERSON
+Seestern-Pauly	PERSON
+Seitz	PERSON
+Sichert	PERSON
+Sitta	PERSON
+Sommer	PERSON
+Helin Evrim	PERSON
+Spangenberg	PERSON
+Spaniel	PERSON
+Springer	PERSON
+Staffler	PERSON
+Stark-Watzinger	PERSON
+Steier	PERSON
+Strack-Zimmermann	PERSON
+Marie-Agnes	PERSON
+Straetmanns	PERSON
+Strasser	PERSON
+Benjamin	PERSON
+Stumpp	PERSON
+Suding	PERSON
+Tatti	PERSON
+Jessica	PERSON
+Tebroke	PERSON
+Teuteberg	PERSON
+Linda	PERSON
+Theurer	PERSON
+Throm	PERSON
+Dietlind	PERSON
+Töns	PERSON
+Andrew	PERSON
+Vieregge	PERSON
+Weeser	PERSON
+Sandra	PERSON
+Weidel	PERSON
+Alice	PERSON
+Westig	PERSON
+Wiehle	PERSON
+Wiesmann	PERSON
+Bettina Margarethe	PERSON
+Wildberg	PERSON
+Wirth	PERSON
+Witt	PERSON
+Ziemiak	PERSON
+Jensen	PERSON
+Gyde	PERSON
+Völlers	PERSON
+Marja-Liisa	PERSON
+Zickenheiner	PERSON
+Baradari	PERSON
+Nezahat	PERSON
+Heidt	PERSON
+Mackensen	PERSON
+Isabel	PERSON
+Weingarten	PERSON
+Joe	PERSON
+Schneidewind-Hartnagel	PERSON
+Hanke	PERSON
+Reginald	PERSON
+Bubendorfer-Licht	PERSON
+Bela	PERSON
+Zonenrandgebiet	LOCATION
+Zonenrandregion	LOCATION
+Bundesrepublik	LOCATION
+Europa	LOCATION
+Großbritannien	LOCATION
+Euro-Zone	LOCATION
+Vereinigte Königreich	LOCATION
+Stuttgart	LOCATION
+Siegen	LOCATION
+Parabutsch	LOCATION
+Jugoslawien	LOCATION
+Berlin	LOCATION	PERSON	1.0
+Teterow, Kr. Teterow, Bezirk Neubrandenburg	LOCATION
+Masburg	LOCATION
+Kreis Cochem	LOCATION
+Düsseldorf	LOCATION
+Köln	LOCATION
+Drangstedt	LOCATION
+Krs. Wesermünde	LOCATION
+München	LOCATION
+Kevelaer	LOCATION
+Essen	LOCATION
+Hamburg	LOCATION
+Bremerhaven	LOCATION
+Salzgitter	LOCATION
+Jerstedt	LOCATION
+Hilter	LOCATION
+Teutoburger Wald	LOCATION
+Ebrach	LOCATION
+Hechingen	LOCATION
+Hohenzollern	LOCATION
+Mönchengladbach	LOCATION
+Duisburg	LOCATION
+Weimar	LOCATION
+Thüringen	LOCATION
+Greifswald	LOCATION
+Riesa	LOCATION
+Sachsen	LOCATION
+Rollshausen	LOCATION
+Krs. Duderstadt	LOCATION
+Holzminden	LOCATION
+Augsburg	LOCATION
+Kaiserslautern	LOCATION
+Flörsheim	LOCATION
+Todtenhausen	LOCATION
+Leipzig	LOCATION
+Eibelstadt	LOCATION
+Unterfranken	LOCATION
+Breslau	LOCATION
+Wirges	LOCATION
+Westerwald	LOCATION
+Elbing	LOCATION
+Ostpreußen	LOCATION
+Loechau	LOCATION
+Wattenscheid	LOCATION
+Heessen, Krs. Beckum	LOCATION
+Westfalen	LOCATION
+Rheydt	LOCATION
+Berlin/Köln	LOCATION
+Königsberg	LOCATION
+Marburg	LOCATION
+Lahn	LOCATION
+Herrlishöfen	LOCATION
+Fulda	LOCATION
+Bergisch Gladbach	LOCATION
+Gelsenkirchen-Buer	LOCATION
+Recklinghausen	LOCATION
+Hannover	LOCATION
+Kassel	LOCATION
+Rüthen	LOCATION
+Celle	LOCATION
+Witten	LOCATION
+Neuruppin	LOCATION
+Neuss	LOCATION
+Limbach	LOCATION
+Crailsheim	LOCATION
+Baden-Württemberg	LOCATION
+Frankenberg	LOCATION
+Freiburg	LOCATION
+Weinheim	LOCATION
+Bergstraße	LOCATION
+Ennigloh	LOCATION
+Jesteburg	LOCATION
+Treffurt	LOCATION
+Buchen	LOCATION
+Mosbach	LOCATION
+Chmeleschen	LOCATION
+Bzk. Karlsbad (Sudetenland)	LOCATION
+Saarlouis-Beaumarais	LOCATION
+Bochum	LOCATION
+Elpe	LOCATION
+Freising	LOCATION
+Ober-Ingelheim am Rhein	LOCATION
+Kreis Bingen	LOCATION
+Hüttigweiler	LOCATION
+Rosenheim	LOCATION
+Bayern	LOCATION
+Wanzleben bei Magdeburg	LOCATION
+Brandenburg	LOCATION
+Rinteln	LOCATION
+Weser	LOCATION
+Ludwigshafen	LOCATION
+Zeven, Krs. Rotenburg	LOCATION
+Wümme	LOCATION
+Nordhorn	LOCATION
+Münster	LOCATION
+Kirchworbis	LOCATION
+Neumünster	LOCATION
+Bielau	LOCATION
+Braunsberg	LOCATION
+Nürnberg	LOCATION
+Würzburg	LOCATION
+Wunsiedel	LOCATION
+Langendorf	LOCATION
+Krs. Weißenfels	LOCATION
+Wasserburg	LOCATION
+Steinach	LOCATION
+Ehingen	LOCATION
+Albertshofen	LOCATION
+Krs. Ravensburg	LOCATION
+Dresden	LOCATION
+Sulzemoos	LOCATION
+Württemberg	LOCATION
+Trugenhofen	LOCATION
+Korntal	LOCATION
+Dimboola	LOCATION
+Australien	LOCATION
+Heid	LOCATION
+Sudetenland	LOCATION
+Altenhaßlau	LOCATION
+Main-Kinzig-Kreis	LOCATION
+Hessen	LOCATION
+Pullach	LOCATION
+Karlsbad	LOCATION
+Gau-Algesheim	LOCATION
+Thale	LOCATION
+Harz	LOCATION
+Nienberge	LOCATION
+Pirmasens	LOCATION
+Frankfurt	LOCATION
+Flörsheim am Main	LOCATION
+Hersfeld	LOCATION
+ohne Angaben	LOCATION
+Krs. Herford	LOCATION
+Kiel	LOCATION
+Moskau	LOCATION
+Dortmund	LOCATION
+Philippsburg	LOCATION
+Landkrs. Karlsruhe	LOCATION
+Neurode	LOCATION
+Schlesien	LOCATION
+Hermsdorf	LOCATION
+Offenburg	LOCATION
+Baden	LOCATION
+Gottersdorf	LOCATION
+Fürstenau	LOCATION
+Ratzeburg	LOCATION
+Altena	LOCATION
+Alsdorf	LOCATION
+Krs. Aachen	LOCATION
+Lahnstein	LOCATION
+Ingelheim	LOCATION
+Frei-Weinheim	LOCATION
+Herne	LOCATION
+Ludwigsburg	LOCATION
+Eisenach	LOCATION
+Ibbenbüren	LOCATION
+Altkirch	LOCATION
+Oberelsass	LOCATION
+Brake	LOCATION
+Krs. Lemgo	LOCATION
+Dabringhausen	LOCATION
+Rheinisch-Bergischer Kreis	LOCATION
+Meerbusch-Osterath	LOCATION
+Boppard	LOCATION
+Heydekrug	LOCATION
+Memelland	LOCATION
+Soest	LOCATION
+Weßling	LOCATION
+Oberbayern	LOCATION
+Flammersfeld	LOCATION
+Bergneustadt	LOCATION
+Heedfeld b. Lüdenscheid	LOCATION
+Herdorf	LOCATION
+Konstanz	LOCATION
+Rhein	LOCATION
+Pfeddersheim	LOCATION
+Meißen	LOCATION
+Moersch	LOCATION
+Wernigerode	LOCATION
+Herford	LOCATION
+Goslar am Harz	LOCATION
+Frankfurt/Main	LOCATION
+Arnsberg	LOCATION
+Schönhausen	LOCATION
+Jarchlin	LOCATION
+Pommern	LOCATION
+Schönholz	LOCATION
+Bonn	LOCATION
+Lüdenscheid	LOCATION
+Oberhausen	LOCATION
+Barmen	LOCATION
+Elz	LOCATION
+Brachtendorf	LOCATION
+Hamburg-Altona	LOCATION
+Neunkirchen	LOCATION
+Saar	LOCATION
+Rüsselsheim	LOCATION
+Hannover-Davenstedt	LOCATION
+Uetersen	LOCATION
+Bad Segeberg	LOCATION
+Lübeck	LOCATION
+Berlin-Wilmersdorf	LOCATION
+Bethel b. Bielefeld	LOCATION
+Rückersrieth	LOCATION
+Lkrs. Vohenstrauß b.Weiden/Oberpf.	LOCATION
+Strasburg	LOCATION
+Westpreußen	LOCATION
+Jägerndorf	LOCATION
+Sudeten	LOCATION
+Hochspeyer	LOCATION
+Melsungen	LOCATION
+Hildesheim	LOCATION
+Leverkusen	LOCATION
+Bodensee	LOCATION
+Unna	LOCATION
+Chemnitz	LOCATION
+Lichtenau	LOCATION
+Ritterhude	LOCATION
+Wilster	LOCATION
+Holstein	LOCATION
+Bönstrup	LOCATION
+Flensburg	LOCATION
+Bad Kreuznach	LOCATION
+Rosdorf	LOCATION
+Krs. Göttingen	LOCATION
+Wilhelmshaven	LOCATION
+Vacha	LOCATION
+Nahrstedt	LOCATION
+Krs. Stendal	LOCATION
+Wuppertal	LOCATION
+Potsdam	LOCATION
+Bremen	LOCATION
+Rudolstadt	LOCATION
+Barth	LOCATION
+Krs. Ribnitz-Damgarten	LOCATION
+Königstein	LOCATION
+Krs. Pirna	LOCATION
+Pinneberg	LOCATION
+Koethen	LOCATION
+Remscheid	LOCATION
+Groß-Ilsede	LOCATION
+Krs. Peine	LOCATION
+Grolsheim	LOCATION
+Mainz-Mombach	LOCATION
+Helmstedt	LOCATION
+Altona	LOCATION
+Wermelskirchen	LOCATION
+Nakuru	LOCATION
+Kenia	LOCATION
+Quedlinburg	LOCATION
+Bezirk Halle	LOCATION
+Uehlingen	LOCATION
+Deffernik	LOCATION
+Langenberg	LOCATION
+Rheinland	LOCATION
+Zell	LOCATION
+Mosel	LOCATION
+Niederfischbach	LOCATION
+Offenbach	LOCATION
+Scharnhorst	LOCATION
+Krs. Celle	LOCATION
+Berghausen	LOCATION
+Wittgenstein	LOCATION
+Graefenroda	LOCATION
+Rinkerode	LOCATION
+Paderborn	LOCATION
+Grünsfeld	LOCATION
+Ronneburg	LOCATION
+Rostock	LOCATION
+Kirchberg	LOCATION
+Murr	LOCATION
+Groß-Ottersleben	LOCATION
+Holz	LOCATION
+Zweifelscheid	LOCATION
+Mannheim	LOCATION
+Madrid	LOCATION
+Spanien	LOCATION
+Ettmannsdorf	LOCATION
+Krs. Schwandorf	LOCATION
+Oberkochen, Krs. Aalen	LOCATION
+Köln-Lindenthal	LOCATION
+Attendorn	LOCATION
+Hamm	LOCATION
+Rottenburg	LOCATION
+Neckar	LOCATION
+Göttingen	LOCATION
+Offenbach am Main	LOCATION
+Ebersbach	LOCATION
+Hof	LOCATION
+Lkrs. Schwabach	LOCATION
+Speyer	LOCATION
+Heidelberg	LOCATION
+Ottenheim	LOCATION
+Bruchsal	LOCATION
+Bad Sachsa	LOCATION
+Erfurt	LOCATION
+Weißstein	LOCATION
+Ingolstadt	LOCATION
+Schönebeck	LOCATION
+Kolenfeld	LOCATION
+Landkrs. Hannover	LOCATION
+Weiden	LOCATION
+Oberpfalz	LOCATION
+Petershagen	LOCATION
+Mainz	LOCATION
+Perleberg	LOCATION
+Kollnau	LOCATION
+Breisgau	LOCATION
+Bennerscheid	LOCATION
+Siegkreis	LOCATION
+Bietigheim	LOCATION
+Krs. Ludwigsburg	LOCATION
+Bocholt	LOCATION
+Lübbecke	LOCATION
+Schirnding	LOCATION
+Fehmarn	LOCATION
+Emstek	LOCATION
+Molbergen	LOCATION
+Nordstrand	LOCATION
+Elisabeth-Sophienkoog	LOCATION
+Steinborn	LOCATION
+Höxter	LOCATION
+Volksberg	LOCATION
+Elsass	LOCATION
+Eggebek	LOCATION
+Braunschweig	LOCATION
+Völklingen	LOCATION
+Riegelsberg	LOCATION
+Homburg	LOCATION
+Kusel	LOCATION
+Rheinland-Pfalz	LOCATION
+Schwelm	LOCATION
+Aurich	LOCATION
+Bromberg	LOCATION
+Wunstorf	LOCATION
+Karlsruhe	LOCATION
+Norden	LOCATION
+Gera	LOCATION
+Neheim	LOCATION
+Nikolausberg	LOCATION
+Teschen	LOCATION
+Prijedor	LOCATION
+Bosnien	LOCATION
+Bratislava	LOCATION
+Preßburg	LOCATION
+CSSR	LOCATION
+Eckernförde	LOCATION
+Regensburg	LOCATION
+Rambsen	LOCATION
+Tungeln	LOCATION
+Koblenz	LOCATION
+Irl	LOCATION
+Landkrs. Mühldorf	LOCATION
+Krofdorf-Gleiberg	LOCATION
+Landkrs. Wetzlar	LOCATION
+Wuppertal-Elberfeld	LOCATION
+Lemgo	LOCATION
+Bernau	LOCATION
+Oberbayern (Chiemsee)	LOCATION
+Bremen-Blumenthal	LOCATION
+Lichtenfels	LOCATION
+Schwarzenberg	LOCATION
+Erzgebirge, Bezirk Chemnitz	LOCATION
+Bant bei Wilhelmshaven	LOCATION
+Rheine	LOCATION
+Angkofen	LOCATION
+Magdeburg	LOCATION
+Sinzig	LOCATION
+Neustuttgart	LOCATION
+Ukraine	LOCATION
+Röckersbühl	LOCATION
+Mettingen Krs. Tecklenburg	LOCATION
+Aschbach	LOCATION
+Küstrin	LOCATION
+Berlin-Zehlendorf	LOCATION
+Sylt	LOCATION
+Horressen	LOCATION
+Burg Leyen	LOCATION
+Gießen	LOCATION
+Werdohl	LOCATION
+Kössing	LOCATION
+Saale	LOCATION
+Saalfeld	LOCATION
+Kemberg	LOCATION
+Tiengen	LOCATION
+Landkrs. Waldshut	LOCATION
+Bad Oeynhausen	LOCATION
+Havel	LOCATION
+Neustadt a. d. Aisch	LOCATION
+Angermund	LOCATION
+Krs. Gütersloh	LOCATION
+Halle	LOCATION
+Brilon	LOCATION
+Dülken	LOCATION
+Bottrop	LOCATION
+Plöss	LOCATION
+Böhmerwald	LOCATION
+Boizenburg	LOCATION
+Elbe	LOCATION
+Bilsdorf	LOCATION
+Pirna	LOCATION
+Pergenroth	LOCATION
+Bützfleth	LOCATION
+Krs. Stade	LOCATION
+Kirn	LOCATION
+Rechberghausen	LOCATION
+Detmold	LOCATION
+Lauenburg	LOCATION
+Apolda	LOCATION
+Kreidelwitz	LOCATION
+Kreis Glogau	LOCATION
+Autenhausen	LOCATION
+Oberfranken	LOCATION
+Bad Oldesloe	LOCATION
+Fliesteden	LOCATION
+Wittenburg	LOCATION
+Landkreis Hagenow	LOCATION
+Danzig	LOCATION
+Ettlingen	LOCATION
+Kolzow-Wartow	LOCATION
+Krs. Wollin (Pommern)	LOCATION
+Mittelstetten	LOCATION
+St. Ilgen	LOCATION
+Rhein-Neckar-Kreis	LOCATION
+Collnischken	LOCATION
+Krs. Goldap (Ostpreußen)	LOCATION
+Solscheid	LOCATION
+Piesenkofen	LOCATION
+Landkr. Regensburg	LOCATION
+Jasberg	LOCATION
+Sulingen	LOCATION
+Lüdingworth	LOCATION
+Krs. Land Hadeln (Niedersachsen)	LOCATION
+Landau	LOCATION
+Pfalz	LOCATION
+Bielefeld	LOCATION
+Oldenburg	LOCATION
+Varel	LOCATION
+Fürth	LOCATION
+Trautenau	LOCATION
+Alpirsbach	LOCATION
+Bad Berka	LOCATION
+Krs. Weimar	LOCATION
+Langseifersdorf	LOCATION
+Osnabrück	LOCATION
+Langenberg (Rhön)	LOCATION
+Krs. Fulda	LOCATION
+Neuendorf	LOCATION
+Hof Selmsdorf	LOCATION
+Neuwürschnitz	LOCATION
+Landkr. Stollberg	LOCATION
+Siegsdorf bei Traunstein	LOCATION
+Krefeld	LOCATION
+Altlandsberg	LOCATION
+Krs. Strausberg	LOCATION
+Velen	LOCATION
+Hüsten	LOCATION
+Mitau	LOCATION
+Ulm	LOCATION
+Bad Schwalbach	LOCATION
+Waldbrunn	LOCATION
+Fussingen	LOCATION
+Oberschleißheim bei München	LOCATION
+Dieringhausen b. Gummersbach	LOCATION
+Burscheid	LOCATION
+Geldern	LOCATION
+Wesel	LOCATION
+Bamberg	LOCATION
+Eisenfelden	LOCATION
+Eidorf	LOCATION
+Helsingfors	LOCATION
+Finnland	LOCATION
+Leer	LOCATION
+Ostfriesland	LOCATION
+Stemshorn	LOCATION
+Krs. Grafschaft Diepholz	LOCATION
+Altendorf	LOCATION
+Osten/Oste, Krs. Cuxhaven (NDS)	LOCATION
+Fiefbergen	LOCATION
+Krs. Plön	LOCATION
+Aalborg	LOCATION
+Dänemark	LOCATION
+Tuttlingen	LOCATION
+Untermolbitz	LOCATION
+Altenburg-Thüringen	LOCATION
+Bevensen	LOCATION
+Krs. Uelzen	LOCATION
+Ascheberg	LOCATION
+Frankeneck	LOCATION
+Hameln	LOCATION
+Düren	LOCATION
+Solingen	LOCATION
+Parchim	LOCATION
+Krs. Parchim	LOCATION
+Garzweiler	LOCATION
+Krs. Grevenbroich	LOCATION
+Oberfrohna	LOCATION
+Koerbecke	LOCATION
+Erkelenz	LOCATION
+Krs. Erkelenz	LOCATION
+Straßburg	LOCATION
+Elsaß	LOCATION
+Wien	LOCATION
+Österreich	LOCATION
+Hirschau	LOCATION
+Landkrs. Amberg-Sulzbach	LOCATION
+Idar-Oberstein	LOCATION
+Krs. Birkenfeld (Rheinland-Pfalz)	LOCATION
+Kirkel-Neuhaeusel	LOCATION
+Niederlaasphe	LOCATION
+Saazer-Land	LOCATION
+Görlitz	LOCATION
+Neheim-Hüsten	LOCATION
+Salach	LOCATION
+Pedwahlen	LOCATION
+Lettland	LOCATION
+Gräfenhainichen	LOCATION
+Greppin	LOCATION
+Krs. Bitterfeld - Sachsen-Anhalt	LOCATION
+Osthofen	LOCATION
+Worms	LOCATION
+Gerabronn	LOCATION
+Ba.-Wü.	LOCATION
+Haltern	LOCATION
+Krs. Recklinghausen	LOCATION
+Saarland	LOCATION
+Köthen	LOCATION
+Sachsen-Anhalt	LOCATION
+Bad Hersfeld	LOCATION
+Vöcklabruck	LOCATION
+Oberösterreich	LOCATION
+Mayen	LOCATION
+Glauchau	LOCATION
+Heilbronn	LOCATION
+Bad Ems	LOCATION
+Kirchhellen	LOCATION
+Westerholt	LOCATION
+Wörth	LOCATION
+Donau	LOCATION
+Neuwied	LOCATION
+Stobnitt	LOCATION
+Gerlachsheim	LOCATION
+Josefsthal	LOCATION
+Altenburg	LOCATION
+Ahrensdorf	LOCATION
+Wittlich	LOCATION
+Schweidnitz	LOCATION
+Altenbunnen	LOCATION
+Krs. Cloppenburg	LOCATION
+Ottersweier	LOCATION
+Helmbrechts	LOCATION
+Carlsruhe	LOCATION
+Oberschlesien	LOCATION
+Bayreuth	LOCATION
+Epe	LOCATION
+Meppen	LOCATION
+Burgau	LOCATION
+Schwaben	LOCATION
+Ortmannsdorf	LOCATION
+Deggendorf	LOCATION
+Bernried	LOCATION
+Teisendorf	LOCATION
+Welzheim	LOCATION
+Gausmannsweiler	LOCATION
+Welmlingen	LOCATION
+Wiesbaden	LOCATION
+Hathenow b. Küstrin	LOCATION
+Ostbrandenburg	LOCATION
+Josephshof	LOCATION
+Striegau	LOCATION
+Sasbach	LOCATION
+Rossbach	LOCATION
+Kraisdorf	LOCATION
+Empertsreut	LOCATION
+Landkrs.Wolfstein	LOCATION
+Verl	LOCATION
+Goldap	LOCATION
+Egeln	LOCATION
+Sulz am Neckar	LOCATION
+Konstantinopel	LOCATION
+Kirchheim	LOCATION
+Kattowitz	LOCATION
+Hagen	LOCATION
+Neuses am Sand	LOCATION
+Gutenzell	LOCATION
+Börrat	LOCATION
+Krs. Aalen	LOCATION
+NRW	LOCATION
+Lahr	LOCATION
+Obersontheim	LOCATION
+Kreis Schwäbisch Hall	LOCATION
+Hattenhofen	LOCATION
+Krs. Göppingen	LOCATION
+Berlin-Köpenick	LOCATION
+Gleiwitz	LOCATION
+Kalkhof	LOCATION
+St. Wendel	LOCATION
+Eiweiler	LOCATION
+Krs. St. Wendel (Saarland)	LOCATION
+Kirchherten	LOCATION
+Nauborn	LOCATION
+Hakedahl	LOCATION
+Kreis Detmold	LOCATION
+Aalen	LOCATION
+Neckarsulm	LOCATION
+Furth i. Wald	LOCATION
+Oberammergau	LOCATION
+Darmstadt	LOCATION
+Graz	LOCATION
+Großwallstadt	LOCATION
+Dillingen	LOCATION
+Herschenhofen	LOCATION
+Krs. Freising Oberbayern	LOCATION
+Radeberg	LOCATION
+Lauban	LOCATION
+Krs. Lauban	LOCATION
+Oberndorf	LOCATION
+Dorum	LOCATION
+Landkrs. Cuxhaven	LOCATION
+Schillingsfürst	LOCATION
+Hagenau	LOCATION
+Reideburg	LOCATION
+Saalkreis	LOCATION
+Oldeani	LOCATION
+Tansania 	LOCATION
+Emsland	LOCATION
+Lötzen	LOCATION
+Obernau	LOCATION
+Main	LOCATION
+Troppau	LOCATION
+Bothfeld	LOCATION
+Rotterdam	LOCATION
+Niederlande	LOCATION
+Teck	LOCATION
+Passau	LOCATION
+Außernzell	LOCATION
+Landkrs. Deggendorf (Niederbayern)	LOCATION
+Gelsenkirchen	LOCATION
+Zwickau	LOCATION
+Moselkern	LOCATION
+Hirschberg am See	LOCATION
+Krs. Dauba, Sudetenland	LOCATION
+Langenkorn	LOCATION
+Engers	LOCATION
+Insterburg	LOCATION
+Hückelhoven	LOCATION
+Dellfeld	LOCATION
+Steinbeck	LOCATION
+Schleusingen	LOCATION
+Krs. Suhl (Thüringen)	LOCATION
+Kamen	LOCATION
+Brünnau	LOCATION
+Eger	LOCATION
+Dithmarschen	LOCATION
+Wrohm	LOCATION
+Großeneder	LOCATION
+Bünde	LOCATION
+Wallerfangen	LOCATION
+Ensheim	LOCATION
+Cleebronn	LOCATION
+Duppau	LOCATION
+Baden-Baden	LOCATION
+Bad Ziegenhals	LOCATION
+Landshut	LOCATION
+Bokel	LOCATION
+Bernsbach	LOCATION
+Sachsen; Krs. Aue	LOCATION
+Prauß	LOCATION
+Schotten im Vogelsberg	LOCATION
+Mühlhausen	LOCATION
+Spiesen	LOCATION
+Wettringen	LOCATION
+Elze	LOCATION
+Haaren	LOCATION
+Friesoythe	LOCATION
+Schönlanke	LOCATION
+Netzekreis (Pommern)	LOCATION
+Harburg	LOCATION
+Westf.	LOCATION
+Eichenberg	LOCATION
+Krs. Witzenhausen, Hessen	LOCATION
+Wanfried-Werra	LOCATION
+Markgröningen	LOCATION
+Gnoien	LOCATION
+Mecklenburg	LOCATION
+Hildburghausen	LOCATION
+Aachen	LOCATION
+Balingen	LOCATION
+Haan	LOCATION
+Krs. Dux (Sudetenland)	LOCATION
+Kirchhundem	LOCATION
+Gnaschwitz	LOCATION
+Oberlausitz	LOCATION
+Schmolsin	LOCATION
+Krs. Stolp (Pommern)	LOCATION
+Atzelsdorf	LOCATION
+Niederösterreich	LOCATION
+Donaueschingen	LOCATION
+Sachsenberg	LOCATION
+Rheinhausen 	LOCATION
+Plauen	LOCATION
+Syrau	LOCATION
+Vogtland	LOCATION
+Weisendorf	LOCATION
+Extertal	LOCATION
+Extertal-Bösingfeld	LOCATION
+Krs. Lippe	LOCATION
+Glonn	LOCATION
+Pegnitz	LOCATION
+Kellinghusen	LOCATION
+Gut Burental	LOCATION
+Elversberg	LOCATION
+Krs. Neunkirchen	LOCATION
+Reichenberg	LOCATION
+Oberliebich	LOCATION
+Mahlow	LOCATION
+Krs. Teltow, Bez. Potsdam	LOCATION
+Reinholterode	LOCATION
+Uttenweiler	LOCATION
+Krs. Biberach	LOCATION
+Bendorf-Sayn	LOCATION
+Wolfach	LOCATION
+Schwarzwald, Ortenaukreis	LOCATION
+Groß-Mangersdorf	LOCATION
+Butzbach	LOCATION
+Nieder-Weisel, Wetterau	LOCATION
+Primkenau	LOCATION
+Schleswig	LOCATION
+Allmendshofen	LOCATION
+Dorpat	LOCATION
+Estland	LOCATION
+Schwefe	LOCATION
+Troisdorf	LOCATION
+Ruhr	LOCATION
+Rheurdt	LOCATION
+Bockel	LOCATION
+Krs. Rotenburg, Wümme	LOCATION
+Königshütte	LOCATION
+Krs. Königshütte	LOCATION
+Rusel	LOCATION
+Irlmoos, Gem.Greising, Lkrs. Deggendorf	LOCATION
+Geyer, Annaberg	LOCATION
+Lindern	LOCATION
+Bad Tennstedt	LOCATION
+Lüneburg	LOCATION
+Linderhofe	LOCATION
+Rethem	LOCATION
+Seelze	LOCATION
+Dahlen	LOCATION
+Hinterkirchen	LOCATION
+Essen-Altenessen	LOCATION
+Nivilingen	LOCATION
+Saargebiet	LOCATION
+Marborn	LOCATION
+Steinehaig	LOCATION
+Krs. Crailsheim	LOCATION
+Großhennersdorf	LOCATION
+Jena-West	LOCATION
+Jena-Ost	LOCATION
+Jena	LOCATION
+Gare	LOCATION
+Deutsch-Ost-Afrika	LOCATION
+Straubing	LOCATION
+Niederbayern	LOCATION
+Biberach-Riß	LOCATION
+Schweinfurt	LOCATION
+Backnang	LOCATION
+Schwarzwald	LOCATION
+Bad Godesberg	LOCATION
+Bonn-Bad Godesberg	LOCATION
+Rednitzhembach	LOCATION
+Plöckendorf	LOCATION
+Rednitzhembach, Landkrs. Roth	LOCATION
+Esslingen	LOCATION
+Göppingen	LOCATION
+Tübingen	LOCATION
+Rottweil	LOCATION
+Stettin	LOCATION
+Itzehohe	LOCATION
+Hohendorf	LOCATION
+Brackweide	LOCATION
+Peine	LOCATION
+Niedersachsen	LOCATION
+Salzgitter-Lebenstedt	LOCATION
+Hirschberg	LOCATION
+Feudingen	LOCATION
+Tettnang	LOCATION
+Büderich	LOCATION
+Bad Reichenhall	LOCATION
+Neuenkirchen	LOCATION
+Saarbrücken	LOCATION
+Beuthen	LOCATION
+Luckau	LOCATION
+Niederlausitz	LOCATION
+Bissenhausen	LOCATION
+Grambschütz	LOCATION
+Wolkau	LOCATION
+Haldensleben	LOCATION
+Altensteig	LOCATION
+Seelbach	LOCATION
+Arenberg	LOCATION
+Krs. Mayen-Koblenz	LOCATION
+Buschullersdorf	LOCATION
+Siegburg	LOCATION
+Rhein-Sieg-Kreis	LOCATION
+Schleiden	LOCATION
+Euskirchen	LOCATION
+Cuxhaven	LOCATION
+Spandau	LOCATION
+Kulmbach	LOCATION
+Warmensteinach	LOCATION
+Handrup	LOCATION
+Brackenheim	LOCATION
+Neuhof	LOCATION
+Kreis Waren (Mecklenburg)	LOCATION
+Beckingen	LOCATION
+Emden	LOCATION
+Haren	LOCATION
+Niederschopfheim	LOCATION
+Müncheberg	LOCATION
+Plattling	LOCATION
+Lkrs. Deggendorf	LOCATION
+Bad Honnef	LOCATION
+Zweibrücken	LOCATION
+Brennberg	LOCATION
+Schwetzinger	LOCATION
+Hessisch Lichtenau	LOCATION
+Sandershausen	LOCATION
+Coswig	LOCATION
+Anhalt, Krs. Roßlau, Bez. Halle	LOCATION
+Sulzbach	LOCATION
+Mollnitz a. d. Elbe	LOCATION
+Kraiburg am Inn	LOCATION
+Penzberg	LOCATION
+Gescher	LOCATION
+Lautzenbrücken	LOCATION
+Westerwaldkreis	LOCATION
+Nordheim v.d. Rhön	LOCATION
+Wesel-Büderich	LOCATION
+Greifenhagen	LOCATION
+Hoya	LOCATION
+Soltau	LOCATION
+Prag	LOCATION
+Tschechoslowakei	LOCATION
+Lindlar	LOCATION
+Hönningen	LOCATION
+Schönau	LOCATION
+Hausen	LOCATION
+Kronach	LOCATION
+Pilnikau	LOCATION
+Erksdorf	LOCATION
+Handorf	LOCATION
+Brünen	LOCATION
+Graudenz	LOCATION
+Salzwedel	LOCATION
+Iserlohn	LOCATION
+Singen	LOCATION
+Hohentwiel, Krs. Konstanz, B.-Württemberg	LOCATION
+Straelen	LOCATION
+Niederrhein	LOCATION
+Köln- Mühlheim	LOCATION
+Groß-Ullersdorf	LOCATION
+Pottenstein	LOCATION
+Annerod bei Gießen	LOCATION
+Köln-Holweide	LOCATION
+Stadtlohn	LOCATION
+Ballenberg	LOCATION
+Stockhausen	LOCATION
+Metz-Sablon	LOCATION
+Vaals	LOCATION
+Zerbst	LOCATION
+Kornelimünster	LOCATION
+Wuppertal-Ronsdorf	LOCATION
+Großlomnitz- Zips	LOCATION
+Slowakei	LOCATION
+Crimmitschau	LOCATION
+Lünen	LOCATION
+Dorsten	LOCATION
+Karken	LOCATION
+Krs. Heinsberg	LOCATION
+Kreuztal	LOCATION
+Schwenningen	LOCATION
+Diyatalawa	LOCATION
+Ceylon	LOCATION
+Eschweilerhof	LOCATION
+Wupperthal- Vohwinkel	LOCATION
+Warschau	LOCATION
+Ankum	LOCATION
+Krs. Bersenbrück	LOCATION
+Bad Elster	LOCATION
+Brieg	LOCATION
+Duisburg-Hamborn	LOCATION
+Weissenhorn	LOCATION
+Essen-Steele	LOCATION
+Rathenow	LOCATION
+Altenkirchen	LOCATION
+Manslagt	LOCATION
+Krs. Norden (Ostfriesland)	LOCATION
+Birkesdorf b. Düren	LOCATION
+Marl	LOCATION
+Neumark	LOCATION
+Krs. Löbau (Westpreußen)	LOCATION
+Köln/Iserlohn	LOCATION
+Trier	LOCATION
+Wangen	LOCATION
+Schillwen	LOCATION
+Krs. Heydekrug (Ostpreußen)	LOCATION
+Laach	LOCATION
+Berlin-Schöneberg	LOCATION
+Voxtrup	LOCATION
+Kirchwalde, Krs. Rosenberg	LOCATION
+Hartha	LOCATION
+Neustettin	LOCATION
+Langstrobnitz	LOCATION
+Niebüll	LOCATION
+Schleswig-Holstein, Nordfriesland	LOCATION
+Eutin	LOCATION
+Bergen auf Rügen	LOCATION
+Angermünde	LOCATION
+Rindelbach	LOCATION
+Jagst	LOCATION
+Fürstenwalde	LOCATION
+Spree	LOCATION
+Teublitz	LOCATION
+Nordrach	LOCATION
+Oberwesel	LOCATION
+Gurschdorf	LOCATION
+Krs. Freiwaldau, Sudetenland	LOCATION
+Kandel	LOCATION
+Limburg	LOCATION
+Lörrach	LOCATION
+Eupen	LOCATION
+Wirfus-Cochem	LOCATION
+Elberfeld	LOCATION
+Wittmoldt	LOCATION
+Gräfenort	LOCATION
+Liemke	LOCATION
+Sondershausen	LOCATION
+Absberg	LOCATION
+Charlottenburg	LOCATION
+Hammelburg	LOCATION
+Schwäbisch Gmünd	LOCATION
+Heilberskofen b.Mamming	LOCATION
+Krs. Dingolfing-Landau	LOCATION
+Reutlingen	LOCATION
+Bartschin	LOCATION
+Hagenow	LOCATION
+Meckenburg	LOCATION
+Minden	LOCATION
+Nachterstedt	LOCATION
+Wüstenzell	LOCATION
+Karlstadt	LOCATION
+Bückeburg	LOCATION
+Krs. Schaumburg	LOCATION
+Prossitten	LOCATION
+Hoffenheim	LOCATION
+Günzburg	LOCATION
+Neubrunn	LOCATION
+Heiden	LOCATION
+Krs. Borken	LOCATION
+Eggenfelden	LOCATION
+Kirchhausen	LOCATION
+Reinharts	LOCATION
+Gemeinde Sankt Mang	LOCATION
+Voerde	LOCATION
+Ennepetal	LOCATION
+Ebingen	LOCATION
+Großauheim	LOCATION
+Unterbach	LOCATION
+Passel bei Plettenberg	LOCATION
+Aistaig	LOCATION
+Ldkrs. Vilsbiburg, Niederbayern	LOCATION
+Stendal	LOCATION
+Altmark	LOCATION
+Pfaffing bei Chieming	LOCATION
+Bad Schandau	LOCATION
+Krs. Pirna-Dresden	LOCATION
+Wiesenhaus	LOCATION
+Posen	LOCATION
+Wuppertal-Barmen	LOCATION
+Mährisch-Schönberg	LOCATION
+Dieburg	LOCATION
+Hergershausen	LOCATION
+Krs. Dieburg	LOCATION
+Ittersdorf	LOCATION
+Saarlouis	LOCATION
+Stolberg	LOCATION
+Märing	LOCATION
+Oberhausen-Sterkrade	LOCATION
+Bodenbach	LOCATION
+Meseritz	LOCATION
+Honnef	LOCATION
+Uelzen	LOCATION
+Metz	LOCATION
+Ülsby	LOCATION
+Wittichenau	LOCATION
+Wirsberg	LOCATION
+Güstrow	LOCATION
+Arnsdorf	LOCATION
+Krs. Dresden	LOCATION
+Kirberg	LOCATION
+Langsdorf	LOCATION
+Ilbesheim	LOCATION
+Rechetsberg	LOCATION
+Neustadt bei Koburg	LOCATION
+Waldenburg	LOCATION
+Weißenfels	LOCATION
+Holtrup	LOCATION
+Rüstringen	LOCATION
+Harriehausen	LOCATION
+Hainspitz	LOCATION
+Peiskretscham	LOCATION
+Bühnsdorf	LOCATION
+Wolfsburg	LOCATION
+Lippstadt	LOCATION
+Hattenheim	LOCATION
+Rehborn	LOCATION
+Nordstadt	LOCATION
+Bad Neustadt	LOCATION
+Babenhausen	LOCATION
+Naunhof	LOCATION
+Krs. Grimma, Sachsen	LOCATION
+Krs. Havelberg	LOCATION
+Spittal	LOCATION
+Drau	LOCATION
+Berlin-Charlottenburg	LOCATION
+Nebenstedt	LOCATION
+Wesselburen	LOCATION
+Stadtroda	LOCATION
+Großörner Krs. Mansfeld	LOCATION
+Hollen	LOCATION
+Forchheim	LOCATION
+Falkensee	LOCATION
+Osthavelland	LOCATION
+Thorn	LOCATION
+Brustow	LOCATION
+Winningen	LOCATION
+Cham	LOCATION
+Mülhausen	LOCATION
+Herbern	LOCATION
+Eschweiler	LOCATION
+Kutzhof	LOCATION
+Amberg	LOCATION
+Börgerende	LOCATION
+Glogau	LOCATION
+Bonese	LOCATION
+Breitenhagen	LOCATION
+Dessau	LOCATION
+Bisperode	LOCATION
+Aschaffenburg	LOCATION
+Freilassing	LOCATION
+Crossen	LOCATION
+Mühlbach	LOCATION
+Erlangen	LOCATION
+Kronstadt	LOCATION
+Siebenbürgen	LOCATION
+Wriezen	LOCATION
+Mark Brandenburg	LOCATION
+Belecke	LOCATION
+Hessisch-Oldendorf	LOCATION
+Nordhausen	LOCATION
+Mecklenburg, Bez. Schwerin	LOCATION
+Altusried	LOCATION
+Oschersleben	LOCATION
+Bielitz	LOCATION
+Heerlen	LOCATION
+Rechterfeld	LOCATION
+Bad Lippspringe	LOCATION
+Neisse	LOCATION
+Gerdauen	LOCATION
+Misburg	LOCATION
+Klarenthal-Krughütte	LOCATION
+Montabaur	LOCATION
+Bautsch	LOCATION
+Komotau	LOCATION
+Schwalbach	LOCATION
+Baern	LOCATION
+Maehren	LOCATION
+Groppenheim	LOCATION
+Landkrs. Tirschenreuth	LOCATION
+Schildhorst	LOCATION
+Rentrisch	LOCATION
+Leitmeritz	LOCATION
+Kaulhausen	LOCATION
+Edenkoben	LOCATION
+Gittelde am Harz	LOCATION
+Erkrath	LOCATION
+Wendelsheim	LOCATION
+Königswinter	LOCATION
+Schönberg	LOCATION
+Holzwickede	LOCATION
+Eurastetten	LOCATION
+Großstorkwitz	LOCATION
+Kirchengel	LOCATION
+Krs Sondershausen, Bezirk Erfurt	LOCATION
+Remse	LOCATION
+Pösing	LOCATION
+Mauersberg	LOCATION
+Erzgebirge	LOCATION
+Elmlohe	LOCATION
+Wertheim	LOCATION
+Baden Württemberg	LOCATION
+Dinslaken	LOCATION
+Hermannstadt	LOCATION
+Rumänien	LOCATION
+Kirchdorf	LOCATION
+Riesenbeck	LOCATION
+Montenich	LOCATION
+Obertiefenbach	LOCATION
+Guttenbach	LOCATION
+Radelstetten	LOCATION
+b. Ulm, Donau	LOCATION
+Hagenbach	LOCATION
+Ilten	LOCATION
+Zella-Mehlis	LOCATION
+Vechta	LOCATION
+Bergheim	LOCATION
+Erft	LOCATION
+Efferen	LOCATION
+Hürth (Rheinland)	LOCATION
+Reeserward	LOCATION
+Brühl	LOCATION
+Vochem	LOCATION
+Trossingen	LOCATION
+Godesberg	LOCATION
+Wetzlar	LOCATION
+Balve	LOCATION
+Herborn-Burg	LOCATION
+Dillkreis	LOCATION
+Nöttingen	LOCATION
+Oberwalting	LOCATION
+Birklar	LOCATION
+Wismar	LOCATION
+Freudenstein	LOCATION
+Eisleben	LOCATION
+Diepholz	LOCATION
+Guntershausen	LOCATION
+Haar	LOCATION
+Landkrs. München	LOCATION
+Marktlangendorf	LOCATION
+Krs. Sternberg (Sudetenland)	LOCATION
+Liegnitz	LOCATION
+Bühl	LOCATION
+Dortmund-Hörde	LOCATION
+Mewe	LOCATION
+Krs. Dirschau	LOCATION
+Schloß Schönwörth	LOCATION
+Vohrde bei Bassum	LOCATION
+Castrop-Rauxel	LOCATION
+Engelskirchen	LOCATION
+Bergisches Land	LOCATION
+Donnerschwee	LOCATION
+Neuburg	LOCATION
+Trittau	LOCATION
+Hannover-Münden	LOCATION
+St. Hubert	LOCATION
+Kolberg	LOCATION
+Enkhausen	LOCATION
+Bensberg	LOCATION
+Schöneborn	LOCATION
+Krümmel	LOCATION
+Dahlhausen	LOCATION
+Ruhrkreis	LOCATION
+Heppenheim	LOCATION
+Bernstadt	LOCATION
+Schifferstadt	LOCATION
+Ennigerloh	LOCATION
+Heurenbach	LOCATION
+Allgäu	LOCATION
+Schorndorf	LOCATION
+Nordhausen am Harz	LOCATION
+Neuß	LOCATION
+Montreux	LOCATION
+Bingen am Rhein	LOCATION
+Klein-Wittenberg	LOCATION
+Herten	LOCATION
+Eisemroth	LOCATION
+Klein-Biesnitz	LOCATION
+Köln-Mülheim	LOCATION
+Gross-Steinheim	LOCATION
+Werlte	LOCATION
+Krs. Aschendorf	LOCATION
+Neudörfel	LOCATION
+Gaisbeuren	LOCATION
+Lauffen	LOCATION
+Cadenbach	LOCATION
+Birkenfeld	LOCATION
+Hintertiefenbach	LOCATION
+Siegertsbrunn	LOCATION
+Freyung	LOCATION
+Neustadt a. d. Weinstraße	LOCATION
+Hilden	LOCATION
+Leibolz	LOCATION
+Eifel	LOCATION
+Liebenau	LOCATION
+Böhmen	LOCATION
+Waldvelen	LOCATION
+Geisingen	LOCATION
+Ried	LOCATION
+Pivitsheide	LOCATION
+Lippe	LOCATION
+Rothenburg ob der Tauber	LOCATION
+Groß-Strehlitz	LOCATION
+Chiclayo	LOCATION
+Perú	LOCATION
+Teichhof	LOCATION
+Rittershausen	LOCATION
+Kunzendorf	LOCATION
+Krs. Schweidnitz (Schlesien)	LOCATION
+Stargard	LOCATION
+Burgsteinfurt	LOCATION
+Gerolstein	LOCATION
+Bövinghausen bei Dortmund	LOCATION
+Tilsit	LOCATION
+Krs. Quedlinburg, Sachsen-Anhalt	LOCATION
+Botenwald	LOCATION
+Wanne-Eickel	LOCATION
+Leobschütz	LOCATION
+Hamburg-Harburg	LOCATION
+Oppertshofen	LOCATION
+Auhausen	LOCATION
+Bielefeld-Gadderbaum	LOCATION
+Wehr	LOCATION
+Ronnenberg	LOCATION
+Merka	LOCATION
+Krs. Bautzen	LOCATION
+Krs. Höxter	LOCATION
+Welper	LOCATION
+Scherfede	LOCATION
+Haunstetten	LOCATION
+Engen	LOCATION
+Mechernich	LOCATION
+Krs. Euskirchen (Eifel)	LOCATION
+Radebeul	LOCATION
+Homberg	LOCATION
+Löbau	LOCATION
+Horatitz	LOCATION
+Jasenitz	LOCATION
+Mecklenburg-Vorpommern	LOCATION
+Brockhöfe	LOCATION
+Kreis Uelzen	LOCATION
+Lingen	LOCATION
+Plaidt	LOCATION
+Bagenz	LOCATION
+Spremberg	LOCATION
+Calw	LOCATION
+Wevelinghoven	LOCATION
+Wolfenbüttel	LOCATION
+Horumersiel	LOCATION
+Friesland	LOCATION
+Fautenbach	LOCATION
+Buchenhoeh	LOCATION
+Lehrte	LOCATION
+Remscheid-Lennep	LOCATION
+Pleisweiler	LOCATION
+Wesseling	LOCATION
+Berzdorf	LOCATION
+Zittau	LOCATION
+Krs. Görlitz	LOCATION
+Neckar, Baden-Württemberg	LOCATION
+Füramoos	LOCATION
+Krs. Biberach (Riss)	LOCATION
+Erbendorf	LOCATION
+Wadern	LOCATION
+Nunkirchen	LOCATION
+Krs. Merzig-Wadern, Saarland	LOCATION
+Nordenham	LOCATION
+Klein-Jannewitz	LOCATION
+Schaffhausen	LOCATION
+Krs. Saarlouis	LOCATION
+Aachen-Land	LOCATION
+Süchteln	LOCATION
+Ravensburg	LOCATION
+Glatt	LOCATION
+Wehdel	LOCATION
+Dömitz	LOCATION
+Bernburg	LOCATION
+Wohlau	LOCATION
+Thomigsdorf	LOCATION
+Mülheim	LOCATION
+Laufen	LOCATION
+Schweiz	LOCATION
+Dasburg	LOCATION
+Schwerin	LOCATION
+Rosenkopf	LOCATION
+Moosbach	LOCATION
+Soltau-Harburg	LOCATION
+Krotoschin	LOCATION
+Fritzlar	LOCATION
+Sippersfeld	LOCATION
+Höchst	LOCATION
+Odenwald	LOCATION
+Zierenberg	LOCATION
+Baiertal	LOCATION
+Neudamm	LOCATION
+Allensbach	LOCATION
+Gotha	LOCATION
+Stelle	LOCATION
+Bramsche	LOCATION
+Forst	LOCATION
+Lausitz	LOCATION
+Bad Harzburg	LOCATION
+Setterich	LOCATION
+Nordrhein-Westfalen	LOCATION
+Roslas	LOCATION
+Niedermurach	LOCATION
+Gölriehenfeld	LOCATION
+Wentorf	LOCATION
+Datteln	LOCATION
+Traunstein	LOCATION
+Freudenberg	LOCATION
+Krs. Rößel	LOCATION
+Wemlighausen	LOCATION
+Plettenberg	LOCATION
+Birkholz	LOCATION
+Lohne Kreis Vechta	LOCATION
+Jever	LOCATION
+Landkreis Friesland	LOCATION
+Säckingen	LOCATION
+Neuenburg	LOCATION
+Oppeln	LOCATION
+Oberurbach	LOCATION
+Meiningen	LOCATION
+Wahlscheid	LOCATION
+Weißensberg	LOCATION
+Jerusalem	LOCATION
+Israel	LOCATION
+Gladbeck	LOCATION
+Witten-Annen	LOCATION
+Genua	LOCATION
+Hahlen	LOCATION
+Barnstorf	LOCATION
+Hohenkirchen	LOCATION
+Uelsen-Höcklenkamp	LOCATION
+Krs. Grafschaft Bentheim	LOCATION
+Germersheim	LOCATION
+Penzendorf	LOCATION
+Mittelfranken	LOCATION
+Ottenreuth	LOCATION
+Uder	LOCATION
+Krs. Heiligenstadt-Bezirk Erfurt	LOCATION
+Schiffweiler	LOCATION
+Urbanstreben	LOCATION
+Krs. Bunzlau, Niederschlesien	LOCATION
+Kempten	LOCATION
+Engelshöhe	LOCATION
+Krs. Wehlau (Ostpreußen)	LOCATION
+Altenmarkt	LOCATION
+Heilbrunn	LOCATION
+Steinsdorf	LOCATION
+Parnow	LOCATION
+Kreis Köslin	LOCATION
+Diez	LOCATION
+Wedel	LOCATION
+Oberthal	LOCATION
+Dortmund-Oesoel	LOCATION
+Marienhafe	LOCATION
+Krs. Norden	LOCATION
+Pippensen 	LOCATION
+Poppenbüll	LOCATION
+Wittenberg	LOCATION
+Tevel	LOCATION
+Villingen	LOCATION
+Lutherstadt-Eisleben	LOCATION
+Untersulmetingen	LOCATION
+Laupheim-Ulm	LOCATION
+Jüterbog	LOCATION
+Wollenhagen	LOCATION
+Sohland	LOCATION
+Krs. Offenbach	LOCATION
+Beierfeld	LOCATION
+Witzenhausen	LOCATION
+Waldau	LOCATION
+Kaminsker-Hauland	LOCATION
+Tegernsee	LOCATION
+Landkrs. Miesbach	LOCATION
+Weeze	LOCATION
+Krs. Kleve	LOCATION
+Neusalz	LOCATION
+Oder, Niederschlesien	LOCATION
+Frankfurt/Oder	LOCATION
+Frankenstein	LOCATION
+Ostenland	LOCATION
+Krs. Paderborn	LOCATION
+Ortelsburg	LOCATION
+Speichersdorf	LOCATION
+Larrieden	LOCATION
+Krs. Feuchtwangen	LOCATION
+Amsterdam	LOCATION
+Gaggstatt	LOCATION
+Leidenhofen	LOCATION
+Krs. Marburg	LOCATION
+Burgstädt	LOCATION
+Budapest	LOCATION
+Ungarn	LOCATION
+Boguschau	LOCATION
+Krs. Graudenz	LOCATION
+Garching bei München	LOCATION
+Ühlingen	LOCATION
+Groß- Priesen	LOCATION
+Würselen	LOCATION
+Templin	LOCATION
+Langenhagen	LOCATION
+Oelde	LOCATION
+Lechnitz	LOCATION
+Untergrub	LOCATION
+Landkreis Straubing-Bogen	LOCATION
+Drackenstein	LOCATION
+Schramberg	LOCATION
+Hannoversch Münden	LOCATION
+Spellen bei Wesel	LOCATION
+Hochberg	LOCATION
+Friedrichsfeld	LOCATION
+Zweenfurth bei Leipzig	LOCATION
+Salmrohr	LOCATION
+Krs. Bernkastel-Wittlich	LOCATION
+Wuppertal-Cronenberg	LOCATION
+Achim	LOCATION
+Havixbeck	LOCATION
+Krs. Münster-Land	LOCATION
+Urexweiler	LOCATION
+Heiligenstadt	LOCATION
+Arnstadt	LOCATION
+Untersiemau	LOCATION
+Landkrs. Coburg	LOCATION
+Bochum-Harpen	LOCATION
+Zschorlau	LOCATION
+Krs. Chemnitz	LOCATION
+Klinthenen	LOCATION
+Pfohren	LOCATION
+Mudau	LOCATION
+Höhr-Grenzhausen	LOCATION
+Eibing	LOCATION
+Seeth bei Husum	LOCATION
+Unterweisenborn	LOCATION
+Freistadt	LOCATION
+Egstedt	LOCATION
+Heuchelheim	LOCATION
+Einsiedel b. Marienbad	LOCATION
+Lückenburg	LOCATION
+Heldenbergen	LOCATION
+Krs. Friedberg	LOCATION
+Westermühlen	LOCATION
+Drensteinfurth	LOCATION
+Schwarzenborn	LOCATION
+Izmir	LOCATION
+Breitenmarkt	LOCATION
+Kölln-Reisiek	LOCATION
+Krs. Pinneberg	LOCATION
+Schaaken Kreis Samland	LOCATION
+Oeffingen	LOCATION
+Schömberg	LOCATION
+Berlin-Tempelhof	LOCATION
+Gräfenroda	LOCATION
+Süssen	LOCATION
+Hugsweiler	LOCATION
+Gütersloh	LOCATION
+Wormeln	LOCATION
+Deutsch- Krone	LOCATION
+Krs. Bielefeld	LOCATION
+Landeshut	LOCATION
+Wietzen	LOCATION
+Nienburg	LOCATION
+Oldenburg-Ostenburg	LOCATION
+Merzig	LOCATION
+Langburkersdorf	LOCATION
+Aidhausen	LOCATION
+Wiesbaden-Schierstein	LOCATION
+Ammerndorf	LOCATION
+Beuel	LOCATION
+Groß-Schönau	LOCATION
+Quickborn	LOCATION
+Krs. Biberach a.d. Riß	LOCATION
+Odenkirchen	LOCATION
+Claffheim	LOCATION
+Lkrs. Feuchtwangen	LOCATION
+Ludwigshafen-Oggersheim	LOCATION
+Rauschwitz	LOCATION
+Krseis Glogau	LOCATION
+Raase	LOCATION
+Landkrs. Freudenthal (Sudetenschlesien)	LOCATION
+Zweibrücken-Ernstweiler	LOCATION
+Schwäbisch Hall	LOCATION
+Aschersleben	LOCATION
+Ochshausen	LOCATION
+Leutkirch	LOCATION
+Jävenitz	LOCATION
+Conradstal	LOCATION
+Heegermühle	LOCATION
+Siemianowitz	LOCATION
+Kassel-Harleshausen	LOCATION
+Bankau	LOCATION
+Schweskau	LOCATION
+Golmbach	LOCATION
+Gut Quickendorf	LOCATION
+Krs. Frankenstein (Schlesien)	LOCATION
+Ichenhausen	LOCATION
+Oxenbronn	LOCATION
+Krs. Günzburg	LOCATION
+Epfendorf	LOCATION
+Sindelfingen	LOCATION
+Appenweier	LOCATION
+Oberdielbach (Waldbrunn)	LOCATION
+Landsweiler	LOCATION
+Reden	LOCATION
+Hornberg	LOCATION
+Kopenhagen	LOCATION
+Gengenbach	LOCATION
+Lengenfeld	LOCATION
+Stein-Bezirk Erfurt	LOCATION
+Preußisch Eylau	LOCATION
+Krs. Usingen	LOCATION
+Westig	LOCATION
+Schillen	LOCATION
+Krs. Birnbaum 	LOCATION
+Velbert	LOCATION
+Krs. Mettmann (Rheinland)	LOCATION
+Ilmenau	LOCATION
+Grünmetterstetten Kreis Horb am Neckar	LOCATION
+Owen	LOCATION
+Teck Württemberg	LOCATION
+Heisterbacherrott	LOCATION
+Jerxen-Orbke	LOCATION
+Krs. Detmold	LOCATION
+Merzhausen	LOCATION
+Mistelbach	LOCATION
+Krs. Bayreuth	LOCATION
+Solingen-Ohligs	LOCATION
+Stadthagen	LOCATION
+Kirchmöser	LOCATION
+Schöningen	LOCATION
+Lendershausen	LOCATION
+Reetz	LOCATION
+Frankenthal	LOCATION
+Fallingbostel	LOCATION
+Wissen	LOCATION
+Krs. Altenkirchen	LOCATION
+Lengerich	LOCATION
+Perpignan	LOCATION
+Frankreich	LOCATION
+Pforzheim	LOCATION
+Holzhausen bei Homberg	LOCATION
+Krs. Fritzlar	LOCATION
+Laubusch	LOCATION
+Krs. Hoyerswerda, Bez. Cottbus	LOCATION
+Hamburg-Neustadt	LOCATION
+Wittenberge	LOCATION
+Obernzenn, Landkrs. Neustadt/Aisch-Bad Windsheim	LOCATION
+Würgendorf	LOCATION
+Allendorf	LOCATION
+Sprendlingen	LOCATION
+Halsbrücke	LOCATION
+Schwabhausen bei München	LOCATION
+Altentreptow	LOCATION
+Gellersen	LOCATION
+Gassen	LOCATION
+Hanau	LOCATION
+Hohen Neuendorf	LOCATION
+Rudelstetten	LOCATION
+Barbecke	LOCATION
+Niederselters	LOCATION
+Horbach	LOCATION
+Jahnishausen	LOCATION
+Lockweiler	LOCATION
+Lockweiler ü. Wadern	LOCATION
+Vockenhausen	LOCATION
+Baesweiler	LOCATION
+Geilenkirchen	LOCATION
+Löningen	LOCATION
+Brotdorf	LOCATION
+Oberheiduk	LOCATION
+Lollar	LOCATION
+Erdhausen	LOCATION
+Nahbollenbach	LOCATION
+Krs. Birkenfeld	LOCATION
+Altenheideck	LOCATION
+Heuckewalde	LOCATION
+Packebusch	LOCATION
+Krs.Stendal, Bez.Magdeburg, S.-Anhalt	LOCATION
+Nukualofa	LOCATION
+Tonga-Insel, Südsee	LOCATION
+Bad Homburg	LOCATION
+St. Tönis	LOCATION
+Krs. Viersen	LOCATION
+Altenplos	LOCATION
+Leonberg	LOCATION
+Hille	LOCATION
+Bremen-Aumund	LOCATION
+Uehrde	LOCATION
+Haiger	LOCATION
+Neurettendorf/ Krs.Königinhof,später Krs.Trautenau	LOCATION
+(damalige) CSR	LOCATION
+Wilhelminenhof	LOCATION
+Hammelwardersand	LOCATION
+Mossenberg	LOCATION
+Sellstedt	LOCATION
+Osterode	LOCATION
+Blankenfelde	LOCATION
+Frohburg	LOCATION
+Neustadt	LOCATION
+Ostsee	LOCATION
+Geisa	LOCATION
+Krs. Bad Salzungen	LOCATION
+Wilmersdorf	LOCATION
+Schwabach	LOCATION
+Fredeburg	LOCATION
+Hemmehübel	LOCATION
+Nordböhmen	LOCATION
+Treuburg	LOCATION
+Menden	LOCATION
+Gau-Bischofsheim	LOCATION
+Wörrstadt	LOCATION
+Seifersdorf	LOCATION
+Kulm	LOCATION
+Weichsel	LOCATION
+Kroppenstedt	LOCATION
+Garbisdorf	LOCATION
+Sanya-Moshi	LOCATION
+Tansania	LOCATION
+Lützen	LOCATION
+Niederhöchstadt	LOCATION
+b. Bad Soden	LOCATION
+Leubsdorf	LOCATION
+Innsbruck	LOCATION
+Stade	LOCATION
+Oberstetten	LOCATION
+Krs. Münsingen (Württemberg)	LOCATION
+Emanuelssegen	LOCATION
+Bad Bibra	LOCATION
+Warbeyen	LOCATION
+Niedersimten	LOCATION
+Rheinpfalz	LOCATION
+Rödern	LOCATION
+Krs. Simmern	LOCATION
+Gimbsheim	LOCATION
+Proschwitz	LOCATION
+Königslutter	LOCATION
+Krs. Helmstedt	LOCATION
+Dorfen	LOCATION
+Salzburg	LOCATION
+Herxheim	LOCATION
+Zirke	LOCATION
+Warthe	LOCATION
+Lohburg	LOCATION
+Krs. Zerbst, Bez. Magdeburg	LOCATION
+Warendorf	LOCATION
+Rahway	LOCATION
+New Jersey	LOCATION
+USA	LOCATION
+Niklasdorf	LOCATION
+Tiebensee	LOCATION
+Damme	LOCATION
+Schluckenau	LOCATION
+CSFR	LOCATION
+Creglingen	LOCATION
+Brettach	LOCATION
+Rückers	LOCATION
+Krs. Glatz 	LOCATION
+Kehl am Rhein	LOCATION
+Limbergen	LOCATION
+Schierling	LOCATION
+Lich	LOCATION
+Krs. Gießen	LOCATION
+Ponitz	LOCATION
+Krs. Altenburg	LOCATION
+Myslowitz	LOCATION
+Sagan	LOCATION
+Brücken	LOCATION
+Emmenhausen	LOCATION
+Oberwiesenbach	LOCATION
+Krs. Krumbach (Schwaben)	LOCATION
+Ratheim	LOCATION
+Schwarzenbach	LOCATION
+Kapfing	LOCATION
+Halberstadt	LOCATION
+Hornbostel	LOCATION
+Krs. Stormarn	LOCATION
+Kempen	LOCATION
+Eigenheim	LOCATION
+Krs. Hohensalza (Posen)	LOCATION
+Leichlingen	LOCATION
+Coburg	LOCATION
+Nürtingen	LOCATION
+Dirgenheim	LOCATION
+Franken	LOCATION
+Katzenelnbogen	LOCATION
+Taunus	LOCATION
+Weilmünster	LOCATION
+Merseburg	LOCATION
+Wehm	LOCATION
+Berkenbrück	LOCATION
+Honrath	LOCATION
+Oelsnitz	LOCATION
+Lichtenstein	LOCATION
+Bezirk Chemnitz	LOCATION
+Brunsbüttel	LOCATION
+Wickede	LOCATION
+Hetschbach	LOCATION
+Witschenske	LOCATION
+Krs. Lissa	LOCATION
+Niederwartha	LOCATION
+Parberg	LOCATION
+Maria- Kulm	LOCATION
+Egerland	LOCATION
+Weepers	LOCATION
+Berndorf	LOCATION
+Krs. Waldeck	LOCATION
+Oebisfelde	LOCATION
+Mansfeld	LOCATION
+Südharz	LOCATION
+Meischenstorf	LOCATION
+Zimdarse	LOCATION
+Sonsfeld	LOCATION
+Röthenbach bei St. Wolfgang	LOCATION
+Baak	LOCATION
+Stadtbergen Krs. Augsburg	LOCATION
+Teplitz-Schönau	LOCATION
+Breiholz	LOCATION
+Kreis Augsburg	LOCATION
+Lauchhammer	LOCATION
+Kreis Senftenberg	LOCATION
+Heideck	LOCATION
+Rickelshof	LOCATION
+Lindau	LOCATION
+Kreis Kulmbach	LOCATION
+Oldenburg i. O.	LOCATION
+Heide	LOCATION
+Wimmental	LOCATION
+Krs. Heilbronn	LOCATION
+Übach	LOCATION
+Rehberg-Schätzenreith	LOCATION
+Neermoor	LOCATION
+Bunzlau	LOCATION
+Rhede	LOCATION
+Ratingen	LOCATION
+Krs. Düsseldorf-Mettmann	LOCATION
+Trieglaff	LOCATION
+Vahnerow	LOCATION
+Zürich	LOCATION
+Sauerland	LOCATION
+Kromau	LOCATION
+Heisfelde	LOCATION
+Landkrs. Leer	LOCATION
+Dörnholthausen	LOCATION
+Grebin	LOCATION
+Herbrechtingen	LOCATION
+Polen	LOCATION
+Ahlerstedt	LOCATION
+Olbg.	LOCATION
+Keetmanshoop	LOCATION
+Südwestafrika	LOCATION
+Vorderbüchelberg	LOCATION
+Boroc	LOCATION
+Fenne	LOCATION
+Kossa	LOCATION
+Bitterfeld	LOCATION
+Wildenhain	LOCATION
+Krs. Großenhain	LOCATION
+Elmshorn	LOCATION
+Schleswig-Holstein	LOCATION
+Finnentrop	LOCATION
+Bad Gottleuba	LOCATION
+Kreis Pirna, Sachsen	LOCATION
+Grottham	LOCATION
+Eibenstock	LOCATION
+Brunebeck	LOCATION
+Dortmund-Dorstfeld	LOCATION
+Lohne	LOCATION
+Ems	LOCATION
+Uerdingen	LOCATION
+Freienwalde	LOCATION
+Aldekerk	LOCATION
+Oberspay	LOCATION
+Krs. St. Goar	LOCATION
+Herrlich	LOCATION
+Haus Kalbeck bei Goch	LOCATION
+NRW-Kleve, Weeze	LOCATION
+Hahnenknoop	LOCATION
+Gadderbaum	LOCATION
+Hindenburg	LOCATION
+Gelnhausen	LOCATION
+Schirgiswalde	LOCATION
+Sonthofen	LOCATION
+Hälse	LOCATION
+Oder	LOCATION
+Northeim	LOCATION
+Winsen	LOCATION
+Luhe	LOCATION
+Hagen-Vorhalle	LOCATION
+Wredensitz	LOCATION
+Eubigheim	LOCATION
+Esenshamm	LOCATION
+Niederlinxweiler	LOCATION
+Freiberg	LOCATION
+Deggenau	LOCATION
+Frauenthal	LOCATION
+Gronau	LOCATION
+Oberrohr	LOCATION
+Schloß Zeil	LOCATION
+Habighorst bei Celle	LOCATION
+Flatow	LOCATION
+Ordruf	LOCATION
+Cochem	LOCATION
+Andernach	LOCATION
+Bytow	LOCATION
+Uckermark	LOCATION
+Lodz	LOCATION
+Swinemünde	LOCATION
+Scheibelsgrub	LOCATION
+Untersontheim	LOCATION
+Georgenau	LOCATION
+Bad Kissingen	LOCATION
+Arenberg bei Koblenz	LOCATION
+Hiddesen	LOCATION
+Friedewalde-Wegholm	LOCATION
+Tirschenreuth	LOCATION
+Bingen	LOCATION
+Gießhübel	LOCATION
+Karlsbad (Sudetenland)	LOCATION
+Lublinitz	LOCATION
+Donauwörth	LOCATION
+Sülzbach	LOCATION
+Landkrs. Heilbronn	LOCATION
+Tangermünde	LOCATION
+Olpe	LOCATION
+Welschen Ennest	LOCATION
+Krs. Olpe	LOCATION
+Krs. Saulgau	LOCATION
+Mildenau	LOCATION
+Wiesloch	LOCATION
+Münder	LOCATION
+Asperheide	LOCATION
+Ippinghausen	LOCATION
+Travemünde	LOCATION
+Sorau	LOCATION
+Velmede	LOCATION
+Gerlingen	LOCATION
+Westerland	LOCATION
+Dierstorf	LOCATION
+Schlewecke	LOCATION
+Teplitz	LOCATION
+Hafenlohr	LOCATION
+Straußberg	LOCATION
+Mark	LOCATION
+Orla	LOCATION
+Buxtehude	LOCATION
+Steinen	LOCATION
+Auerbach	LOCATION
+Betzdorf	LOCATION
+Sieg	LOCATION
+Lindenpütz bei Rosbach	LOCATION
+Gevelsberg	LOCATION
+Bernkastel-Kues	LOCATION
+Grevenbroich	LOCATION
+Verne	LOCATION
+Meerane	LOCATION
+Neuötting	LOCATION
+Bolkenhain	LOCATION
+Aerzen bei Hameln	LOCATION
+Fröhstockheim	LOCATION
+Altsiwatz	LOCATION
+Allenstein	LOCATION
+Stolp	LOCATION
+Mönchengladbach-Rheydt	LOCATION
+Grevenhagen	LOCATION
+Heringen	LOCATION
+Werra	LOCATION
+Höfen	LOCATION
+Kreis Neustadt	LOCATION
+Plan bei Marienbad	LOCATION
+Fuchsberg	LOCATION
+Tännesberg	LOCATION
+Krs. Neustadt-WN, Bayern	LOCATION
+Lüblow	LOCATION
+Ludwigslust	LOCATION
+Stuttgart-Möhringen	LOCATION
+Woldegk	LOCATION
+Denzlingen	LOCATION
+Oberkirch	LOCATION
+Bruch	LOCATION
+Stommeln	LOCATION
+Erftkreis	LOCATION
+Beverungen	LOCATION
+Reval	LOCATION
+Bad Wiessee	LOCATION
+Lüttringhausen	LOCATION
+Iserlohn-Hennen	LOCATION
+Märkischer Kreis	LOCATION
+Olmütz	LOCATION
+Saal	LOCATION
+Donau (Bayern)	LOCATION
+Triebes	LOCATION
+Prien	LOCATION
+Krs. Rosenheim, Oberbayern	LOCATION
+Wiesbaden-Rambach	LOCATION
+Lingau	LOCATION
+Tiedmannsdorf	LOCATION
+Lintach, Landkrs. Amberg	LOCATION
+Weiten	LOCATION
+Brackwede	LOCATION
+Sangerhausen	LOCATION
+Obernburg	LOCATION
+Niendorf	LOCATION
+Krs. Ludwigslust	LOCATION
+Enger	LOCATION
+Saleschen	LOCATION
+Ensdorf	LOCATION
+Pommelsbrunn	LOCATION
+Immenstadt	LOCATION
+Klum	LOCATION
+Kreis Böhmisch Leipa	LOCATION
+Starnberg	LOCATION
+Stuttgart-Bad Cannstadt	LOCATION
+Calvörde	LOCATION
+Falkenstein	LOCATION
+Neuendettelsau	LOCATION
+Rochlitz	LOCATION
+Holthusen	LOCATION
+Krs. Wiedenbrück	LOCATION
+Unterweser	LOCATION
+Neudorf	LOCATION
+Greußen	LOCATION
+Krs. Sondershausen	LOCATION
+Imsum	LOCATION
+Krs. Cuxhaven, Niedersachsen	LOCATION
+Nördlingen	LOCATION
+Schneeberg	LOCATION
+Letmathe	LOCATION
+Gunzenhausen	LOCATION
+Landkrs. Weißenburg-Gunzenhausen	LOCATION
+Ulrichstein-Helpershain	LOCATION
+Bad Dürrheim	LOCATION
+Westhavelland	LOCATION
+Uedem	LOCATION
+Kreis Kleve	LOCATION
+Zeitz	LOCATION
+Wölkau	LOCATION
+Kreis Merseburg	LOCATION
+Niedergrenzebach	LOCATION
+Steinfurt	LOCATION
+Kleve	LOCATION
+Aumühle bei Hamburg	LOCATION
+Volkach	LOCATION
+Berlin-Kreuzberg	LOCATION
+Eickelborn	LOCATION
+Kreis Soest	LOCATION
+Pleinting	LOCATION
+Lkr. Passau	LOCATION
+Krs. Aurich	LOCATION
+Neumarkt	LOCATION
+Bischofferode	LOCATION
+Krs. Worbis, Bez. Erfurt	LOCATION
+Metzingen	LOCATION
+Adorf	LOCATION
+Tomaschow	LOCATION
+Kirrlach	LOCATION
+Emmerich	LOCATION
+Kreis Rees	LOCATION
+Buttstädt	LOCATION
+Holthausen	LOCATION
+Landkreis Emsland	LOCATION
+Zingst	LOCATION
+Ostseebad	LOCATION
+Böhlen	LOCATION
+Kausche	LOCATION
+Spree-Neiße-Kreis	LOCATION
+Königswalde	LOCATION
+Kreis Oststernberg	LOCATION
+Leun	LOCATION
+Lahn-Dill-Kreis	LOCATION
+Stralsund	LOCATION
+Krakow	LOCATION
+Krs. Güstrow	LOCATION
+Altbeelitz	LOCATION
+Krs. Friedeberg, Hinterpommern	LOCATION
+Storkow	LOCATION
+Krs. Pasewalk	LOCATION
+Prieros, Krs. Beeskow	LOCATION
+Storkow, Brandenburg	LOCATION
+Lorsch	LOCATION
+Krs. Bergstraße	LOCATION
+Harsefeld	LOCATION
+Gemünden am Main	LOCATION
+Berlin-Weißensee	LOCATION
+Krumbach	LOCATION
+Wulfen	LOCATION
+Bischofswerda	LOCATION
+Bad Urach	LOCATION
+Denkwitz	LOCATION
+Bautzen	LOCATION
+Bergweiler	LOCATION
+Hockenheim	LOCATION
+Sigmaringen	LOCATION
+Bunde	LOCATION
+Meckenheim	LOCATION
+Rennau	LOCATION
+Heckershausen	LOCATION
+Niederelbert	LOCATION
+Kirchhundem-Flape	LOCATION
+Rendsburg	LOCATION
+Grünstadt	LOCATION
+Mengen	LOCATION
+Krs. Sigmaringen	LOCATION
+Hitzhofen	LOCATION
+Uffenheim	LOCATION
+Meschede	LOCATION
+Boltenhagen	LOCATION
+Berg	LOCATION
+Langenfeld	LOCATION
+Monheim	LOCATION
+Delitzsch	LOCATION
+Ballenstedt	LOCATION
+Krs. Quedlinburg, Harz	LOCATION
+Everswinkel	LOCATION
+Boeken	LOCATION
+Krs. Schwerin	LOCATION
+Roßla	LOCATION
+Augsdorf	LOCATION
+Mansfelder Land	LOCATION
+Dernau	LOCATION
+Krs. Ahrweiler	LOCATION
+Münsingen	LOCATION
+Lobenstein	LOCATION
+Bez. Gera	LOCATION
+Gudensberg	LOCATION
+Urberach	LOCATION
+Rahmel	LOCATION
+Oberlucken	LOCATION
+Wahlen	LOCATION
+Schwandorf	LOCATION
+Lobsdorf	LOCATION
+Deutsch-Gabel	LOCATION
+Itzehoe	LOCATION
+Stein bei Nürnberg	LOCATION
+Horb am Neckar	LOCATION
+Lennestadt-Meggen	LOCATION
+Heimbuchenthal	LOCATION
+Gablenz	LOCATION
+Radom	LOCATION
+Oberbubach	LOCATION
+Lautenhausen	LOCATION
+Tuchenbach	LOCATION
+Neuenbürg	LOCATION
+Enzkreis	LOCATION
+Hahnenklee-Bockswiese	LOCATION
+Wilkau	LOCATION
+Haßlau	LOCATION
+Feldkirchen- Westerhang	LOCATION
+Landkreis Rosenheim	LOCATION
+Großräschen-Süd	LOCATION
+Annaberg-Buchholz	LOCATION
+Rheinberg	LOCATION
+Kalletal-Bentorf	LOCATION
+Quetzen	LOCATION
+Kreis Minden-Lübecke	LOCATION
+Hattingen	LOCATION
+Ennepe-Ruhr-Kreis	LOCATION
+Kalletal-Varenholz	LOCATION
+Kreis Lippe	LOCATION
+Dinklar	LOCATION
+Kreis Hildesheim	LOCATION
+Kreis Tuttlingen	LOCATION
+Hettstedt	LOCATION
+Gillrath	LOCATION
+Tokat	LOCATION
+Türkei	LOCATION
+Krs. Grafschaft Bentheim, NDS	LOCATION
+Lorch	LOCATION
+Ostalbkreis, Baden-Württemberg	LOCATION
+Hofheim-Taunus	LOCATION
+Kreis Bad Kissingen, Unterfranken	LOCATION
+Bessarabien	LOCATION
+Karlsruhe-Land	LOCATION
+Collmen	LOCATION
+Mettmann	LOCATION
+Naila	LOCATION
+Landkreis Hof, Oberfranken	LOCATION
+Badersleben	LOCATION
+Kreis Oschersleben	LOCATION
+Haverlah	LOCATION
+Landkreis Wolfenbüttel	LOCATION
+Reichau	LOCATION
+Speinshard	LOCATION
+Friedrichroda	LOCATION
+Geversmühlen	LOCATION
+Mecklenburg-Vorpommen	LOCATION
+Groß Schwansee	LOCATION
+Olpe-Westfalen	LOCATION
+Elsterwerder-Biehla	LOCATION
+Neustrelitz	LOCATION
+Hirsau-Calw	LOCATION
+Harxheim	LOCATION
+Krothmaißling	LOCATION
+Mengeringhausen	LOCATION
+Krs. Waldeck-Frankenberg, Hessen	LOCATION
+Lehrte bei Hannover	LOCATION
+Königs Wusterhausen	LOCATION
+Dahme-Mark	LOCATION
+Klosterneuendorf	LOCATION
+Kreis Garderlegen	LOCATION
+Daun	LOCATION
+Lenting	LOCATION
+Graal-Müritz	LOCATION
+Neubrandenburg	LOCATION
+Barby	LOCATION
+Kiehl	LOCATION
+Wald-Michelbach	LOCATION
+Garmisch-Partenkirschen	LOCATION
+Kreuzebra	LOCATION
+Kreis Worbis	LOCATION
+Mendig	LOCATION
+Bad Frankenhausen	LOCATION
+Kyffheuserkreis, Thüringen	LOCATION
+Mehrstedt	LOCATION
+Luckenwalde	LOCATION
+Siek	LOCATION
+Kreis Stormarn, Schleswig-Holstein	LOCATION
+Saalstadt	LOCATION
+Klostermansfeld	LOCATION
+Landkreis Mansfelder Land	LOCATION
+Lutherstadt Wittenberg	LOCATION
+Töging	LOCATION
+Inn	LOCATION
+Heyrothsberge	LOCATION
+Ebersberg	LOCATION
+Warstein	LOCATION
+Langwedel, Verden	LOCATION
+Weida	LOCATION
+Ems, Niedrsachsen	LOCATION
+Kettwig	LOCATION
+Emmendingen	LOCATION
+Feiburg	LOCATION
+Groß-Gerau	LOCATION
+Kreis Groß-Gerau	LOCATION
+Gaschwitz Kreis Leipzig-Land	LOCATION
+Ehingen- Berkach	LOCATION
+Bad Mergentheim	LOCATION
+Mügeln	LOCATION
+Kreis Oschatz	LOCATION
+Gössitz	LOCATION
+Kurtscheid	LOCATION
+Weißenburg	LOCATION
+Wolmirstedt	LOCATION
+Weißandt- Gölzau	LOCATION
+Stedten	LOCATION
+Kreis Eisleben	LOCATION
+Schnaittenbach	LOCATION
+Goch	LOCATION
+Limburg a. d. Lahn	LOCATION
+Bovenden bei Göttingen	LOCATION
+Istanbul	LOCATION
+Frohnstetten	LOCATION
+Kreis Sigmaringen	LOCATION
+Kleinmachnow	LOCATION
+Karl-Marx-Stadt	LOCATION
+Bork bei Münster	LOCATION
+Bonndorf	LOCATION
+Peißenberg	LOCATION
+Dörentrup	LOCATION
+Moers	LOCATION
+Bad Rothenfelde	LOCATION
+Verden an der Aller	LOCATION
+Wipperfürth	LOCATION
+Künzelsau	LOCATION
+Morlautern	LOCATION
+Rauenzell	LOCATION
+Landkreis Ansbach	LOCATION
+Esslingen am Neckar	LOCATION
+Usingen	LOCATION
+Wackernheim	LOCATION
+Großengottern	LOCATION
+Brakel	LOCATION
+Kreis Höxter	LOCATION
+Reichenbach im Vogtland	LOCATION
+Einbeck	LOCATION
+Villingen-Schw.	LOCATION
+Eigeltingen	LOCATION
+Roding	LOCATION
+Mitwitz	LOCATION
+Barenburg	LOCATION
+Landkreis Diepholz	LOCATION
+Gerstungen	LOCATION
+Tanndorf	LOCATION
+Evanston	LOCATION
+Mailand	LOCATION
+Italien	LOCATION
+Bad Pyrmont	LOCATION
+Altötting	LOCATION
+Burghausen	LOCATION
+Baiersbronn	LOCATION
+Forbach	LOCATION
+Salzkotten	LOCATION
+Kreis Büren	LOCATION
+Tapfheim	LOCATION
+Donau-Ries	LOCATION
+Münden	LOCATION
+Lauf a. d. Pegnitz	LOCATION
+Kamenz	LOCATION
+Godern	LOCATION
+Neu-Lübstorf	LOCATION
+Burgheim, Kreis Neuburg	LOCATION
+Rössing	LOCATION
+Kreis Springe	LOCATION
+Mutlangen	LOCATION
+Seelscheid	LOCATION
+Rahden	LOCATION
+Geinsheim	LOCATION
+Kaufbeuren	LOCATION
+Erkenrechtsweiler	LOCATION
+Schwäbische Alb	LOCATION
+Waldthurn	LOCATION
+Jagertow	LOCATION
+Kreis Belgrad (Pommern)	LOCATION
+Ohrbeck	LOCATION
+Peitz	LOCATION
+Möhnsee-Körbecke	LOCATION
+Adelaide	LOCATION
+Stirpe	LOCATION
+Hardheim	LOCATION
+Rielasingen	LOCATION
+Kemmern	LOCATION
+Lkr. Bamberg	LOCATION
+Ahaus	LOCATION
+Kleinvollstedt	LOCATION
+Dannenberg	LOCATION
+Kleinsaara	LOCATION
+Woltersdorf	LOCATION
+Helmern	LOCATION
+Werdau	LOCATION
+Potsdam-Babelsberg	LOCATION
+Bülkau	LOCATION
+Berlin-Lichterfelde	LOCATION
+Norderney	LOCATION
+Oberhochstatt	LOCATION
+Bardenberg	LOCATION
+Sömmerda	LOCATION
+Pülümür	LOCATION
+Albstadt-Ebingen	LOCATION
+Bad Langensalza	LOCATION
+Hersbruck	LOCATION
+Zollbrück	LOCATION
+Kreis Rummelsburg	LOCATION
+Goslar	LOCATION
+Lützkampen	LOCATION
+Biberach an der Riß	LOCATION
+Schwedt	LOCATION
+Bobingen	LOCATION
+Olbernhau	LOCATION
+Heusweiler	LOCATION
+Herborn	LOCATION
+Unkel	LOCATION
+Altenoythe	LOCATION
+Jübar	LOCATION
+Erbach	LOCATION
+Rheingau	LOCATION
+Koprvnica	LOCATION
+Kroatien	LOCATION
+Macka	LOCATION
+Nahne	LOCATION
+Heidenheim	LOCATION
+Brenz	LOCATION
+Bad Bramstedt	LOCATION
+Aichach	LOCATION
+Ochsenfurt	LOCATION
+Schlema	LOCATION
+Eppelborn	LOCATION
+Illingen	LOCATION
+Otterndorf	LOCATION
+Freekenhorst	LOCATION
+Prisser	LOCATION
+Osterholz-Scharmbeck	LOCATION
+Coesfeld	LOCATION
+Ribnitz- Damgarten	LOCATION
+Cottbus	LOCATION
+Großkorbetha	LOCATION
+Kreis Weißenfels	LOCATION
+Korschenbroich	LOCATION
+Vreden	LOCATION
+Jüchen	LOCATION
+Kreis Neuss	LOCATION
+Schwarzberg	LOCATION
+Eichstätt	LOCATION
+Obb	LOCATION
+Waltrop	LOCATION
+Waldshut	LOCATION
+Oberaudorf	LOCATION
+Ottweiler	LOCATION
+Schmalkalden	LOCATION
+Krusel	LOCATION
+Rems-Murr	LOCATION
+Basel	LOCATION
+Pasewalk	LOCATION
+Isselburg	LOCATION
+Langholt	LOCATION
+Teheran	LOCATION
+Iran	LOCATION
+Hangard	LOCATION
+Hilten	LOCATION
+Bad Salzuflen	LOCATION
+Bad Salzungen	LOCATION
+Aue	LOCATION
+Belzig	LOCATION
+Kyffhäuser	LOCATION
+Reinbek	LOCATION
+Oerel	LOCATION
+Eppstein	LOCATION
+Ts.	LOCATION
+Wunstorf OT Idensen	LOCATION
+Walsum 	LOCATION
+Börde	LOCATION
+Schongau	LOCATION
+Bergen	LOCATION
+Großburgwedel	LOCATION
+Lauenburg/Elbe	LOCATION
+Staßfurt	LOCATION
+Wiedenbrück	LOCATION
+Halle (Westf.)	LOCATION
+Meerane (Sachsen)	LOCATION
+Teheran/Iran	LOCATION
+Rimsting	LOCATION
+Höpfingen	LOCATION
+Hofheim am Taunus	LOCATION
+Rheydt 	LOCATION
+Paris	LOCATION
+Weiding	LOCATION
+Hopsten	LOCATION
+Mittelberg	LOCATION
+Pfullendorf	LOCATION
+Malatya	LOCATION
+Dingen 	LOCATION
+Bassum	LOCATION
+Damm	LOCATION
+Schleiz	LOCATION
+Johannisberg	LOCATION
+Zülpich	LOCATION
+Neuburg a. d. Donau	LOCATION
+Vorsfelde	LOCATION
+Meran (Südtirol)	LOCATION
+Brüssel	LOCATION
+Herzberg/Elster	LOCATION
+Grünwald	LOCATION
+Marsberg	LOCATION
+Oldenburg (Oldb.)	LOCATION
+Elsterwerda	LOCATION
+Verden (Aller)	LOCATION
+Jülich	LOCATION
+Lebach	LOCATION
+Frankfurt am Main	LOCATION
+Vetschau	LOCATION
+Trier-Kürenz	LOCATION
+Mölln	LOCATION
+Jugenheim	LOCATION
+Altenrheine, Rheine	LOCATION
+Most	LOCATION
+Schwäblishausen	LOCATION
+Illertissen	LOCATION
+Sassenberg	LOCATION
+Ellenbach	LOCATION
+Kyllburg	LOCATION
+Freiburg im Breisgau	LOCATION
+Weil am Rhein	LOCATION
+Andernach/Rhein	LOCATION
+Nienburg  (Weser)	LOCATION
+Ochsenhausen	LOCATION
+Schippach 	LOCATION
+Arnsgereuth	LOCATION
+Dreiborn bei Schleiden	LOCATION
+Schwandorf/Bayern	LOCATION
+Marktoberdorf	LOCATION
+Lübz	LOCATION
+Prenzlau	LOCATION
+Wittingen	LOCATION
+Kempten (Allgäu)	LOCATION
+Fatsa	LOCATION
+Husum	LOCATION
+Wesel I	LOCATION
+Büdingen/Oberhessen	LOCATION
+Marburg/Lahn	LOCATION
+Rulle	LOCATION
+Haren an der Ems	LOCATION
+Sinsheim	LOCATION
+Hückeswagen	LOCATION
+Wyk auf Föhr	LOCATION
+Welver-Meyerich	LOCATION
+Endingen	LOCATION
+Ulm/Donau	LOCATION
+Bevern	LOCATION
+Nienburg (Weser)	LOCATION
+Braubach	LOCATION
+Sendenhorst	LOCATION
+Marsassoum, Senegal	LOCATION
+Hagen (Westfalen)	LOCATION
+Agnetheln	LOCATION
+Böhmenkirch	LOCATION
+Luhdorf	LOCATION
+Drevenack	LOCATION
+Bad Griesbach i. Rottal	LOCATION
+Porz am Rhein	LOCATION
+Alpen	LOCATION
+Ludwigshafen am Rhein	LOCATION
+Landau in der Pfalz	LOCATION
+Osterburken	LOCATION
+Leinefelde	LOCATION
+Halle (Saale)	LOCATION
+Aken/Elbe	LOCATION
+Bedburg	LOCATION
+Kronberg im Taunus	LOCATION
+Stadtsteinach	LOCATION
+Neustadt an der Weinstraße	LOCATION
+Köfering	LOCATION
+Bauhaus	LOCATION
+Rodewisch	LOCATION
+Altmugl, Gem. Neualbenreuth	LOCATION
+Oldenburg (Oldenburg)	LOCATION
+Waldbröl	LOCATION
+Lienen	LOCATION
+Cleveland, USA	LOCATION
+Schneverdingen	LOCATION
+Alzenau-Wasserlos	LOCATION
+Kelkit, Türkei	LOCATION
+Harmonie 	LOCATION
+Koblenz-Moselweiß	LOCATION
+Vilsbiburg	LOCATION
+Gifhorn	LOCATION
+Frankfurt (Oder)	LOCATION
+Russland	LOCATION
+Havelland	LOCATION
+Heringsdorf	LOCATION
+Minden-Lübbecke	LOCATION
+Neustadt a.d. Waldnaab	LOCATION
+Krefeld-Hüls	LOCATION
+Saulgau	LOCATION
+Meißen/Sachsen	LOCATION
+Gemünden a.Main	LOCATION
+Warburg	LOCATION
+Hüls 	LOCATION
+Kernen im Remstal	LOCATION
+Westerstede	LOCATION
+Grafenhausen	LOCATION
+Alstätte 	LOCATION
+Berlin-Spandau	LOCATION
+Döbern	LOCATION
+Berleburg	LOCATION
+Erpen 	LOCATION
+Bad Dürkheim	LOCATION
+Haltern am See	LOCATION
+Yukaribalakur, Türkei	LOCATION
+Ober-Wöllstadt	LOCATION
+Volkmarsen	LOCATION
+Recke	LOCATION
+Nibbixwoud, Niederlande	LOCATION
+Ebernhahn	LOCATION
+Torgau	LOCATION
+Bendorf am Rhein	LOCATION
+Adana, Türkei	LOCATION
+Elten 	LOCATION
+Trostberg	LOCATION
+Kastek, Kasachstan	LOCATION
+Groß-Umstadt	LOCATION
+Welschen, Ennest	LOCATION
+Leutkirch im Allgäu	LOCATION
+Suhl	LOCATION
+Schrobenhausen	LOCATION
+Rösrath	LOCATION
+Lank-Latum 	LOCATION
+Ehlerstorf	LOCATION
+Thuine	LOCATION
+Pinarbaşi	LOCATION
+Skalica	LOCATION
+Ueckermünde	LOCATION
+Lutherstadt Eisleben	LOCATION
+Münster (Westf.)	LOCATION
+Buchholz in der Nordheide	LOCATION
+Böblingen	LOCATION
+Rhein-Neckar	LOCATION
+Simmerath	LOCATION
+Südpfalz	LOCATION
+Bad Bergzabern	LOCATION
+Gronau (Westf.)	LOCATION
+Weißwasser	LOCATION
+Pitesti, Rumänien	LOCATION
+Bonndorf im Schwarzwald	LOCATION
+Hofgeismar	LOCATION
+Premnitz	LOCATION
+Delmenhorst	LOCATION
+Bad Godesberg 	LOCATION
+Osterhofen	LOCATION
+Dillingen a. d. Donau	LOCATION
+Schwaz, Österreich	LOCATION
+Uspenska, Kasachstan	LOCATION
+Craiova	LOCATION
+Bad Homburg v. d. Höhe	LOCATION
+Arnswalde	LOCATION
+Gablonz an der Neiße	LOCATION
+Lüchow	LOCATION
+Woopen	LOCATION
+Mallersdorf-Pfaffenberg	LOCATION
+Räckelwitz	LOCATION
+Aulendorf	LOCATION
+Harsewinkel	LOCATION
+Sabelowka, Kasachstan	LOCATION
+Leisnig	LOCATION
+Hoyerswerda	LOCATION
+Homburg (Saar)	LOCATION
+Heimboldshausen	LOCATION
+Schliengen	LOCATION
+Gobabis, Namibia	LOCATION
+Bensberg 	LOCATION
+Moosburg a.d.Isar	LOCATION
+Wittmund	LOCATION
+Limburg a.d. Lahn	LOCATION
+Meran	LOCATION
+Wiesbaden-Sonnenberg	LOCATION
+St. Georgen im Schwarzwald	LOCATION
+Rütli, Schweiz	LOCATION
+Simmern/ Hunsrück	LOCATION
+Gräfelfing	LOCATION
+Erlabrunn	LOCATION
+Stolberg (Harz)	LOCATION
+Troisdorf-Sieglar	LOCATION
+Dollerupholz	LOCATION
+Mannheim-Neckarau	LOCATION
+Treuchtlingen	LOCATION
+Karl-Marx-Stadt 	LOCATION
+Verden (Niedersachsen)	LOCATION
+Gdynia, Polen	LOCATION
+Zell (Mosel)	LOCATION
+Lübberstedt	LOCATION
+Achern	LOCATION
+Dingolfing	LOCATION
+Munderkingen	LOCATION
+Freystadt	LOCATION
+Waldshut-Tiengen	LOCATION
+Hehlrath 	LOCATION
+Ettenheim	LOCATION
+Varto, Türkei	LOCATION
+Dachau	LOCATION
+Weingarten	LOCATION
+Marbach am Neckar	LOCATION
+Rhede (Westf.)	LOCATION
+Genthin	LOCATION
+Los Angeles	LOCATION
+Bad Tölz	LOCATION
+Siegen-Weidenau	LOCATION
+Menden (Sauerland)	LOCATION
+Herborn (Dillkreis)	LOCATION
+Neunkrichen (Saar)	LOCATION
+Ankara	LOCATION
+Schwetzingen	LOCATION
+Schorbus	LOCATION
+Deutschland	LOCATION
+Mühldorf a. Inn	LOCATION
+Bundesumweltamt	ORGANIZATION
+Bundeskriminalamt, Verfassungsgericht	ORGANIZATION
+Bundesgesundheitsamt	ORGANIZATION
+BMJFG	ORGANIZATION
+Bundeszentrale für gesundheitliche Aufklärung	ORGANIZATION
+Bundeszentrale für politische Bildung	ORGANIZATION
+Bund	ORGANIZATION
+BÜNDNISSES 90/DIE GRÜNEN	ORGANIZATION
+DIE LINKE	ORGANIZATION
+CDU/CSU	ORGANIZATION
+Bundeswehr	ORGANIZATION
+Bundesregierung	ORGANIZATION
+Ältestenrat	ORGANIZATION
+Fraktion der SPD	ORGANIZATION
+SPD-Fraktion	ORGANIZATION
+Fraktion der CDU/CSU	ORGANIZATION
+CDU/CSU-Fraktion	ORGANIZATION
+CDU/CSU/DSU-Fraktion	ORGANIZATION
+Fraktion der CDU/CSU/DSU	ORGANIZATION
+Fraktion der AfD	ORGANIZATION
+AfD-Fraktion	ORGANIZATION
+Fraktion der FDP	ORGANIZATION
+FDP-Fraktion	ORGANIZATION
+Fraktion Die Linke	ORGANIZATION
+Fraktion DIE LINKE	ORGANIZATION
+Linksfraktion	ORGANIZATION
+Gruppe der PDS	ORGANIZATION
+PDS-Fraktion	ORGANIZATION
+Fraktion der PDS	ORGANIZATION
+Fraktion Bündnis 90/Die Grünen	ORGANIZATION
+Fraktion die Grünen	ORGANIZATION
+Fraktion die Grünen/Bündnis 90	ORGANIZATION
+Gruppe Bündnis 90/Die Grünen	ORGANIZATION
+DP-Fraktion	ORGANIZATION
+DP/DPB-Fraktion	ORGANIZATION
+DP-Gruppe	ORGANIZATION
+FVP-Bundestagsfraktion	ORGANIZATION
+Arbeitsgemeinschaft Freier Demokraten	ORGANIZATION
+Demokratische Arbeitsgemeinschaft	ORGANIZATION
+KPD-Fraktion	ORGANIZATION
+Gruppe der KPD	ORGANIZATION
+Fraktion der Föderalistischen Union	ORGANIZATION
+Fraktion des Zentrums	ORGANIZATION
+BP-Fraktion	ORGANIZATION
+WAV-Fraktion	ORGANIZATION
+Gruppe der WAV	ORGANIZATION
+GB/BHE-Fraktion	ORGANIZATION
+Deutscher Gemeinschaftsblock der Heimatvertriebenen und Entrechteten	ORGANIZATION
+Gruppe Nationale Rechte	ORGANIZATION
+Gruppe Kraft/Oberländer	ORGANIZATION
+CDU	ORGANIZATION
+Fraktion der Christlich Demokratischen Union/Christlich - Sozialen Union	ORGANIZATION
+FDP	ORGANIZATION
+Fraktion der Freien Demokratischen Partei	ORGANIZATION
+SPD	ORGANIZATION
+Fraktion der Sozialdemokratischen Partei Deutschlands	ORGANIZATION
+KPD	ORGANIZATION
+Fraktion der Kommunistischen Partei Deutschlands	ORGANIZATION
+DP	ORGANIZATION
+Fraktion Deutsche Partei	ORGANIZATION
+Fraktion der SPD (Gast)	ORGANIZATION
+CSU	ORGANIZATION
+DZP	ORGANIZATION
+Fraktion Deutsche Zentrums-Partei	ORGANIZATION
+FU	ORGANIZATION
+Fraktion Bayernpartei	ORGANIZATION
+Fraktion Föderalistische Union	ORGANIZATION
+Fraktionslos	ORGANIZATION
+GRÜNE	ORGANIZATION
+Fraktion Die Grünen	ORGANIZATION
+BP	ORGANIZATION
+Fraktion Deutsche Partei/Freie Volkspartei	ORGANIZATION
+BÜNDNIS 90/DIE GRÜNEN	ORGANIZATION
+Fraktion Die Grünen/Bündnis 90	ORGANIZATION
+GB/ BHE	ORGANIZATION
+Fraktion Gesamtdeutscher Block / Block der Heimatvertriebenen und Entrechteten	ORGANIZATION
+Fraktion der CDU/CSU (Gast)	ORGANIZATION
+Fraktion Demokratische Arbeitsgemeinschaft	ORGANIZATION
+Fraktion Freie Volkspartei	ORGANIZATION
+Fraktion Deutsche Partei/Deutsche Partei Bayern	ORGANIZATION
+DIE GRÜNEN/BÜNDNIS 90	ORGANIZATION
+PDS	ORGANIZATION
+Gruppe der Partei des Demokratischen Sozialismus	ORGANIZATION
+Gruppe der Partei des Demokratischen Sozialismus/Linke Liste	ORGANIZATION
+Fraktion der Partei des Demokratischen Sozialismus	ORGANIZATION
+Ausschuss für Wirtschaft und Energie	ORGANIZATION
+UA Regionale Wirtschaftspolitik und ERP-Wirtschaftspläne	ORGANIZATION
+PDS/LL	ORGANIZATION
+Verteidigungsausschuss	ORGANIZATION
+Ausschuss für Tourismus	ORGANIZATION
+UA Vereinte Nationen, internationale Organisationen und Globalisierung	ORGANIZATION
+DIE LINKE.	ORGANIZATION
+Fraktion DIE LINKE.	ORGANIZATION
+Ausschuss für die Angelegenheiten der Europäischen Union	ORGANIZATION
+UA Auswärtige Kultur- und Bildungspolitik	ORGANIZATION
+SRP	ORGANIZATION
+Fraktion Deutsche Reichspartei/Nationale Rechte	ORGANIZATION
+Fraktion WAV (Gast)	ORGANIZATION
+Plos	ORGANIZATION
+Fraktion der FDP (Gast)	ORGANIZATION
+Fraktion Deutscher Gemeinschaftsblock der Heimatvertriebenen und Entrechteten	ORGANIZATION
+WAV	ORGANIZATION
+Fraktion Wirtschaftliche Aufbauvereinigung	ORGANIZATION
+DRP	ORGANIZATION
+Fraktion DP/DPB (Gast)	ORGANIZATION
+Bundesministerium für Ernährung und Landwirtschaft	ORGANIZATION
+CSUS	ORGANIZATION
+Fraktion DRP (Gast)	ORGANIZATION
+Auswärtiger Ausschuss	ORGANIZATION
+Ausschuss für Inneres und Heimat	ORGANIZATION
+Ausschuss für Menschenrechte und humanitäre Hilfe	ORGANIZATION
+Ausschuss für Recht und Verbraucherschutz	ORGANIZATION
+Mitglieder des Gemeinsamen Ausschusses nach Artikel 53 a des Grundgesetzes	ORGANIZATION
+Mitglieder des Ausschusses nach Artikel 77 Abs. 2 des Grundgesetzes (Vermittlungsausschuss)	ORGANIZATION
+Mitglieder des Wahlausschusses für die vom Deutschen Bundestag zu berufenden Richter des Bundesverfassungsgerichts	ORGANIZATION
+Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung	ORGANIZATION
+Ausschuss für Kultur und Medien	ORGANIZATION
+Präsidium	ORGANIZATION
+Hauptausschuss	ORGANIZATION
+Kommission des ÄR für Bau- und Raumangelegenheiten	ORGANIZATION
+Ausschuss für Familie, Senioren, Frauen und Jugend	ORGANIZATION
+Ausschuss für Ernährung und Landwirtschaft	ORGANIZATION
+UA Bürgerschaftliches Engagement	ORGANIZATION
+DSU	ORGANIZATION
+Fraktion Deutsche Partei Bayern	ORGANIZATION
+Haushaltsausschuss	ORGANIZATION
+Bundeskanzleramt	ORGANIZATION
+DPB	ORGANIZATION
+Mitglieder der Arbeitsgruppe Wahlrechtsreform	ORGANIZATION
+Kunstbeirat	ORGANIZATION
+Deutsche Delegation in der Parlamentarischen Versammlung der NATO	ORGANIZATION
+Deutsche Delegation in der Interparlamentarischen Union	ORGANIZATION
+CVP	ORGANIZATION
+Gruppe Deutsche Partei	ORGANIZATION
+DPS	ORGANIZATION
+Finanzausschuss	ORGANIZATION
+Fraktion Deutsche Reichspartei	ORGANIZATION
+Bundesministerium  für Wirtschaft und Energie	ORGANIZATION
+Ausschuss für Wahlprüfung, Immunität u. Geschäftsordnung	ORGANIZATION
+Vertreter der Bundesrepublik Deutschland zur Parlamentarischen Versammlung des Europarates	ORGANIZATION
+Kommission des ÄR für die Angelegenheiten von Mitarbeiterinnen und Mitarbeitern der Abgeordneten	ORGANIZATION
+Schriftführer	ORGANIZATION
+Rechnungsprüfungsausschuss	ORGANIZATION
+Deutsche Delegation in der Parlamentarischen Versammlung der OSZE	ORGANIZATION
+UA zu Fragen der Europäischen Union	ORGANIZATION
+Sportausschuss	ORGANIZATION
+Kommission des ÄR für innere Angelegenheiten des Bundestages – Innere Kommission	ORGANIZATION
+Ausschuss für Arbeit und Soziales	ORGANIZATION
+1. UA des Verteidigungsausschuss	ORGANIZATION
+Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit	ORGANIZATION
+Kommission des ÄR für die Rechtsstellung der Abgeordneten	ORGANIZATION
+Parlamentarischer Beirat für nachhaltige Entwicklung	ORGANIZATION
+Bundesministerium für Bildung und Forschung	ORGANIZATION
+Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung	ORGANIZATION
+Ausschuss für Verkehr und digitale Infrastruktur	ORGANIZATION
+UA Zivile Krisenpräventionen, Konfliktbearb. und vernetztes Handeln	ORGANIZATION
+Ausschuss für Gesundheit	ORGANIZATION
+Mitglieder des Ausschusses für die Wahl der Richter der obersten Gerichtshöfe des Bundes (Richterwahlausschuss)	ORGANIZATION
+Kommission des ÄR für den Einsatz neuer Informations- und Kommunikationstechniken und -medien	ORGANIZATION
+Ausschuss Digitale Agenda	ORGANIZATION
+Enquete-Kommission "Künstliche Intelligenz – Gesellschaftliche Verantwortung und wirtschaftliche, soziale und ökologische Potenziale"	ORGANIZATION
+Ausschuss für Bildung, Forschung und Technikfolgenabschätzung	ORGANIZATION
+Bundesministerium für Arbeit und Soziales	ORGANIZATION
+Mitglieder des Beirats bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen	ORGANIZATION
+AfD	ORGANIZATION
+Alternative für Deutschland	ORGANIZATION
+Petitionsausschuss	ORGANIZATION
+Gremium des ÄR für den Haushalt 	ORGANIZATION
+Mitglieder des Vertrauensgremiums gemäß §10 a Abs. 2 der BHO	ORGANIZATION
+Bundesministerium der Finanzen	ORGANIZATION
+Bundesministerium der Justiz und für Verbraucherschutz	ORGANIZATION
+Enquete-Kommission "Berufliche Bildung in der digitalen Arbeitswelt"	ORGANIZATION
+Auswärtiges Amt	ORGANIZATION
+UA Abrüstung, Rüstungskontrolle und Nichtverbreitung	ORGANIZATION
+Mitglieder des Gremiums nach § 23 c Abs. 8 des Zollfahndungsdienstgesetzes	ORGANIZATION
+Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen	ORGANIZATION
+Ältestenrat / Vertreter der BR	ORGANIZATION
+Bundesministerium für Verkehr und digitale Infrastruktur	ORGANIZATION
+Mitglieder des Gremiums gemäß § 3 Abs 1 Bundesschuldenwesengesetz (Bundesfinanzierungsgremium)	ORGANIZATION
+Bundesministerium des Innern, für Bau und Heimat	ORGANIZATION
+Bundesministerium für Familie, Senioren, Frauen und Jugend	ORGANIZATION
+Mitglieder des Parlamentarischen Kontrollgremiums	ORGANIZATION
+1. Untersuchungsausschuss	ORGANIZATION
+Mitglieder des Gremiums nach Art.13 Abs. 6 Grundgesetz	ORGANIZATION
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit	ORGANIZATION
+Bundesministerium der Verteidigung	ORGANIZATION
+Bundesministerium für Gesundheit	ORGANIZATION
+Wahlprüfungsausschuss	ORGANIZATION
+UA Europarecht	ORGANIZATION
+2. Untersuchungsausschuss	ORGANIZATION
+Kinderkommission	ORGANIZATION
+UA Globale Gesundheit	ORGANIZATION
+Deutsche Delegation in der Parlamentarischen Versammlung der Schwarzmeerwirtschaftskooperation	ORGANIZATION
+Ausschuß für Wirtschaft und Energie	ORGANIZATION
+Ausschuß für Tourismus	ORGANIZATION
+Ausschuß für die Angelegenheiten der Europäischen Union	ORGANIZATION
+Ausschuß für Inneres und Heimat	ORGANIZATION
+Ausschuß für Menschenrechte und humanitäre Hilfe	ORGANIZATION
+Ausschuß für Recht und Verbraucherschutz	ORGANIZATION
+Ausschuß für wirtschaftliche Zusammenarbeit und Entwicklung	ORGANIZATION
+Ausschuß für Kultur und Medien	ORGANIZATION
+Ausschuß für Familie, Senioren, Frauen und Jugend	ORGANIZATION
+Ausschuß für Ernährung und Landwirtschaft	ORGANIZATION
+Ausschuß für Wahlprüfung, Immunität u. Geschäftsordnung	ORGANIZATION
+Ausschuß für Arbeit und Soziales	ORGANIZATION
+Ausschuß für Umwelt, Naturschutz und nukleare Sicherheit	ORGANIZATION
+Ausschuß für Verkehr und digitale Infrastruktur	ORGANIZATION
+Ausschuß für Gesundheit	ORGANIZATION
+Ausschuß Digitale Agenda	ORGANIZATION
+Ausschuß für Bildung, Forschung und Technikfolgenabschätzung	ORGANIZATION
+Ausschuß für Bau, Wohnen, Stadtentwicklung und Kommunen	ORGANIZATION
+Grundgesetz	MISC
+EWG-Vertrag	MISC
+Brexit	MISC
+Grexit	MISC
+Holocaust	MISC
+Agenda 2010	MISC
+Kerneuropa	MISC
