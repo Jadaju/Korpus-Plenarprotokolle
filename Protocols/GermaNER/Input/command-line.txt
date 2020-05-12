@@ -1,0 +1,9 @@
+Example of the command used to generate Stanford sentence split text file:
+
+    java -mx6g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-german.properties -file 01143.txt -outputFormat text
+	
+	
+The propterties file specified annotators:
+    -annotators tokenize,ssplit
+
+This data gets transformed into a GermaNER Input file using a python script.

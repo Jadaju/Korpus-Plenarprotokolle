@@ -1,0 +1,3 @@
+Example of a command line used to tag with GermaNER:
+
+java -Xmx4g -jar GermaNER-09-09-2015.jar -t 01143.txt -o GermaNER_output
